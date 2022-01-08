@@ -19,11 +19,18 @@ Overview of the newsletters sent to the PhD students of TNW by the [Data Steward
 - Podcast episode [‘Reproducible data science, how hard can it be?’](https://open.spotify.com/episode/1OVxFUA5UyIfMSCd842wjD?si=tEhJzufDROmOqsvJHsUPuw)
 - [ROpenSci webinar “The Wild World of Data Repositories”](https://ropensci.org/commcalls/dec2020-datarepos/)
 - [Webinar on transparency and qualitative data sharing](https://www.youtube.com/watch?v=DKkExQfwqpU) 
+- **file naming** 
+    - Do you run into [New_Final_FINAL_NEW_23_FuckingFinal.jpeg](https://twitter.com/chazhutton/status/1285955514241875968) troubles? 
+Have a look at [this presentation on naming things](https://speakerdeck.com/jennybc/how-to-name-files) or a [blogpost on how to make your files more findable](https://zapier.com/blog/organize-files-folders/). 
+    - Want to rename multiple files? 
+The [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) may save you a lot of time (but be careful with overwriting things)! 
+This [short data organisation/documentation manual](https://surfdrive.surf.nl/files/index.php/s/J6XOVPcUot1tiUl) can help you with file naming but also folder organisation. 
+- The [‘Quick Guide to Organizing Computational Biology Projects’](https://doi.org/10.1371/journal.pcbi.1000424) is relevant to all research projects and also goes into a bit more detail on **how to organise your files**. 
 
 # Software
 
 - [TU Delft programming workshops](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/software-carpentry-workshop)
-- **TU Delft Digital Competence Center**: Learn more about what [type of data/code support the DCC offers on their website](https://dcc.tudelft.nl/). 
+- **TU Delft Digital Competence Center**: Learn more about what [type of data/code support the DCC offers on their website](https://dcc.tudelft.nl/) 
 - [Code Refinery](https://coderefinery.org/)
 - [Binder workshop materials](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder)
 - [Aalto University resources on making your computational workflow more reproducible](https://scicomp.aalto.fi/scicomp/zen-of-scicomp/)
@@ -51,18 +58,17 @@ Overview of the newsletters sent to the PhD students of TNW by the [Data Steward
     - [Sign up for Tony Hirst’s newsletter](http://tinyletter.com/TrackingJupyter). 
     - [Practical Python course](https://dabeaz-course.github.io/practical-python/)
     - [Recordings from SciPy 2020](https://www.youtube.com/channel/UCkhm72fuzkS9fYGlGpEmj7A)
-        - See [talk on Frictionless Data](https://www.youtube.com/watch?v=vZAi4OnfH-Q) that introduces some tools to document your data more systematically and check your tabular data. 
+      - See [talk on Frictionless Data](https://www.youtube.com/watch?v=vZAi4OnfH-Q) that introduces some tools to document your data more systematically and check your tabular data. 
     - The [European Python Conference](https://www.youtube.com/user/PythonItalia) took place in July, and had some presentations on using Python to manage your projects: [‘Python table manners’](https://speakerdeck.com/leew/python-table-manners-cut-the-cookie-gracefully-at-euro-python-2020) and [‘Scientific Python Cookiecutter’](https://nsls-ii.github.io/scientific-python-cookiecutter/preliminaries.html)
     - [10 Python 3 features](https://twitter.com/svpino/status/1308632185113579522?s=03) that will change the way you are writing code today
     - ‘[Data Science in Python beginner course](https://github.com/semacu/data-science-python)’ 
     - Use emojis in Python: [pip install emoji](https://twitter.com/pybites/status/1323488121158356992)
     - Python libraries: [SMOP, a Matlab to Python compiler](https://github.com/victorlei/smop) and [spec2vec](https://github.com/iomega/spec2vec) for mass spectrometry data. 
-
 - **R**
     - UseR! 2020 presentations are available on the [useR! YouTube channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
-        - [how to make your paper/code more reproducible](https://www.youtube.com/watch?v=KHMW8fV2NXo) by Anna Krystalli (see [slides](https://annakrystalli.me/talks/user2020.html#1) and [materials](https://annakrystalli.me/rrresearchACCE20/))
-        - use the *here package* to make it easier for others to work with your code (see [this video](https://youtu.be/QYrdsjBvZN4)) 
-        - see GitHub to work collaboratively with others using version control, and use the *renv* and *drake packages* (see [this video](https://youtu.be/xrALIrUEshc))
+      - [how to make your paper/code more reproducible](https://www.youtube.com/watch?v=KHMW8fV2NXo) by Anna Krystalli (see [slides](https://annakrystalli.me/talks/user2020.html#1) and [materials](https://annakrystalli.me/rrresearchACCE20/))
+      - use the *here package* to make it easier for others to work with your code (see [this video](https://youtu.be/QYrdsjBvZN4)) 
+      - see GitHub to work collaboratively with others using version control, and use the *renv* and *drake packages* (see [this video](https://youtu.be/xrALIrUEshc))
     - [Open **R** Stream](http://www.wvbauer.com/doku.php/live_streams)
     - Short [podcast on using **Git/GitHub** (and R)](https://intertidal.agency/intertidal-podcast/2020/9/14/9-using-git-to-drive-better-science-with-dr-julie-lowndes), with nice resources to get started
     - [15 minute video on the R Package WORCS, Workflow for Open Reproducible Code in Science (WORCS)](https://www.youtube.com/watch?v=uzjpN_yFeUU)
@@ -89,6 +95,8 @@ Make sure that you set up an [ORCID](https://orcid.org/) so that you can always 
 - To learn more about Open Access, read [‘A Researcher’s Guide to Open Access Publishing’](https://www.openscience-rotterdam.com/2020/12/eur-oa/). 
 - Read more about [open and reproducible research in this blogpost/presentation](https://lgatto.github.io/open-and-rr-2/) by Laurent Gatto. 
 - ‘[Food for Psychologists](https://youtu.be/s4-stjwnQxE)’ (applicable to any discipline working with data/code)
+- The [Open Science Framework](https://osf.io/) released a recording of their quite practical webinar on [‘Leveraging Open Ecosystems to Enhance Reproducible Workflows’](https://youtu.be/z9QpLYMM1aQ). 
+They demonstrate **how to use the Open Science Framework in combination with [Protocols.io](https://www.protocols.io/), Python and R**.
 
 # Open Publishing
 - [Registered Reports](https://cos.io/rr/)
@@ -144,10 +152,18 @@ In sum: You should be realistic about your expectations, block time for writing 
 - Some points that you may want to discuss with your supervisor can be found in this [Mentoring and Advising agreement document](https://docs.google.com/document/d/1oOPjjF8RJ1EOFvZMFAKe19hUVyQ5FRpS-tPV_uE1dcI/edit). 
 - This [blog on managing your supervisor relationship](https://voicesofacademia.com/2020/11/20/managing-your-student-supervisor-relationship-to-support-well-being-by-christiane-whitehouse/) contains some practical tips on **time/boundary management** that comes in handy not just with your supervisor but with anyone you’ll have to collaborate with.
 - [John Oliver’s Last week Tonight on Scientific Studies](https://www.youtube.com/watch?v=0Rnq1NpHdmw) (from 2016)
+- If you don't know how a **mathematical symbol** is called you can [draw it on the Detexify website](http://detexify.kirelabs.org/classify.html) that will provide you with potential names and LaTeX code!
+- Are you **losing confidence** in yourself or your PhD project? 
+Read this blogpost on [‘The Valley of Shit’](https://thesiswhisperer.com/2012/05/08/the-valley-of-shit/) for some advice on how to deal with this. 
 
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
 - documentary [‘The Uprising’](https://www.youtube.com/watch?v=8GjRMQrJ2ig)
 - If you saw no problem with the recent Safra et al. paper about trustworthiness of facial cues, you should have a look at [this preprint](https://arxiv.org/abs/2009.14258) (arXiv:2009.14258) by Birhane and Guest.
 - Podcast: [How to dismantle systemic racism in science](https://cen.acs.org/careers/diversity/Podcast-Black-chemists-discuss-strategies/98/web/2020/09)
+
+# Career
+- **Career outside of academia**
+    - This [Twitter thread lists some job skills](https://twitter.com/ZJAyres/status/1354704980838637569?s=03) that your PhD provides you with! 
+    - See also this [blogpost on the skill gaps of PhD graduates](https://leidenmadtrics.nl/articles/skill-gaps-of-phd-graduates). 
 - 
