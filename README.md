@@ -3,22 +3,20 @@ Overview of the newsletters sent to the PhD students of TNW by the [Data Steward
 
 
 # Data
-- [DMPonline](https://dmponline.tudelft.nl/) to set up a data management plan (see also the [Research Data Management website](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/plan/dmponline/dmponline/) for more information)
-- TU Delft [Research Data Management 101 course](https://intranet.tudelft.nl/en/-/r4.a1-research-data-management-101)
-- [TNW/AS Research Data Management Policy](https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf)
-- Electronic Lab Notebooks: [RSpace](https://www.researchspace.com/) and [eLABjournal](https://www.elabjournal.com/) are available for TU Delft researchers
-- [4TU.ResearchData](https://data.4tu.nl/) archive to share your data
-- [Project drive](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/manage/storage/), [SURFdrive](https://www.surf.nl/en/surfdrive-store-and-share-your-files-securely-in-the-cloud) or OneDrive to store your project’s research data
+- **TU Delft resources**
+    - [DMPonline](https://dmponline.tudelft.nl/) to set up a data management plan (see also the [Research Data Management website](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/plan/dmponline/dmponline/) for more information)
+    - TU Delft [Research Data Management 101 course](https://intranet.tudelft.nl/en/-/r4.a1-research-data-management-101)
+    - [TNW/AS Research Data Management Policy](https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf)
+    - Electronic Lab Notebooks: [RSpace](https://www.researchspace.com/) and [eLABjournal](https://www.elabjournal.com/) are available for TU Delft researchers
+    - [4TU.ResearchData](https://data.4tu.nl/) archive to share your data
+    - [Project drive](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/manage/storage/), [SURFdrive](https://www.surf.nl/en/surfdrive-store-and-share-your-files-securely-in-the-cloud) or OneDrive to store your project’s research data
 - [Know Moore About Research Data Management](https://www.youtube.com/watch?v=NCUT6MA-zVA) (+ [slides](https://hcommons.org/deposits/item/hc:28833/) - Some resources mentioned in the webinar are Cambridge specific)
-- [CODATA webinar on sharing your data with your publication](https://codata.org/initiatives/strategic-programme/codata-connect/webinar-series-research-skills/webinar-2-writing-an-article-with-excellent-supporting-data/)
-- [How to cite data in your paper by Esther](https://surfdrive.surf.nl/files/index.php/s/fXtBM6YyHPRTdLb)
 - [Blogpost that contains some tips on how to organise your paperwork](https://alexwlchan.net/2019/11/my-scanning-setup/)
 - Webinar: [Data licenses and management](https://youtu.be/hiLDGLfXa2s?t=3850) (1:04-1:17)
 - Short video on [**file formats**](https://www.youtube.com/watch?v=kxxlQnc8u1I)
 - Organise your **spreadsheet data** with [OpenRefine](https://openrefine.org/)/[Frictionlessdata](https://frictionlessdata.io/)/[Excelint](https://github.com/plasma-umass/Excelint-addin) (see also [this lesson on OpenRefine by the Carpentries](https://librarycarpentry.org/lc-open-refine/)).
 - Podcast episode [‘Reproducible data science, how hard can it be?’](https://open.spotify.com/episode/1OVxFUA5UyIfMSCd842wjD?si=tEhJzufDROmOqsvJHsUPuw)
 - [ROpenSci webinar “The Wild World of Data Repositories”](https://ropensci.org/commcalls/dec2020-datarepos/)
-- [Webinar on transparency and qualitative data sharing](https://www.youtube.com/watch?v=DKkExQfwqpU) 
 - **file naming** 
     - Do you run into [New_Final_FINAL_NEW_23_FuckingFinal.jpeg](https://twitter.com/chazhutton/status/1285955514241875968) troubles? 
 Have a look at [this presentation on naming things](https://speakerdeck.com/jennybc/how-to-name-files) or a [blogpost on how to make your files more findable](https://zapier.com/blog/organize-files-folders/). 
@@ -26,6 +24,16 @@ Have a look at [this presentation on naming things](https://speakerdeck.com/jenn
 The [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) may save you a lot of time (but be careful with overwriting things)! 
 This [short data organisation/documentation manual](https://surfdrive.surf.nl/files/index.php/s/J6XOVPcUot1tiUl) can help you with file naming but also folder organisation. 
 - The [‘Quick Guide to Organizing Computational Biology Projects’](https://doi.org/10.1371/journal.pcbi.1000424) is relevant to all research projects and also goes into a bit more detail on **how to organise your files**. 
+- **Data Sharing**
+    - This blogpost [‘How can you make research data accessible’](https://www.software.ac.uk/how-can-you-make-research-data-accessible) describes five steps that you can take. 
+    - Wellcome’s (UK funder) [data sharing guide](https://urldefense.proofpoint.com/v2/url?u=https-3A__think.f1000research.com_wp-2Dcontent_uploads_2021_01_Open-5FData-5FJourney.pdf-3Futm-5Fsource-3DCPB-26utm-5Fmedium-3Dcms-26utm-5Fcampaign-3DJPE14618&d=DwMFAg&c=XYzUhXBD2cD-CornpT4QE19xOJBbRy-TBPLK0X9U2o8&r=qx-Tb7sihBJZNL88xMGfB6jQKYzV5t8sRq2LokPa_BE&m=D0DyZjvAEkjnkZIqochhdadHYsGST2pJoXB15H6Ghmc&s=hkXL1bLTIMPvpQnmyByUh5xj8DHCK8AH3CrbOaJcwXs&e=) (pdf) provides a short overview of things you will encounter if you want to share your data and contains a lot of good resources that help you to get started!
+    - [Publishing and citing data in practice](https://youtu.be/PpMOkTnBMlI) - ~30 min YouTube webinar
+    - [5 ways sharing your research data could help enhance your career](https://www.springernature.com/gp/researchers/the-source/blog/blogposts-open-research/5-ways-sharing-your-research-data-could-help-enhance-your-career/18560392) – Nature blogpost 
+    - [CODATA webinar on sharing your data with your publication](https://codata.org/initiatives/strategic-programme/codata-connect/webinar-series-research-skills/webinar-2-writing-an-article-with-excellent-supporting-data/)
+    - [How to cite data in your paper by Esther](https://surfdrive.surf.nl/files/index.php/s/fXtBM6YyHPRTdLb)
+    - Once you share your data you need a Data Availability Statement in your article. 
+See these [tips from Springer Nature for writing this statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement).
+    - [Webinar on transparency and qualitative data sharing](https://www.youtube.com/watch?v=DKkExQfwqpU) 
 
 # Software
 
@@ -51,6 +59,9 @@ This [short data organisation/documentation manual](https://surfdrive.surf.nl/fi
 - Vlog on [how to start with code sharing](https://www.youtube.com/watch?v=u7h0A-KvWls&). 
 - [Sharing brain MRI data/code](https://www.youtube.com/watch?v=28XzdqbGKoE&feature=youtu.be)
 - ‘[Science as Amateur Software Development](https://youtu.be/zwRdO9_GGhY)’
+- Recordings from previous Collaboration Workshops by the Software Sustainability Insitute are available on their [YouTube channel](https://www.youtube.com/c/SoftwareSaved/playlists)
+- The [videos of the **2020 Essential Open Source Software for Science conference** are available on YouTube](https://www.youtube.com/watch?v=h6OkCbEd1AE&list=PLilvrWT8aLuZgAIJ7rq3-hhw_M5Z1yV4l). 
+See for example the [demo on Imaging & Microscopy](https://youtu.be/0FjKkTJO0Rc). 
 - **Docker**
      - [Start using Docker](https://blog.datasciencedojo.com/data-science-with-docker-containers/) 
      - [Ensure that what you share with Docker becomes citable](https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi)
@@ -155,6 +166,8 @@ In sum: You should be realistic about your expectations, block time for writing 
 - If you don't know how a **mathematical symbol** is called you can [draw it on the Detexify website](http://detexify.kirelabs.org/classify.html) that will provide you with potential names and LaTeX code!
 - Are you **losing confidence** in yourself or your PhD project? 
 Read this blogpost on [‘The Valley of Shit’](https://thesiswhisperer.com/2012/05/08/the-valley-of-shit/) for some advice on how to deal with this. 
+- [Comic on Science Fictions](https://www.smbc-comics.com/comic/science-fictions) 
+
 
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
