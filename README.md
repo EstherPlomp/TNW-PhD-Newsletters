@@ -245,7 +245,7 @@ Read this blogpost on [‘The Valley of Shit’](https://thesiswhisperer.com/201
 - [webinar on inclusion organised by eLife](https://elifesciences.org/inside-elife/1aee75f1/webinar-report-promoting-inclusion-in-science)
 - [‘Picture a scientist’ documentary](https://www.filmplatform.net/product/picture-a-scientist/) (that you can watch if you’re logged in through the TU Delft network!) 
 - [Diversity and Inclusion in Research, Technology and Design](https://osc-delft.github.io/posts/2021/10/29/diversity-and-inclusion-in-research-technology-and-design/)
-- Maranke Wieringa is setting up a new Dutch interuniversity **network for people with a disability**: contact them for more information through their email (m.a.wieringa@uu.nl) or on Twitter.
+- Maranke Wieringa is setting up a new Dutch interuniversity **network for people with a disability**: contact them for more information through their email (m.a.wieringa[at]uu.nl) or on Twitter.
 
 # Career
 - **Career outside of academia**
