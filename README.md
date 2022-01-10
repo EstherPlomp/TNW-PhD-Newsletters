@@ -24,6 +24,7 @@ Have a look at [this presentation on naming things](https://speakerdeck.com/jenn
 The [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) may save you a lot of time (but be careful with overwriting things)! 
 This [short data organisation/documentation manual](https://surfdrive.surf.nl/files/index.php/s/J6XOVPcUot1tiUl) can help you with file naming but also folder organisation. 
 - The [‘Quick Guide to Organizing Computational Biology Projects’](https://doi.org/10.1371/journal.pcbi.1000424) is relevant to all research projects and also goes into a bit more detail on **how to organise your files**. 
+- Learn how to **manage your project**, folders and files from this [short video series on Project Structure](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=3) by Danielle Navarro (see [here for the slides](https://slides.djnavarro.net/project-structure/#1)).
 - **Data Sharing**
     - This blogpost [‘How can you make research data accessible’](https://www.software.ac.uk/how-can-you-make-research-data-accessible) describes five steps that you can take. 
     - Wellcome’s (UK funder) [data sharing guide](https://urldefense.proofpoint.com/v2/url?u=https-3A__think.f1000research.com_wp-2Dcontent_uploads_2021_01_Open-5FData-5FJourney.pdf-3Futm-5Fsource-3DCPB-26utm-5Fmedium-3Dcms-26utm-5Fcampaign-3DJPE14618&d=DwMFAg&c=XYzUhXBD2cD-CornpT4QE19xOJBbRy-TBPLK0X9U2o8&r=qx-Tb7sihBJZNL88xMGfB6jQKYzV5t8sRq2LokPa_BE&m=D0DyZjvAEkjnkZIqochhdadHYsGST2pJoXB15H6Ghmc&s=hkXL1bLTIMPvpQnmyByUh5xj8DHCK8AH3CrbOaJcwXs&e=) (pdf) provides a short overview of things you will encounter if you want to share your data and contains a lot of good resources that help you to get started!
@@ -37,9 +38,17 @@ See these [tips from Springer Nature for writing this statement](https://researc
 
 # Software
 
-- [TU Delft programming workshops](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/software-carpentry-workshop)
-- **TU Delft Digital Competence Center**: Learn more about what [type of data/code support the DCC offers on their website](https://dcc.tudelft.nl/) 
-- [Code Refinery](https://coderefinery.org/)
+- **TU Delft Resources** 
+    - [TU Delft programming workshops](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/software-carpentry-workshop)
+        - See **[Coach View](https://tudelftgs.opleidingsportaal.nl/en-us/)** for future workshop dates and times
+    - **TU Delft Digital Competence Center**: Learn more about what [type of data/code support the DCC offers on their website](https://dcc.tudelft.nl/) 
+    - [Code Refinery](https://coderefinery.org/)
+    - [**TU Delft Software Policy and guidelines**](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies)   
+        - **Why a research software policy?** The new workflow is an improvement as you don't have to ask the Valorisation Center permission to publish your software through a disclosure form, as long as you follow the workflow.
+        - **How to follow the workflow?** A super concise summary is to share your code/software through [4TU.ResearchData](https://data.4tu.nl/info/en/) choosing one of the TU Delft approved licenses (Apache, MIT, BSD, EUPL, AGPL, LGPL, GPL, CC0)
+You can also choose another data repository, such as [Zenodo](https://zenodo.org/), but then you have to ensure that the output is correctly registered in PURE yourself.) 
+        - **Where to get help?** Email Esther!
+        - See also this [recording](https://youtu.be/bPl5sdTvLMM) and the [slides](http://doi.org/10.5281/zenodo.4772235) 
 - [Binder workshop materials](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder)
 - [Aalto University resources on making your computational workflow more reproducible](https://scicomp.aalto.fi/scicomp/zen-of-scicomp/)
 - Licenses: [website with explanations on licenses in plain English](https://tldrlegal.com/) or [choose a License website](https://choosealicense.com/) (TU Delft recommends the MIT license for code and CC-BY for data)
@@ -62,6 +71,13 @@ See these [tips from Springer Nature for writing this statement](https://researc
 - Recordings from previous Collaboration Workshops by the Software Sustainability Insitute are available on their [YouTube channel](https://www.youtube.com/c/SoftwareSaved/playlists)
 - The [videos of the **2020 Essential Open Source Software for Science conference** are available on YouTube](https://www.youtube.com/watch?v=h6OkCbEd1AE&list=PLilvrWT8aLuZgAIJ7rq3-hhw_M5Z1yV4l). 
 See for example the [demo on Imaging & Microscopy](https://youtu.be/0FjKkTJO0Rc). 
+- **[GitHub added built-in citation support](https://mobile.twitter.com/natfriedman/status/1420122675813441540)**! 
+The only thing you have to do is create a CITATION.cff file in your repository, which will provide you with an example template that you can fill in in two minutes. 
+[Link your GitHub repository to Zenodo](https://guides.github.com/activities/citable-code/) or [4TU.ResearchData](https://researchdata.4tu.nl/en/) to make your software citable and add the DOI to the citation file! 
+- Need some more help on **how to make your project publicly available**? 
+Watch [this short video by Dr. Barbara Vreede on sharing your project](https://www.youtube.com/watch?v=Y-WUOkqTBNE) or learn more about [software containers](https://www.youtube.com/watch?v=HelrQnm3v4g).
+- **Open-Source Tools for Chemists** workshop recordings are available on [YouTube](https://www.youtube.com/playlist?list=PLBQwbn0mPhvWfOx6ce_vUjr54ftLBmSH0).
+    - See for example: [DataWarrior](https://www.youtube.com/watch?v=Is2hLqqSFvM); [PyMOL](https://www.youtube.com/watch?v=qOxS2wqajdg); [GoogleCoLab](https://www.youtube.com/watch?v=KEIpJ50Jc0w); [CheMBL](https://www.youtube.com/watch?v=zpzJutFTtL4); [Fragalysis](https://www.youtube.com/watch?v=LVWd50CgU4g); [Knime](https://www.youtube.com/watch?v=lP0Yh6kKNsA) 
 - **Docker**
      - [Start using Docker](https://blog.datasciencedojo.com/data-science-with-docker-containers/) 
      - [Ensure that what you share with Docker becomes citable](https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi)
@@ -85,7 +101,8 @@ See for example the [demo on Imaging & Microscopy](https://youtu.be/0FjKkTJO0Rc)
     - [15 minute video on the R Package WORCS, Workflow for Open Reproducible Code in Science (WORCS)](https://www.youtube.com/watch?v=uzjpN_yFeUU)
     - ‘[R for Excel users](https://education.rstudio.com/blog/2020/02/conf20-r-excel/)’ course
 
-
+# Open Methods
+- PLOS ONE introduced two new publication formats: [Lab Protocols and Study Protocols!](https://theplosblog.plos.org/2021/02/submit-your-lab-and-study-protocols-plos-one/)
 
 
 # Open Science
@@ -120,6 +137,7 @@ This format allows for live code, data and interactive figures next to your manu
 - To avoid publishing with **predatory publishers** check out the checklists for [books](https://thinkchecksubmit.org/books-and-chapters/) and [journals](https://thinkchecksubmit.org/journals/) from [Think, check, submit](https://thinkchecksubmit.org/).
 - [Short video on academic publishing](https://www.youtube.com/watch?v=PriwCi6SzLo&feature=youtu.be).
 - Video: [introduction to Preregistration](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=db83bd17-4c08-466b-9ced-ac60012e7573)
+- 
 
 # Writing
 - The [PubReCheck tool](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/PubReCheck/#/) can identify some issues with your text
@@ -128,11 +146,16 @@ This format allows for live code, data and interactive figures next to your manu
 - Manage your reference with [Zotero](https://www.youtube.com/watch?v=JItohgzhDkY). 
 **Zotero** allows you to [annotate pdf’s and extract those annotations](https://www.youtube.com/watch?v=faYJ4gEGZ40&feature=youtu.be)! 
 See also [How Zotero can make your writing life easier](https://daily.jstor.org/how-to-use-zotero-and-scrivener-for-research-driven-writing/). 
+- Use [Recite](https://reciteworks.com/) to check your citations 
 - If you’re **stuck with writing**, this [webinar on “the art of productivity”](https://reachthenextlevel.net/art-productivity/) might help you to get unstuck. 
 In sum: You should be realistic about your expectations, block time for writing and stick to it! 
 - Grogan (2020)’s “Writing Science: [What makes scientific writing hard and how to make it easier](https://doi.org/10.1002/bes2.1800)” 
 - **[Draftable](https://draftable.com/)** allows you to compare pdf’s (in case you want to go over the pdf proofs of a paper).
 - [SciTLDR](https://scitldr.apps.allenai.org/): a tool that summarises papers in one sentence! 
+- [Brief guide to writing manuscripts](https://doi.org/10.1186/s12967-020-02596-2) (with benefits of Open Science listed on page 6)
+- [How to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5) – tips from a novelist 
+- Watch a short video on [how to write an abstract](https://www.youtube.com/watch?v=JkXoD7j2M_Q)
+
 
 # Integrity
 - [Recordings of the National Symposium on Research Integrity 2020](http://www.nsri2020.nl/symposium)
@@ -167,16 +190,26 @@ In sum: You should be realistic about your expectations, block time for writing 
 - Are you **losing confidence** in yourself or your PhD project? 
 Read this blogpost on [‘The Valley of Shit’](https://thesiswhisperer.com/2012/05/08/the-valley-of-shit/) for some advice on how to deal with this. 
 - [Comic on Science Fictions](https://www.smbc-comics.com/comic/science-fictions) 
-
+- [Faking your daily commute](https://werepstem.com/2021/01/15/as-days-blend-together-many-turn-to-fake-commutes-for-a-sense-of-routine/) 
+- 'The Professor is in' has webinars available to [improve your productivity](https://theprofessorisin.com/free-productivity-webinars/) and a [blog post on how to gain some motivation](https://theprofessorisin.com/2020/07/27/motivation/). 
 
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
 - documentary [‘The Uprising’](https://www.youtube.com/watch?v=8GjRMQrJ2ig)
 - If you saw no problem with the recent Safra et al. paper about trustworthiness of facial cues, you should have a look at [this preprint](https://arxiv.org/abs/2009.14258) (arXiv:2009.14258) by Birhane and Guest.
 - Podcast: [How to dismantle systemic racism in science](https://cen.acs.org/careers/diversity/Podcast-Black-chemists-discuss-strategies/98/web/2020/09)
+- [webinar on inclusion organised by eLife](https://elifesciences.org/inside-elife/1aee75f1/webinar-report-promoting-inclusion-in-science)
+- [‘Picture a scientist’ documentary](https://www.filmplatform.net/product/picture-a-scientist/) (that you can watch if you’re logged in through the TU Delft network!) 
 
 # Career
 - **Career outside of academia**
     - This [Twitter thread lists some job skills](https://twitter.com/ZJAyres/status/1354704980838637569?s=03) that your PhD provides you with! 
-    - See also this [blogpost on the skill gaps of PhD graduates](https://leidenmadtrics.nl/articles/skill-gaps-of-phd-graduates). 
-- 
+    - See also this [blogpost on the skill gaps of PhD graduates](https://leidenmadtrics.nl/articles/skill-gaps-of-phd-graduates)
+    - Transition to data science: [Twitter thread by Dr. Michael Mullarkey](https://twitter.com/mcmullarkey/status/1395145664267526145) 
+    - [Twitter thread on Dr Lizzy Lowe’s experiences with transitioning to industry](https://twitter.com/LizyLowe/status/1415191644861722625)
+- [List of postdoctoral fellowships](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/) set up by the Johns Hopkins University
+- Structure your CV
+    - A [Twitter thread by Alexandria West](https://twitter.com/AlexWestPsych/status/1400885658139467778) contains some opinions on the topic.
+    - You can use your [ORCID](https://orcid.org/) to [generate a CV (with R)](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806).
+- Writing grants
+    - The [Open Grants repository](https://www.ogrants.org/) contains grant applications that got funded or rejected that can serve as an example.
