@@ -57,7 +57,9 @@ See these [tips from Springer Nature for writing this statement](https://researc
 You can also choose another data repository, such as [Zenodo](https://zenodo.org/), but then you have to ensure that the output is correctly registered in PURE yourself.) 
         - **Where to get help?** Email Esther!
         - See also this [recording](https://youtu.be/bPl5sdTvLMM) and the [slides](http://doi.org/10.5281/zenodo.4772235) 
-- [Binder workshop materials](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder)
+- **Workshop/Training materials**
+    - ‘**Intermediate Research Software Development in Python**’ course in your own time as [all the materials are available online/on GitHub](https://carpentries-incubator.github.io/python-intermediate-development/).
+    - [**Binder** workshop materials](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder)
 - [Aalto University resources on making your computational workflow more reproducible](https://scicomp.aalto.fi/scicomp/zen-of-scicomp/)
 - Licenses: [website with explanations on licenses in plain English](https://tldrlegal.com/) or [choose a License website](https://choosealicense.com/) (TU Delft recommends the MIT license for code and CC-BY for data)
 - [Webinar on Open Software licenses](https://www.youtube.com/watch?v=y9y8a3O4fjg), where they also discuss **readme files** (30.48 – 41:00), which you need for your project to describe it to others and tell them how to interact with your code/software. You can also learn about **contribution guidelines** and how to set up a **code of conduct** (46:00 – 1:01) from the same webinar. 
@@ -89,6 +91,8 @@ Watch [this short video by Dr. Barbara Vreede on sharing your project](https://w
 This [Twitter thread by Colin Angus](https://twitter.com/VictimOfMaths/status/1405809689246507010) highlights the benefits.
     - Doubting whether your **software is ready to be published** in the Journal of Open Source Software? 
 [Read a blogpost about to know for sure]. 
+- The Turing Way now has a guide on [Software Citation with CITATION.cff](https://the-turing-way.netlify.app/communication/citable/citable-cff.html). 
+You can also go over this [Software Citation Checklist for Authors](https://doi.org/10.5281/zenodo.3479199).
 - Recordings of the ‘**[SeptembRSE](https://septembrse.society-rse.org/)**’ sessions are [available on YouTube](https://www.youtube.com/playlist?list=PL27mQJy8eDHkB1Q9pu8pXpMa1AZtwov6Q). 
 See for example the workshop on [software design and sustainability](https://www.youtube.com/watch?v=z_xSsl8iC4g&list=PL27mQJy8eDHkB1Q9pu8pXpMa1AZtwov6Q&index=10) (starts at 8 min, with the more practical part at 1.20-2.14 and the coding/interactive part at the end), the discussion session on [software testing](https://www.youtube.com/watch?v=9084fOirQYo&list=PL27mQJy8eDHkB1Q9pu8pXpMa1AZtwov6Q&index=21), the panel on ‘[missing narratives in discussions around diversity and inclusion in research software](https://youtu.be/tpxCWCTSZUc?t=2014)’, and a session on the [different aspects of the RSE roles](https://youtu.be/beGmYKVNApA).
 - **Open-Source Tools for Chemists** workshop recordings are available on [YouTube](https://www.youtube.com/playlist?list=PLBQwbn0mPhvWfOx6ce_vUjr54ftLBmSH0).
@@ -112,7 +116,8 @@ See for example the workshop on [software design and sustainability](https://www
     - Learn more about testing your Python code by listening to a [podcast on research software testing](https://podcastaddict.com/episode/116745171).
     - [PEP 657](https://www.python.org/dev/peps/pep-0657/) tracebacks will annotate where exactly the error is happening in your code! 
 - **R**
-    - UseR! 2020 presentations are available on the [useR! YouTube channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
+    -  [Delft RCafe resources](https://github.com/Delft-RCafe/resources/blob/gh-pages/index.md)
+    -  UseR! 2020 presentations are available on the [useR! YouTube channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
       - [how to make your paper/code more reproducible](https://www.youtube.com/watch?v=KHMW8fV2NXo) by Anna Krystalli (see [slides](https://annakrystalli.me/talks/user2020.html#1) and [materials](https://annakrystalli.me/rrresearchACCE20/))
       - use the *here package* to make it easier for others to work with your code (see [this video](https://youtu.be/QYrdsjBvZN4)) 
       - see GitHub to work collaboratively with others using version control, and use the *renv* and *drake packages* (see [this video](https://youtu.be/xrALIrUEshc))
@@ -124,7 +129,11 @@ See for example the workshop on [software design and sustainability](https://www
 
 # Open Methods
 - PLOS ONE introduced two new publication formats: [Lab Protocols and Study Protocols!](https://theplosblog.plos.org/2021/02/submit-your-lab-and-study-protocols-plos-one/)
-
+- Did your recent experiment fail? 
+[This Twitter post](https://twitter.com/IamKhanPhD/status/1450815000222838784) or a more serious [blogpost on negative results](https://medium.com/psychphdpathway/emptying-psychologys-file-drawer-6909cf6b7eb) are for you. 
+Note that you can still publish on these experiments through journals such as the [Journal of Trial and Error](https://www.jtrialerror.com/) and [Experimental Results](https://www.cambridge.org/core/journals/experimental-results).
+- You can also **share your methods** through platforms such as [protocols.io](https://www.protocols.io/). 
+See this feature on ‘[Five keys to writing a reproducible lab protocol](https://www.nature.com/articles/d41586-021-02428-3)’ for some pointers. 
 
 # Open Science
 - [Open Science Community Delft](https://osc-delft.github.io/)
@@ -158,7 +167,6 @@ This format allows for live code, data and interactive figures next to your manu
 - To avoid publishing with **predatory publishers** check out the checklists for [books](https://thinkchecksubmit.org/books-and-chapters/) and [journals](https://thinkchecksubmit.org/journals/) from [Think, check, submit](https://thinkchecksubmit.org/).
 - [Short video on academic publishing](https://www.youtube.com/watch?v=PriwCi6SzLo&feature=youtu.be).
 - Video: [introduction to Preregistration](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=db83bd17-4c08-466b-9ced-ac60012e7573)
-- 
 
 # Writing
 - The [PubReCheck tool](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/PubReCheck/#/) can identify some issues with your text
@@ -176,12 +184,23 @@ In sum: You should be realistic about your expectations, block time for writing 
 - [Brief guide to writing manuscripts](https://doi.org/10.1186/s12967-020-02596-2) (with benefits of Open Science listed on page 6)
 - [How to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5) – tips from a novelist 
 - Watch a short video on [how to write an abstract](https://www.youtube.com/watch?v=JkXoD7j2M_Q)
-
+- Follow this Coursera course on ‘[Writing in the Sciences](https://www.coursera.org/learn/sciwrite)’ to improve your writing skills. 
+Particularly week 1-4 contain important information on how to structure your article and improve your writing.
+- Writing your **first article**? 
+This [two-page article](https://www.mjdrdypv.org/text.asp?2021/14/6/599/329688) contains a good set up for your introduction and questions that you should address in your discussion (it is a bit medical focused but mostly generally applicable). 
+[This blogpost also shows you how to structure](https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/) your article.
+- How to [write an **abstract** focusing on five sentences](https://twitter.com/kepadil1/status/1479226348120023043).
+- Answer these [questions in your **introduction**](https://twitter.com/scigradcoach/status/1445426054147964932). 
+- The [five ingredients for a successful **methods** section](https://doi.org/10.1373/clinchem.2010.146589).
+- TU Delft offers access to the ‘[academic writing assistant](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/academic-writing-assistant)’ tool that can help you to improve the structure, style and spelling of your text.
+- ‘[How to navigate **authorship** of scientific manuscripts](https://www.science.org/content/article/how-navigate-authorship-scientific-manuscripts)’ (you can use the [CRediT roles](https://casrai.org/credit/) to track contributions to the work, and use [Tenzing](https://rollercoaster.shinyapps.io/tenzing/) to easily record these roles).
+You may also want to read: ‘[Why scientific journal authorship practices make no sense et al.](https://www.science.org/content/article/why-scientific-journal-authorship-makes-absolutely-no-sense-et-al)’ 
+- Or you can procrastinate by reading more [writing tips on Twitter](https://twitter.com/rodriguesjm6/status/1436355550388932614) (see also the upcoming tweet chat using [#ImLeavingAcademia](https://twitter.com/hashtag/ImLeavingAcademia) on the 13th of Jan!) or by watching this RIOT talk on ‘[Reimagining scientific publishing](https://www.youtube.com/watch?v=0AX2vNMsX98)’!
+- Afterwards, you probably want to learn more about how you can [deal with **writing guilt**](https://twitter.com/dsquintana/status/961107677232418816). 
 
 # Integrity
 - [Recordings of the National Symposium on Research Integrity 2020](http://www.nsri2020.nl/symposium)
 - Podcast: [How to self-correct science](http://www.juiceandsqueeze.net/17)
-
 
 # PhD things
 - [PhD Balance](https://www.phdbalance.com/)
@@ -214,6 +233,8 @@ Read this blogpost on [‘The Valley of Shit’](https://thesiswhisperer.com/201
 - [Faking your daily commute](https://werepstem.com/2021/01/15/as-days-blend-together-many-turn-to-fake-commutes-for-a-sense-of-routine/) 
 - 'The Professor is in' has webinars available to [improve your productivity](https://theprofessorisin.com/free-productivity-webinars/) and a [blog post on how to gain some motivation](https://theprofessorisin.com/2020/07/27/motivation/). 
 - How do [Lord of the Rings GIFs describe the academic experience](https://twitter.com/AndrewBarnas/status/1440361521377280002?s=03)?
+- For some more tips on how to get through your PhD you can read my blog “[PhD in 4 - 5, 6, 7](https://vu.nl/en/about-vu/more-about/phd-in-4-5-6-7)”.
+- In case people are telling you to show more grit or just buckle up or work harder during your PhD, you might want to watch this video “[Grittier Than You](https://www.ted.com/talks/cait_kirby_grittier_than_you)”. 
 
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
@@ -231,9 +252,15 @@ Read this blogpost on [‘The Valley of Shit’](https://thesiswhisperer.com/201
     - See also this [blogpost on the skill gaps of PhD graduates](https://leidenmadtrics.nl/articles/skill-gaps-of-phd-graduates)
     - Transition to data science: [Twitter thread by Dr. Michael Mullarkey](https://twitter.com/mcmullarkey/status/1395145664267526145) 
     - [Twitter thread on Dr Lizzy Lowe’s experiences with transitioning to industry](https://twitter.com/LizyLowe/status/1415191644861722625)
+    - Work on your [career transition story](https://beyondprof.com/your-phd-career-transition-story/)
 - [List of postdoctoral fellowships](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/) set up by the Johns Hopkins University
 - Structure your CV
     - A [Twitter thread by Alexandria West](https://twitter.com/AlexWestPsych/status/1400885658139467778) contains some opinions on the topic.
     - You can use your [ORCID](https://orcid.org/) to [generate a CV (with R)](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806).
 - Writing grants
     - The [Open Grants repository](https://www.ogrants.org/) contains grant applications that got funded or rejected that can serve as an example.
+- [Hsu et al. 2021](https://doi.org/10.1126/sciadv.abj2604) contains short **interviews** with people in academic hiring committees (pages 9-11) that provides some insights in the hiring process (publications/funding may be less important if you have a clear vision on your work and are able to communicate your research well!). While the data is based on neuroscientists, some of the things are more generally applicable (such as institutions showing a preference for hiring individuals that they know).
+- **Not sure** what to do after your PhD? This [interview with Jennifer Polk](https://open.spotify.com/episode/5WXJDQBNiiy42D9IBBHyyd?si=WRXeouhCQy-qk6F7qjb9ZA&dl_branch=1) contains some helpful pointers. 
+If you’re on the fence about staying or leaving academia, this [Twitter thread by Shoshana Jarvis](https://twitter.com/Shoshana_Jarvis/status/1428403324483629060) is for you. 
+- If you want to apply for a **position in another lab**, [these are a couple of good questions](https://twitter.com/ProfessorTanvir/status/1448690023277203459) to ask to see if the lab will be a good fit for you! 
+
