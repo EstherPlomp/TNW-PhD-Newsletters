@@ -23,6 +23,13 @@ Have a look at [this presentation on naming things](https://speakerdeck.com/jenn
     - Want to rename multiple files? 
 The [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) may save you a lot of time (but be careful with overwriting things)! 
 This [short data organisation/documentation manual](https://surfdrive.surf.nl/files/index.php/s/J6XOVPcUot1tiUl) can help you with file naming but also folder organisation. 
+- Suffering from **messy datasets**? [The ultimate guide to data cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) contains some tips to clean it up! 
+See also these [slides on the Practicalities of Data Handling](https://doi.org/10.5281/zenodo.5078264) and a [Twitter thread on Tidy Data with nice illustrations](https://twitter.com/juliesquid/status/1315710359404113920).
+- Learn more about [**how to organise your research project** through this short video](https://youtu.be/tBGLRXUbCrU). 
+- Want to learn more on **working more openly and reproducibly**? Watch these [videos on how to do open and reproducible research](https://tmskr.github.io/video.html).
+- If you’re not convinced about **documenting your data and setting up a readme file**, you may want to check out this [Twitter thread by Dr. Elisabeth Bik were she is trying to install a research tool](https://twitter.com/MicrobiomDigest/status/1283082285097422848). 
+- When you use **arXiv** you can now [link your publication to a dataset](https://blog.arxiv.org/2021/05/13/linking-to-datasets-on-arxiv/)! 
+- There’s a **materials research data alliance community**: www.marda-alliance.org.
 - The [‘Quick Guide to Organizing Computational Biology Projects’](https://doi.org/10.1371/journal.pcbi.1000424) is relevant to all research projects and also goes into a bit more detail on **how to organise your files**. 
 - Learn how to **manage your project**, folders and files from this [short video series on Project Structure](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=3) by Danielle Navarro (see [here for the slides](https://slides.djnavarro.net/project-structure/#1)).
 - **Data Sharing**
@@ -35,6 +42,7 @@ This [short data organisation/documentation manual](https://surfdrive.surf.nl/fi
     - Once you share your data you need a Data Availability Statement in your article. 
 See these [tips from Springer Nature for writing this statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement).
     - [Webinar on transparency and qualitative data sharing](https://www.youtube.com/watch?v=DKkExQfwqpU) 
+    - Learn more about [how to **share your research** from PLOS](https://plos.org/resource/how-to-share-your-research/)
 
 # Software
 
@@ -74,8 +82,15 @@ See for example the [demo on Imaging & Microscopy](https://youtu.be/0FjKkTJO0Rc)
 - **[GitHub added built-in citation support](https://mobile.twitter.com/natfriedman/status/1420122675813441540)**! 
 The only thing you have to do is create a CITATION.cff file in your repository, which will provide you with an example template that you can fill in in two minutes. 
 [Link your GitHub repository to Zenodo](https://guides.github.com/activities/citable-code/) or [4TU.ResearchData](https://researchdata.4tu.nl/en/) to make your software citable and add the DOI to the citation file! 
-- Need some more help on **how to make your project publicly available**? 
+- **Sharing your code/software**:
+    - Need some more help on **how to make your project publicly available**? 
 Watch [this short video by Dr. Barbara Vreede on sharing your project](https://www.youtube.com/watch?v=Y-WUOkqTBNE) or learn more about [software containers](https://www.youtube.com/watch?v=HelrQnm3v4g).
+    - Hesitant about **sharing your software/code?** 
+This [Twitter thread by Colin Angus](https://twitter.com/VictimOfMaths/status/1405809689246507010) highlights the benefits.
+    - Doubting whether your **software is ready to be published** in the Journal of Open Source Software? 
+[Read a blogpost about to know for sure]. 
+- Recordings of the ‘**[SeptembRSE](https://septembrse.society-rse.org/)**’ sessions are [available on YouTube](https://www.youtube.com/playlist?list=PL27mQJy8eDHkB1Q9pu8pXpMa1AZtwov6Q). 
+See for example the workshop on [software design and sustainability](https://www.youtube.com/watch?v=z_xSsl8iC4g&list=PL27mQJy8eDHkB1Q9pu8pXpMa1AZtwov6Q&index=10) (starts at 8 min, with the more practical part at 1.20-2.14 and the coding/interactive part at the end), the discussion session on [software testing](https://www.youtube.com/watch?v=9084fOirQYo&list=PL27mQJy8eDHkB1Q9pu8pXpMa1AZtwov6Q&index=21), the panel on ‘[missing narratives in discussions around diversity and inclusion in research software](https://youtu.be/tpxCWCTSZUc?t=2014)’, and a session on the [different aspects of the RSE roles](https://youtu.be/beGmYKVNApA).
 - **Open-Source Tools for Chemists** workshop recordings are available on [YouTube](https://www.youtube.com/playlist?list=PLBQwbn0mPhvWfOx6ce_vUjr54ftLBmSH0).
     - See for example: [DataWarrior](https://www.youtube.com/watch?v=Is2hLqqSFvM); [PyMOL](https://www.youtube.com/watch?v=qOxS2wqajdg); [GoogleCoLab](https://www.youtube.com/watch?v=KEIpJ50Jc0w); [CheMBL](https://www.youtube.com/watch?v=zpzJutFTtL4); [Fragalysis](https://www.youtube.com/watch?v=LVWd50CgU4g); [Knime](https://www.youtube.com/watch?v=lP0Yh6kKNsA) 
 - **Docker**
@@ -91,6 +106,11 @@ Watch [this short video by Dr. Barbara Vreede on sharing your project](https://w
     - ‘[Data Science in Python beginner course](https://github.com/semacu/data-science-python)’ 
     - Use emojis in Python: [pip install emoji](https://twitter.com/pybites/status/1323488121158356992)
     - Python libraries: [SMOP, a Matlab to Python compiler](https://github.com/victorlei/smop) and [spec2vec](https://github.com/iomega/spec2vec) for mass spectrometry data. 
+    - [This presentation](https://www.youtube.com/watch?v=QSSgLflyisI&list=PLiX54geLkpPL4brRcYfnekp42PLJi5eEe) by Serena Bonaretti contains some nice resources (on slide 25, see https://doi.org/10.5281/zenodo.3939392) to learn how to use Python/Jupyter notebooks. 
+    - [Nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/) seems handy for Jupyter notebooks (headers, notifications when cells are done running, code folding). 
+    - [Pylustrator](https://pylustrator.readthedocs.io/en/latest/) offers an interactive interface to find the best way to present your data in a figure for publication. Added formatting an styling can be saved by automatically generated code.
+    - Learn more about testing your Python code by listening to a [podcast on research software testing](https://podcastaddict.com/episode/116745171).
+    - [PEP 657](https://www.python.org/dev/peps/pep-0657/) tracebacks will annotate where exactly the error is happening in your code! 
 - **R**
     - UseR! 2020 presentations are available on the [useR! YouTube channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
       - [how to make your paper/code more reproducible](https://www.youtube.com/watch?v=KHMW8fV2NXo) by Anna Krystalli (see [slides](https://annakrystalli.me/talks/user2020.html#1) and [materials](https://annakrystalli.me/rrresearchACCE20/))
@@ -100,6 +120,7 @@ Watch [this short video by Dr. Barbara Vreede on sharing your project](https://w
     - Short [podcast on using **Git/GitHub** (and R)](https://intertidal.agency/intertidal-podcast/2020/9/14/9-using-git-to-drive-better-science-with-dr-julie-lowndes), with nice resources to get started
     - [15 minute video on the R Package WORCS, Workflow for Open Reproducible Code in Science (WORCS)](https://www.youtube.com/watch?v=uzjpN_yFeUU)
     - ‘[R for Excel users](https://education.rstudio.com/blog/2020/02/conf20-r-excel/)’ course
+- [What if the Marvel films were linux commands?](https://twitter.com/cooperrc84/status/1445489035376353292)
 
 # Open Methods
 - PLOS ONE introduced two new publication formats: [Lab Protocols and Study Protocols!](https://theplosblog.plos.org/2021/02/submit-your-lab-and-study-protocols-plos-one/)
@@ -192,6 +213,7 @@ Read this blogpost on [‘The Valley of Shit’](https://thesiswhisperer.com/201
 - [Comic on Science Fictions](https://www.smbc-comics.com/comic/science-fictions) 
 - [Faking your daily commute](https://werepstem.com/2021/01/15/as-days-blend-together-many-turn-to-fake-commutes-for-a-sense-of-routine/) 
 - 'The Professor is in' has webinars available to [improve your productivity](https://theprofessorisin.com/free-productivity-webinars/) and a [blog post on how to gain some motivation](https://theprofessorisin.com/2020/07/27/motivation/). 
+- How do [Lord of the Rings GIFs describe the academic experience](https://twitter.com/AndrewBarnas/status/1440361521377280002?s=03)?
 
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
@@ -200,6 +222,8 @@ Read this blogpost on [‘The Valley of Shit’](https://thesiswhisperer.com/201
 - Podcast: [How to dismantle systemic racism in science](https://cen.acs.org/careers/diversity/Podcast-Black-chemists-discuss-strategies/98/web/2020/09)
 - [webinar on inclusion organised by eLife](https://elifesciences.org/inside-elife/1aee75f1/webinar-report-promoting-inclusion-in-science)
 - [‘Picture a scientist’ documentary](https://www.filmplatform.net/product/picture-a-scientist/) (that you can watch if you’re logged in through the TU Delft network!) 
+- [Diversity and Inclusion in Research, Technology and Design](https://osc-delft.github.io/posts/2021/10/29/diversity-and-inclusion-in-research-technology-and-design/)
+- Maranke Wieringa is setting up a new Dutch interuniversity **network for people with a disability**: contact them for more information through their email (m.a.wieringa@uu.nl) or on Twitter.
 
 # Career
 - **Career outside of academia**
