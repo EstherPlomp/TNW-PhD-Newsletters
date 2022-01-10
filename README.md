@@ -206,6 +206,7 @@ You may also want to read: ‘[Why scientific journal authorship practices make 
 - [PhD Balance](https://www.phdbalance.com/)
     - [standing up for yourself](https://www.youtube.com/watch?v=dnyIzEFHXqI)
     - [adapting to change](https://www.youtube.com/watch?v=f4FAqvGrAHE)
+    - [Academic Mental Health](https://www.youtube.com/watch?v=yyPTzvPwIwg) with Zoë Ayres
 - [“What is the Secret to **Developing New Research Ideas**?”](https://twitter.com/GeostatsGuy/status/1267114162284630018)
 - [Scientist without a lab? PhD guide to COVID-19](https://pbs.twimg.com/media/Eao-3S3WAAcA8kK?format=png&name=900x900)
 - [PhDForum Online Study Room](https://www.thephdforum.com/study-room)
