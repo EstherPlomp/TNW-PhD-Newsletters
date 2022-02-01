@@ -136,7 +136,8 @@ Note that you can still publish on these experiments through journals such as th
 See this feature on ‘[Five keys to writing a reproducible lab protocol](https://www.nature.com/articles/d41586-021-02428-3)’ for some pointers. 
 
 # Open Science
-- [Open Science Community Delft](https://osc-delft.github.io/)
+- [Open Science Community Delft](https://osc-delft.github.io/) 
+- **TU Delft has an [Open Science website](https://www.tudelft.nl/library/actuele-themas/openscience).** 
 - [TU Delft’s Open Science online course](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world)
 - [Open Life Science programmme](https://openlifesci.org/) (which TNW PhD candidates can follow for credits!)
 - **King’s Open Research Conference** [blogpost summary and recordings](https://www.kcl.ac.uk/daring-to-shift-research-culture-towards-more-reproducibility-and-transparency).  
@@ -155,6 +156,13 @@ Make sure that you set up an [ORCID](https://orcid.org/) so that you can always 
 - ‘[Food for Psychologists](https://youtu.be/s4-stjwnQxE)’ (applicable to any discipline working with data/code)
 - The [Open Science Framework](https://osf.io/) released a recording of their quite practical webinar on [‘Leveraging Open Ecosystems to Enhance Reproducible Workflows’](https://youtu.be/z9QpLYMM1aQ). 
 They demonstrate **how to use the Open Science Framework in combination with [Protocols.io](https://www.protocols.io/), Python and R**.
+- [RIOT has a YouTube channel](https://www.youtube.com/c/RIOTScienceClub) on which they place recordings of their workshops and interesting talks.
+- **UNESCO** released a [short video on their Recommendations on Open Science](https://www.youtube.com/watch?v=I3Wkvx_ZaFo).
+- The **PhD Talk podcast** offers some pointers on “[How we make our science more open](https://open.spotify.com/episode/3RXKwPobBKyzXhc3dE0Kue?si=e61f72242ec848cb&nd=1)”
+- Watch a short video on “[Open science for inclusive science](https://www.youtube.com/watch?v=tB_HeqnonNM&t=1s)” by Vittorio Saggiomo for TEDxWageningenUniversity 
+- Martijn Nagtegaal (ImPhys) attended the MRI Together Workshop in 2021 and wrote a [blog about his experiences](https://openworking.wordpress.com/2022/01/11/mri-together-2021/).
+- Read more about the experiences of Anne Bülow, a PhD candidate at Erasmus University who was one of the winners of the [Convergence Health and Technology Open Research Award in 2021](https://osc-delft.github.io/posts/2021/11/30/Winners-of-the-Convergence-Health-and-Technology-Open-Research-Awards-2021/), on her experiences with Open Science in the blog ‘[Openess Opens Doors](https://www.eur.nl/en/news/openness-opens-doors)’. 
+One of the other winners of these Open Research Awards was Leila Iñigo de la Cruz from BN!
 
 # Open Publishing
 - [Registered Reports](https://cos.io/rr/)
@@ -255,13 +263,25 @@ Read this blogpost on [‘The Valley of Shit’](https://thesiswhisperer.com/201
     - [Twitter thread on Dr Lizzy Lowe’s experiences with transitioning to industry](https://twitter.com/LizyLowe/status/1415191644861722625)
     - Work on your [career transition story](https://beyondprof.com/your-phd-career-transition-story/)
 - [List of postdoctoral fellowships](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/) set up by the Johns Hopkins University
-- Structure your CV
+- Browse a [collection on **postdoc fellowships in biology**](https://docs.google.com/spreadsheets/d/1J2M_tQgoqV4ivpfEClh9qs9f2KQN2O1G3Jpda2aoHfQ/edit#gid=0).
+- **Structure your CV**
     - A [Twitter thread by Alexandria West](https://twitter.com/AlexWestPsych/status/1400885658139467778) contains some opinions on the topic.
     - You can use your [ORCID](https://orcid.org/) to [generate a CV (with R)](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806).
-- Writing grants
+    - Generate your CV easily [using a template](https://javierelio.shinyapps.io/cv_app/) (from this [Twitter Thread with tips for CVs](https://twitter.com/tpoi/status/1482375387820830723))
+- **Writing grants**
     - The [Open Grants repository](https://www.ogrants.org/) contains grant applications that got funded or rejected that can serve as an example.
 - [Hsu et al. 2021](https://doi.org/10.1126/sciadv.abj2604) contains short **interviews** with people in academic hiring committees (pages 9-11) that provides some insights in the hiring process (publications/funding may be less important if you have a clear vision on your work and are able to communicate your research well!). While the data is based on neuroscientists, some of the things are more generally applicable (such as institutions showing a preference for hiring individuals that they know).
-- **Not sure** what to do after your PhD? This [interview with Jennifer Polk](https://open.spotify.com/episode/5WXJDQBNiiy42D9IBBHyyd?si=WRXeouhCQy-qk6F7qjb9ZA&dl_branch=1) contains some helpful pointers. 
-If you’re on the fence about staying or leaving academia, this [Twitter thread by Shoshana Jarvis](https://twitter.com/Shoshana_Jarvis/status/1428403324483629060) is for you. 
+    - Browse through an [overview of **successful grant applications and interviews**](https://github.com/RILAB/statements).
+- **Not sure what to do after your PhD?** 
+    - This [interview with Jennifer Polk](https://open.spotify.com/episode/5WXJDQBNiiy42D9IBBHyyd?si=WRXeouhCQy-qk6F7qjb9ZA&dl_branch=1) contains some helpful pointers. 
+    - If you’re on the fence about staying or leaving academia, this [Twitter thread by Shoshana Jarvis](https://twitter.com/Shoshana_Jarvis/status/1428403324483629060) is for you. 
+    - Listen a [podcast on career uncertainty](https://open.spotify.com/episode/62G37HRzlJypmCLYLU4aex?si=iy22EOj5TZqB8DB0toG1Ww). 
+    - Do a job search and find 25 jobs that you find interesting. 
+    Copy the requirements and group them: focus developing the skills in the top 3-5 mentioned requirements/skills (from this [Twitter post by Emily Kubicek](https://twitter.com/steministemily/status/1478173318398169088). 
+    - Go parallel and forget about the serial model to figure out what you enjoy! 
+    Read this [Twitter thread by Daniel MacArthur](https://twitter.com/dgmacarthur/status/1486824087724847104) to learn more. 
 - If you want to apply for a **position in another lab**, [these are a couple of good questions](https://twitter.com/ProfessorTanvir/status/1448690023277203459) to ask to see if the lab will be a good fit for you! 
+- Read a blog by ERClife on “[Early Career Researchers, take charge and **develop your career**](https://ecrlife.org/early-career-researchers-the-world-is-your-oyster-take-charge-and-develop-your-career-2/)” or by Lizzie Gadd on “[Five steps to healthy research career building](https://drhiddencurriculum.wordpress.com/2022/01/25/five-steps-to-healthy-research-career-building/)”.
+
+
 
