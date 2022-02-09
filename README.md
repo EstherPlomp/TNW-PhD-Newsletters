@@ -60,6 +60,7 @@ You can also choose another data repository, such as [Zenodo](https://zenodo.org
 - **Workshop/Training materials**
     - ‘**Intermediate Research Software Development in Python**’ course in your own time as [all the materials are available online/on GitHub](https://carpentries-incubator.github.io/python-intermediate-development/).
     - [**Binder** workshop materials](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder)
+    - [RIOT: Version control for academics with GitHub, Dr Sam Forbes](https://www.youtube.com/watch?v=pxRSpfmX2h0)
 - [Aalto University resources on making your computational workflow more reproducible](https://scicomp.aalto.fi/scicomp/zen-of-scicomp/)
 - Licenses: [website with explanations on licenses in plain English](https://tldrlegal.com/) or [choose a License website](https://choosealicense.com/) (TU Delft recommends the MIT license for code and CC-BY for data)
 - [Webinar on Open Software licenses](https://www.youtube.com/watch?v=y9y8a3O4fjg), where they also discuss **readme files** (30.48 – 41:00), which you need for your project to describe it to others and tell them how to interact with your code/software. You can also learn about **contribution guidelines** and how to set up a **code of conduct** (46:00 – 1:01) from the same webinar. 
