@@ -1,5 +1,5 @@
 # TNW-PhD-Newsletters
-Overview of the newsletters sent to the PhD students of TNW by the [Data Steward](https://intranet.tudelft.nl/-/data-stewardship-at-applied-sciences). Below follow resources that have previously been sent out sorted on their main topic. If you're not a TNW/AS candidate you can sign up here: https://forms.gle/ieV5VcGcGbJNMwN89
+Overview of the newsletters sent to the PhD candidates of TNW by the [Data Steward](https://intranet.tudelft.nl/-/data-stewardship-at-applied-sciences). Below follow resources that have previously been sent out sorted on their main topic. If you're not a TNW/AS candidate you can sign up here: https://forms.gle/ieV5VcGcGbJNMwN89
 
 
 # Data
