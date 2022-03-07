@@ -58,10 +58,12 @@ You can also choose another data repository, such as [Zenodo](https://zenodo.org
         - **Where to get help?** Email Esther!
         - See also this [recording](https://youtu.be/bPl5sdTvLMM) and the [slides](http://doi.org/10.5281/zenodo.4772235) 
 - **Workshop/Training materials**
+    - The **eScienceCenter is now sending out newsletters** so that you can keep up to date with the workshops that they organise: [sign up here](https://esciencecenter.us8.list-manage.com/subscribe?u=a0a563ca342f1949246a9f92f&id=31bfc2303d&mc_cid=22d88cb6ae&mc_eid=ce223eff4c). 
     - ‘**Intermediate Research Software Development in Python**’ course in your own time as [all the materials are available online/on GitHub](https://carpentries-incubator.github.io/python-intermediate-development/).
     - [**Binder** workshop materials](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder)
     - [RIOT: Version control for academics with GitHub, Dr Sam Forbes](https://www.youtube.com/watch?v=pxRSpfmX2h0)
 - [Aalto University resources on making your computational workflow more reproducible](https://scicomp.aalto.fi/scicomp/zen-of-scicomp/)
+- **Embrace the Command Line** by using Jeroen Janssens' [book that is freely available](https://datascienceatthecommandline.com/2e/). 
 - Licenses: [website with explanations on licenses in plain English](https://tldrlegal.com/) or [choose a License website](https://choosealicense.com/) (TU Delft recommends the MIT license for code and CC-BY for data)
 - [Webinar on Open Software licenses](https://www.youtube.com/watch?v=y9y8a3O4fjg), where they also discuss **readme files** (30.48 – 41:00), which you need for your project to describe it to others and tell them how to interact with your code/software. You can also learn about **contribution guidelines** and how to set up a **code of conduct** (46:00 – 1:01) from the same webinar. 
 - Webinar: ['How to set up a GitHub repository and your own website'](https://www.youtube.com/watch?v=QRUvQgKbVZQ)
@@ -115,7 +117,9 @@ See for example the workshop on [software design and sustainability](https://www
     - [Nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/) seems handy for Jupyter notebooks (headers, notifications when cells are done running, code folding). 
     - [Pylustrator](https://pylustrator.readthedocs.io/en/latest/) offers an interactive interface to find the best way to present your data in a figure for publication. Added formatting an styling can be saved by automatically generated code.
     - Learn more about testing your Python code by listening to a [podcast on research software testing](https://podcastaddict.com/episode/116745171).
-    - [PEP 657](https://www.python.org/dev/peps/pep-0657/) tracebacks will annotate where exactly the error is happening in your code! 
+    - [PEP 657](https://www.python.org/dev/peps/pep-0657/) tracebacks will annotate where exactly the error is happening in your code!
+    - Data Umbrella also has a monthly newsletters with events and tips focusing on **Python**. 
+    [Read their February edition](https://dataumbrella.substack.com/p/data-umbrella-newsletter-february) and sign up! 
 - **R**
     -  [Delft RCafe resources](https://github.com/Delft-RCafe/resources/blob/gh-pages/index.md)
     -  UseR! 2020 presentations are available on the [useR! YouTube channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
@@ -176,6 +180,16 @@ This format allows for live code, data and interactive figures next to your manu
 - To avoid publishing with **predatory publishers** check out the checklists for [books](https://thinkchecksubmit.org/books-and-chapters/) and [journals](https://thinkchecksubmit.org/journals/) from [Think, check, submit](https://thinkchecksubmit.org/).
 - [Short video on academic publishing](https://www.youtube.com/watch?v=PriwCi6SzLo&feature=youtu.be).
 - Video: [introduction to Preregistration](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=db83bd17-4c08-466b-9ced-ac60012e7573)
+- Two videos on the [workings of the publishing system](https://twitter.com/dglaucomflecken/status/1493946227985059841?s=21) and [article processing fees from Nature](https://twitter.com/dglaucomflecken/status/1484679759829209090) by Dr. Glaucomflecken were quite the hit on Twitter in the past month.
+- In related news, [publishers now also tag PDFs with a unique hash](https://twitter.com/json_dirs/status/1486120144141123584), so you may want to be careful with how you share articles that are not Open Access (and publish Open Access where you can!)
+- A way to make the submitted version of your article openly accessible are **preprints**! If you haven't heard about those yet, here are a couple of resources: 
+  - [On Preprints](http://academiclifehistories.weebly.com/blog/on-preprints)
+  - eLife now only reviews and publishes articles that are shared as a preprint. 
+    Read more about how this works in their [guide for authors](https://elifesciences.org/inside-elife/fa9de0e7/preprint-review-a-guide-for-authors)
+  - Having doubts about posting a preprint? 
+    Read a [blogpost about experiences with sharing a first preprint](https://veronikach.com/phd-advice/firsts-publishing-a-preprint-before-submitting-the-paper/) or ["Why do some researchers have reservations about preprints?"](https://asapbio.org/march-community-call)
+  - Or watch [Preprints: A Practical Guide](https://www.youtube.com/watch?v=8OPpGdZhL5o)
+
 
 # Writing
 - The [PubReCheck tool](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/PubReCheck/#/) can identify some issues with your text
@@ -232,13 +246,18 @@ You may also want to read: ‘[Why scientific journal authorship practices make 
 - [Twitter thread on mental health](https://twitter.com/MIKendrick94/status/1301338644934877186) during COVID
 - [12 min video on how luck plays a large role in success](https://www.youtube.com/watch?v=3LopI4YeC4I)
 - [PhD on track website](https://www.phdontrack.net/) 
-- Read Alexandra Lautarescu’s [blogpost on the tools](https://www.alautarescu.com/post/what-i-use-during-my-phd) she is using during her PhD or Sam Westwood’s [blogpost on ‘Time-saving things that actually work’](https://medium.com/@samuelwestwood/time-saving-things-that-actually-work-trust-me-28461a6f4a41?source=linkShare-60ad664054ea-1601025564)
+- **Resources**
+    - Read Alexandra Lautarescu’s [blogpost on the tools](https://www.alautarescu.com/post/what-i-use-during-my-phd) she is using during her PhD or Sam Westwood’s [blogpost on ‘Time-saving things that actually work’](https://medium.com/@samuelwestwood/time-saving-things-that-actually-work-trust-me-28461a6f4a41?source=linkShare-60ad664054ea-1601025564)
+    - Overviews of tools by [Muhammad Sajeer](https://twitter.com/Sajeerp_/status/1487743490431721474), [Helena Hartmann](https://twitter.com/helenahhartmann/status/1473735195920633859), and  [Achintya Rao](https://raoofphysics.github.io/phd-starter-kit/)
+    - Use the [Early Career Research Central](https://ecrcentral.org/) to find and discuss opportunities, and share experiences
+    - [PhD Kickstarter](https://sites.google.com/view/phdkickstarter/home), FAQs to help you start and manage your PhD 
 - Some points that you may want to discuss with your supervisor can be found in this [Mentoring and Advising agreement document](https://docs.google.com/document/d/1oOPjjF8RJ1EOFvZMFAKe19hUVyQ5FRpS-tPV_uE1dcI/edit). 
 - This [blog on managing your supervisor relationship](https://voicesofacademia.com/2020/11/20/managing-your-student-supervisor-relationship-to-support-well-being-by-christiane-whitehouse/) contains some practical tips on **time/boundary management** that comes in handy not just with your supervisor but with anyone you’ll have to collaborate with.
 - [John Oliver’s Last week Tonight on Scientific Studies](https://www.youtube.com/watch?v=0Rnq1NpHdmw) (from 2016)
 - If you don't know how a **mathematical symbol** is called you can [draw it on the Detexify website](http://detexify.kirelabs.org/classify.html) that will provide you with potential names and LaTeX code!
 - Are you **losing confidence** in yourself or your PhD project? 
-Read this blogpost on [‘The Valley of Shit’](https://thesiswhisperer.com/2012/05/08/the-valley-of-shit/) for some advice on how to deal with this. 
+    - Read this blogpost on [‘The Valley of Shit’](https://thesiswhisperer.com/2012/05/08/the-valley-of-shit/) for some advice on how to deal with this. 
+    - How do you know something (like your research, paper, dissertation) is [good enough](https://pragmaticphd.com/good-enough/)?
 - [Comic on Science Fictions](https://www.smbc-comics.com/comic/science-fictions) 
 - [Faking your daily commute](https://werepstem.com/2021/01/15/as-days-blend-together-many-turn-to-fake-commutes-for-a-sense-of-routine/) 
 - 'The Professor is in' has webinars available to [improve your productivity](https://theprofessorisin.com/free-productivity-webinars/) and a [blog post on how to gain some motivation](https://theprofessorisin.com/2020/07/27/motivation/). 
