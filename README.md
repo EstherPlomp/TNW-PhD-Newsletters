@@ -93,7 +93,19 @@ Watch [this short video by Dr. Barbara Vreede on sharing your project](https://w
     - Hesitant about **sharing your software/code?** 
 This [Twitter thread by Colin Angus](https://twitter.com/VictimOfMaths/status/1405809689246507010) highlights the benefits.
     - Doubting whether your **software is ready to be published** in the Journal of Open Source Software? 
-[Read a blogpost about to know for sure]. 
+[Read a blogpost about to know for sure](http://pdebuyl.be/blog/2021/joss-ready.html). 
+    - **Why share your code?**
+[Read some reflections from the social sciences](https://www.ncrm.ac.uk/news/show.php?article=5705) that are widely applicable. 
+    - [Krafczyk et al. 2021]( https://doi.org/10.1098/rsta.2020.0069) share some helpful **recommendations on how you can share your software** (pages 5-11). 
+    - [GitHub](https://github.com/) is a great platform to share software but it won’t **preserve your code for the long term** (for example, [GitHub changed github.com to github.io](https://twitter.com/EmilyEscamilla_/status/1509252361310588932), resulting in a lot of broken links). 
+Instead, you can preserve a snapshot of your code on either [Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) or [4TU.ResearchData (Connecting your GitHub/GitLab account)](https://data.4tu.nl/info/en/about-your-data/getting-started). 
+    - You may be asked to share your code by **peer reviewers**! 
+        - [Read this blogpost on how peer review of software can improve the quality of your work]( https://ropensci.org/blog/2019/04/18/wild-standards/)
+        - [Jan Jensen](https://twitter.com/janhjensen/status/1479434115397136392) won’t recommend publication if the code is not made freely available. 
+See also the reactions to this approach in this [Twitter thread by Evelyne Deplazes](https://twitter.com/DeplazesEvelyne/status/1479625126458978305).  
+    - You can also use [notebooksharing](https://notebooksharing.space/) to **share your Jupyter and R Markdown notebooks** with co-authors. 
+    - [Lisa deBruine has written a short guide](https://twitter.com/LisaDeBruine/status/1504063177012695047) for authors that want to **share their code in a computationally reproducible way**. 
+    - The [Journal of Open Source Education]( https://jose.theoj.org/) **publishes open-source educational materials and software**.
 - The Turing Way now has a guide on [Software Citation with CITATION.cff](https://the-turing-way.netlify.app/communication/citable/citable-cff.html). 
 You can also go over this [Software Citation Checklist for Authors](https://doi.org/10.5281/zenodo.3479199).
 - Recordings of the ‘**[SeptembRSE](https://septembrse.society-rse.org/)**’ sessions are [available on YouTube](https://www.youtube.com/playlist?list=PL27mQJy8eDHkB1Q9pu8pXpMa1AZtwov6Q). 
@@ -220,6 +232,7 @@ This [two-page article](https://www.mjdrdypv.org/text.asp?2021/14/6/599/329688) 
 You may also want to read: ‘[Why scientific journal authorship practices make no sense et al.](https://www.science.org/content/article/why-scientific-journal-authorship-makes-absolutely-no-sense-et-al)’ 
 - Or you can procrastinate by reading more [writing tips on Twitter](https://twitter.com/rodriguesjm6/status/1436355550388932614) (see also the upcoming tweet chat using [#ImLeavingAcademia](https://twitter.com/hashtag/ImLeavingAcademia) on the 13th of Jan!) or by watching this RIOT talk on ‘[Reimagining scientific publishing](https://www.youtube.com/watch?v=0AX2vNMsX98)’!
 - Afterwards, you probably want to learn more about how you can [deal with **writing guilt**](https://twitter.com/dsquintana/status/961107677232418816). 
+- The [HemingWay Editor](https://hemingwayapp.com/) allows you to check if your sentences are **written clearly**. See also this [Twitter thread by Mercedes Gómez-López](https://twitter.com/dr_gomez_lopez/status/1503833830742016008) on **academic writing**.
 
 # Integrity
 - [Recordings of the National Symposium on Research Integrity 2020](http://www.nsri2020.nl/symposium)
@@ -274,6 +287,8 @@ You may also want to read: ‘[Why scientific journal authorship practices make 
 - [‘Picture a scientist’ documentary](https://www.filmplatform.net/product/picture-a-scientist/) (that you can watch if you’re logged in through the TU Delft network!) 
 - [Diversity and Inclusion in Research, Technology and Design](https://osc-delft.github.io/posts/2021/10/29/diversity-and-inclusion-in-research-technology-and-design/)
 - Maranke Wieringa is setting up a new Dutch interuniversity **network for people with a disability**: contact them for more information through their email (m.a.wieringa[at]uu.nl) or on Twitter.
+- Slack panel on [Trailblazing women in tech](https://slackwomensday.splashthat.com/slackemail).
+- [atoms are binary](https://twitter.com/KatysCartoons/status/1504463231380865031)
 
 # Career
 - **Career outside of academia**
@@ -303,5 +318,9 @@ You may also want to read: ‘[Why scientific journal authorship practices make 
 - If you want to apply for a **position in another lab**, [these are a couple of good questions](https://twitter.com/ProfessorTanvir/status/1448690023277203459) to ask to see if the lab will be a good fit for you! 
 - Read a blog by ERClife on “[Early Career Researchers, take charge and **develop your career**](https://ecrlife.org/early-career-researchers-the-world-is-your-oyster-take-charge-and-develop-your-career-2/)” or by Lizzie Gadd on “[Five steps to healthy research career building](https://drhiddencurriculum.wordpress.com/2022/01/25/five-steps-to-healthy-research-career-building/)”.
 
-
+# Tools 
+- **Chem4Word** will allow you to draw different kinds of chemical reactions and specifying reactants, products, reaction type with reagents and conditions in Microsoft Word.
+You can [download the betaversion](https://www.chem4word.co.uk/2022/03/15/all-new-for-2022-chem4word-does-chemical-reactions/) now and provide them with feedback!
+- [Find different CLI tools](https://twitter.com/rust4bio/status/1479817227964760066) for **bioinformatics**. 
+- The Protein Data Bank in Europe (PDBe) and PDBe Knowledge Base (PDBe-KB) have tools available to **analyse binding sites in protein structures** (see the [recordings of a webinar](https://www.ebi.ac.uk/training/events/guide-analysing-binding-sites-protein-structures) they hosted on this topic). 
 
