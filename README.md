@@ -11,12 +11,15 @@ Overview of the newsletters sent to the PhD candidates of TNW by the [Data Stewa
     - [4TU.ResearchData](https://data.4tu.nl/) archive to share your data
     - [Project drive](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/manage/storage/), [SURFdrive](https://www.surf.nl/en/surfdrive-store-and-share-your-files-securely-in-the-cloud) or OneDrive to store your project’s research data
 - [Know Moore About Research Data Management](https://www.youtube.com/watch?v=NCUT6MA-zVA) (+ [slides](https://hcommons.org/deposits/item/hc:28833/) - Some resources mentioned in the webinar are Cambridge specific)
+- [The Turing Way](https://the-turing-way.netlify.app/welcome.html) also has a chapter on [Research Data Management](https://the-turing-way.netlify.app/reproducible-research/rdm.html) - and a lot more information on how to **work more reproducible**. 
 - [Blogpost that contains some tips on how to organise your paperwork](https://alexwlchan.net/2019/11/my-scanning-setup/)
 - Webinar: [Data licenses and management](https://youtu.be/hiLDGLfXa2s?t=3850) (1:04-1:17)
+- Aalto University’s [Introduction to Research Data Management](https://www.youtube.com/watch?v=duDCcV8xhQo) 
 - Short video on [**file formats**](https://www.youtube.com/watch?v=kxxlQnc8u1I)
 - Organise your **spreadsheet data** with [OpenRefine](https://openrefine.org/)/[Frictionlessdata](https://frictionlessdata.io/)/[Excelint](https://github.com/plasma-umass/Excelint-addin) (see also [this lesson on OpenRefine by the Carpentries](https://librarycarpentry.org/lc-open-refine/)).
 - Podcast episode [‘Reproducible data science, how hard can it be?’](https://open.spotify.com/episode/1OVxFUA5UyIfMSCd842wjD?si=tEhJzufDROmOqsvJHsUPuw)
 - [ROpenSci webinar “The Wild World of Data Repositories”](https://ropensci.org/commcalls/dec2020-datarepos/)
+- Learn more about **Data Management Plans (DMP)** by [watching a video on DMPs](https://www.youtube.com/watch?v=tvs5_X5rn8w)
 - **file naming** 
     - Do you run into [New_Final_FINAL_NEW_23_FuckingFinal.jpeg](https://twitter.com/chazhutton/status/1285955514241875968) troubles? 
 Have a look at [this presentation on naming things](https://speakerdeck.com/jennybc/how-to-name-files) or a [blogpost on how to make your files more findable](https://zapier.com/blog/organize-files-folders/). 
@@ -28,9 +31,13 @@ See also these [slides on the Practicalities of Data Handling](https://doi.org/1
 - Learn more about [**how to organise your research project** through this short video](https://youtu.be/tBGLRXUbCrU). 
 - Want to learn more on **working more openly and reproducibly**? Watch these [videos on how to do open and reproducible research](https://tmskr.github.io/video.html).
 - If you’re not convinced about **documenting your data and setting up a readme file**, you may want to check out this [Twitter thread by Dr. Elisabeth Bik were she is trying to install a research tool](https://twitter.com/MicrobiomDigest/status/1283082285097422848). 
+- Setting up your **readme file** has never been easier with the [readme.so online editor](https://readme.so/).
 - When you use **arXiv** you can now [link your publication to a dataset](https://blog.arxiv.org/2021/05/13/linking-to-datasets-on-arxiv/)! 
+[arXiv now also asigns DOIs!](https://blog.arxiv.org/2022/02/17/new-arxiv-articles-are-now-automatically-assigned-dois/) 
 - There’s a **materials research data alliance community**: www.marda-alliance.org.
-- The [‘Quick Guide to Organizing Computational Biology Projects’](https://doi.org/10.1371/journal.pcbi.1000424) is relevant to all research projects and also goes into a bit more detail on **how to organise your files**. 
+- **organising files**
+    - The [‘Quick Guide to Organizing Computational Biology Projects’](https://doi.org/10.1371/journal.pcbi.1000424) is relevant to all research projects and also goes into a bit more detail on how to organise your files. 
+    - Read a blogpost on [‘How to Organize Your Digital Files’](https://www.nytimes.com/wirecutter/guides/how-to-organize-your-digital-files/).
 - Learn how to **manage your project**, folders and files from this [short video series on Project Structure](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=3) by Danielle Navarro (see [here for the slides](https://slides.djnavarro.net/project-structure/#1)).
 - **Data Sharing**
     - This blogpost [‘How can you make research data accessible’](https://www.software.ac.uk/how-can-you-make-research-data-accessible) describes five steps that you can take. 
@@ -43,6 +50,7 @@ See also these [slides on the Practicalities of Data Handling](https://doi.org/1
 See these [tips from Springer Nature for writing this statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement).
     - [Webinar on transparency and qualitative data sharing](https://www.youtube.com/watch?v=DKkExQfwqpU) 
     - Learn more about [how to **share your research** from PLOS](https://plos.org/resource/how-to-share-your-research/)
+    - [Sharing biological data: why, when, and how](https://doi.org/10.1002/1873-3468.14067) by Wilson et al. 2021 provides some pointers on how you can share **biological data**, specifically tabular data, genomics, proteomics, microscopy, and structural biological data. 
 
 # Software
 
@@ -180,6 +188,16 @@ They demonstrate **how to use the Open Science Framework in combination with [Pr
 - Martijn Nagtegaal (ImPhys) attended the MRI Together Workshop in 2021 and wrote a [blog about his experiences](https://openworking.wordpress.com/2022/01/11/mri-together-2021/).
 - Read more about the experiences of Anne Bülow, a PhD candidate at Erasmus University who was one of the winners of the [Convergence Health and Technology Open Research Award in 2021](https://osc-delft.github.io/posts/2021/11/30/Winners-of-the-Convergence-Health-and-Technology-Open-Research-Awards-2021/), on her experiences with Open Science in the blog ‘[Openess Opens Doors](https://www.eur.nl/en/news/openness-opens-doors)’. 
 One of the other winners of these Open Research Awards was Leila Iñigo de la Cruz from BN!
+- [The recording]( https://www.youtube.com/watch?v=3RHSynVB2Ng) of the **Open Hardware Summit 2022** is available! 
+You can watch it to get an idea of the (widespread) applications made possible by Open Hardware. 
+Highlights are the keynote by Ashley Jane Lewis ([starting at 5.47](https://youtu.be/3RHSynVB2Ng?t=347)) and the presentation by our own Open Hardware Engineer, Jerry de Vos ([starting at 1:00:07](https://youtu.be/3RHSynVB2Ng?t=3607)). 
+- Watch a [video by Cassandra Gould van Praag](https://vimeo.com/670399599) to learn more about **how to get a DOI for your research outputs**. 
+- Watch another [video by Prof Stephen Curry](https://youtu.be/AvXNsp2ch-A) on **Open Research and DORA**.
+- To see how others started their **Open Science journeys** and get inspired, watch an [interview with Dr. Malvika Sharan]( https://www.youtube.com/watch?v=GMwRyAwnlEk), or a [recording of the eLife Ambassadors Open Science event](https://www.youtube.com/watch?v=6XOyGZDCfdg).
+- If you are trying to **convince your supervisor** that you want to share your research outputs more widely, Kowalczyk et al. 2022 wrote a paper on [‘What senior academic can do to support open research’]( https://doi.org/10.1186/s13104-022-05999-0). There’s also the [ten-week plan for open data science]( https://www.nature.com/articles/d41586-019-03335-4) that can be used as a starting point. 
+- What can you do to **work more openly**? Read [this blogpost]( https://blog.scholasticahq.com/post/oa-leaders-advancing-boai-part-2/ ), especially the part by Dr. Mark C. Wilson who is offering some practical tips (scroll down a bit). 
+- Check out the [**Open Science Top Ten Tools**](https://genr.eu/wp/open-science-top-ten-tools-all-open-source/)! 
+
 
 # Open Publishing
 - [Registered Reports](https://cos.io/rr/)
@@ -324,3 +342,5 @@ You can [download the betaversion](https://www.chem4word.co.uk/2022/03/15/all-ne
 - [Find different CLI tools](https://twitter.com/rust4bio/status/1479817227964760066) for **bioinformatics**. 
 - The Protein Data Bank in Europe (PDBe) and PDBe Knowledge Base (PDBe-KB) have tools available to **analyse binding sites in protein structures** (see the [recordings of a webinar](https://www.ebi.ac.uk/training/events/guide-analysing-binding-sites-protein-structures) they hosted on this topic). 
 
+# Other
+- In case you want to know what data Elsevier collects from you, read [the blogpost ‘Welcome to Hotel Elsevier: you can check-out any time you like … not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)! 
