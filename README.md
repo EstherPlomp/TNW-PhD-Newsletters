@@ -63,13 +63,21 @@ See these [tips from Springer Nature for writing this statement](https://researc
         - **Why a research software policy?** The new workflow is an improvement as you don't have to ask the Valorisation Center permission to publish your software through a disclosure form, as long as you follow the workflow.
         - **How to follow the workflow?** A super concise summary is to share your code/software through [4TU.ResearchData](https://data.4tu.nl/info/en/) choosing one of the TU Delft approved licenses (Apache, MIT, BSD, EUPL, AGPL, LGPL, GPL, CC0)
 You can also choose another data repository, such as [Zenodo](https://zenodo.org/), but then you have to ensure that the output is correctly registered in PURE yourself.) 
+    - [TU Delft has its own instance of GitLab](https://gitlab.tudelft.nl/)  meant particularly for sensitive data/code that cannot be shared externally. 
+If you have external collaborators in a project, GitHub is a better solution. 
         - **Where to get help?** Email Esther!
         - See also this [recording](https://youtu.be/bPl5sdTvLMM) and the [slides](http://doi.org/10.5281/zenodo.4772235) 
+- **How to get started?**
+    * [Resources for using spreadsheets in research and moving to other tools](https://www.software.ac.uk/blog/2021-11-05-resources-using-spreadsheets-research-and-moving-other-tools)
+    * [9 Reasons Excel Users Should Consider Learning Programming](https://www.dataquest.io/blog/9-reasons-excel-users-should-consider-learning-programming/)
+    * [Training resources for researchers who want to code](https://www.software.ac.uk/blog/2021-11-11-training-resources-researchers-want-learn-code) 
+    * [Top Tips to Start Coding in Academia](https://www.software.ac.uk/blog/2021-11-04-top-tips-start-coding-academia)
 - **Workshop/Training materials**
     - The **eScienceCenter is now sending out newsletters** so that you can keep up to date with the workshops that they organise: [sign up here](https://esciencecenter.us8.list-manage.com/subscribe?u=a0a563ca342f1949246a9f92f&id=31bfc2303d&mc_cid=22d88cb6ae&mc_eid=ce223eff4c). 
     - ‘**Intermediate Research Software Development in Python**’ course in your own time as [all the materials are available online/on GitHub](https://carpentries-incubator.github.io/python-intermediate-development/).
     - [**Binder** workshop materials](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder)
     - [RIOT: Version control for academics with GitHub, Dr Sam Forbes](https://www.youtube.com/watch?v=pxRSpfmX2h0)
+    - Follow an [introduction to version control with **GitLab**](https://vimeo.com/668637653) by Dr Cassandra Gould van Praag. 
 - [Aalto University resources on making your computational workflow more reproducible](https://scicomp.aalto.fi/scicomp/zen-of-scicomp/)
 - **Embrace the Command Line** by using Jeroen Janssens' [book that is freely available](https://datascienceatthecommandline.com/2e/). 
 - Licenses: [website with explanations on licenses in plain English](https://tldrlegal.com/) or [choose a License website](https://choosealicense.com/) (TU Delft recommends the MIT license for code and CC-BY for data)
@@ -79,6 +87,12 @@ You can also choose another data repository, such as [Zenodo](https://zenodo.org
 - [document your code](https://twitter.com/ismonkeyuser/status/1332216804614303745)
 - [Twitter thread on reproducibility](https://twitter.com/VLucet/status/1297928408077303809) (with gifs!)
 - [FAIR software recommendations](https://fair-software.nl/recommendations/checklist)
+- **Improving code readability**
+  * Slides (.pdf) on [Writing clear code](https://kbroman.org/AdvData/14_clearcode.pdf) by Karl Broman
+  * Presentation on [Code Smells and Feels](https://github.com/jennybc/code-smells-and-feels#readme) by Jenny Bryan
+  * Slides on [Writing Clean Scientific Software](https://doi.org/10.5281/zenodo.3922957) by Nicolas Murphy 
+  * Example [video of how to structure your code](https://www.youtube.com/watch?v=EQIOyF2oots) by Anton Akhmerov
+  * Slides with [15 tips to write better analytic code](https://doi.org/10.6084/m9.figshare.13362740.v1) by Francisco Rodriguez-Sanchez
 - **Software quality checklist**
     - [Software Sustainability Institute checklist](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform) (it is a google form)
     - [Core Infrastructure Initiative](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform)
@@ -89,6 +103,8 @@ You can also choose another data repository, such as [Zenodo](https://zenodo.org
 - Vlog on [how to start with code sharing](https://www.youtube.com/watch?v=u7h0A-KvWls&). 
 - [Sharing brain MRI data/code](https://www.youtube.com/watch?v=28XzdqbGKoE&feature=youtu.be)
 - ‘[Science as Amateur Software Development](https://youtu.be/zwRdO9_GGhY)’
+- Learn how to improve your **software management** from [The Good Research Code Handbook](https://goodresearch.dev/index.html).
+- Felienne Hermans wrote [The Programmer's Brain](https://www.universiteitleiden.nl/en/research/research-output/science/the-programmers-brain).
 - Recordings from previous Collaboration Workshops by the Software Sustainability Insitute are available on their [YouTube channel](https://www.youtube.com/c/SoftwareSaved/playlists)
 - The [videos of the **2020 Essential Open Source Software for Science conference** are available on YouTube](https://www.youtube.com/watch?v=h6OkCbEd1AE&list=PLilvrWT8aLuZgAIJ7rq3-hhw_M5Z1yV4l). 
 See for example the [demo on Imaging & Microscopy](https://youtu.be/0FjKkTJO0Rc). 
@@ -102,6 +118,7 @@ Watch [this short video by Dr. Barbara Vreede on sharing your project](https://w
 This [Twitter thread by Colin Angus](https://twitter.com/VictimOfMaths/status/1405809689246507010) highlights the benefits.
     - Doubting whether your **software is ready to be published** in the Journal of Open Source Software? 
 [Read a blogpost about to know for sure](http://pdebuyl.be/blog/2021/joss-ready.html). 
+    - [How can **software containers** help your research?](https://www.youtube.com/watch?v=HelrQnm3v4g)
     - **Why share your code?**
 [Read some reflections from the social sciences](https://www.ncrm.ac.uk/news/show.php?article=5705) that are widely applicable. 
     - [Krafczyk et al. 2021]( https://doi.org/10.1098/rsta.2020.0069) share some helpful **recommendations on how you can share your software** (pages 5-11). 
@@ -164,7 +181,7 @@ See this feature on ‘[Five keys to writing a reproducible lab protocol](https:
 - [Open Science Community Delft](https://osc-delft.github.io/) 
 - **TU Delft has an [Open Science website](https://www.tudelft.nl/library/actuele-themas/openscience).** 
 - [TU Delft’s Open Science online course](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world)
-- [Open Life Science programmme](https://openlifesci.org/) (which TNW PhD candidates can follow for credits!)
+- [Open Life Science programmme](https://openlifesci.org/) (which [TNW PhD candidates can follow for credits](https://intranet.tudelft.nl/-/open-life-science-programme)!)
 - **King’s Open Research Conference** [blogpost summary and recordings](https://www.kcl.ac.uk/daring-to-shift-research-culture-towards-more-reproducibility-and-transparency).  
 - Share your data/code on your **CV**! Check [this example](https://bartlettje.github.io/BartlettJE.github.io/research/).
 Make sure that you set up an [ORCID](https://orcid.org/) so that you can always link to your ORCID in your CV! 
@@ -295,6 +312,9 @@ You may also want to read: ‘[Why scientific journal authorship practices make 
 - How do [Lord of the Rings GIFs describe the academic experience](https://twitter.com/AndrewBarnas/status/1440361521377280002?s=03)?
 - For some more tips on how to get through your PhD you can read my blog “[PhD in 4 - 5, 6, 7](https://vu.nl/en/about-vu/more-about/phd-in-4-5-6-7)”.
 - In case people are telling you to show more grit or just buckle up or work harder during your PhD, you might want to watch this video “[Grittier Than You](https://www.ted.com/talks/cait_kirby_grittier_than_you)”. 
+- **Prioritising**
+    - [The Guide to Saying No](https://www.deargradstudent.com/episodes/64) (starts at 9:30)
+    - [Not overextending ourselves](https://open.spotify.com/episode/2WrDeT1u4XjkANRJz7C5Pm?si=d6d74ea5466d46fb)
 
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
