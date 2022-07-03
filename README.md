@@ -182,6 +182,7 @@ See this feature on ‘[Five keys to writing a reproducible lab protocol](https:
 - **TU Delft has an [Open Science website](https://www.tudelft.nl/library/actuele-themas/openscience).** 
 - [TU Delft’s Open Science online course](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world)
 - [Open Life Science programmme](https://openlifesci.org/) (which [TNW PhD candidates can follow for credits](https://intranet.tudelft.nl/-/open-life-science-programme)!)
+**No experience with Open Science practises yet**? This [Open Science Buffet](https://doi.org/10.5281/zenodo.6752865) poster will point you to some resources that we have at TU Delft that can support you!
 - **King’s Open Research Conference** [blogpost summary and recordings](https://www.kcl.ac.uk/daring-to-shift-research-culture-towards-more-reproducibility-and-transparency).  
 - Share your data/code on your **CV**! Check [this example](https://bartlettje.github.io/BartlettJE.github.io/research/).
 Make sure that you set up an [ORCID](https://orcid.org/) so that you can always link to your ORCID in your CV! 
@@ -268,6 +269,15 @@ You may also want to read: ‘[Why scientific journal authorship practices make 
 - Or you can procrastinate by reading more [writing tips on Twitter](https://twitter.com/rodriguesjm6/status/1436355550388932614) (see also the upcoming tweet chat using [#ImLeavingAcademia](https://twitter.com/hashtag/ImLeavingAcademia) on the 13th of Jan!) or by watching this RIOT talk on ‘[Reimagining scientific publishing](https://www.youtube.com/watch?v=0AX2vNMsX98)’!
 - Afterwards, you probably want to learn more about how you can [deal with **writing guilt**](https://twitter.com/dsquintana/status/961107677232418816). 
 - The [HemingWay Editor](https://hemingwayapp.com/) allows you to check if your sentences are **written clearly**. See also this [Twitter thread by Mercedes Gómez-López](https://twitter.com/dr_gomez_lopez/status/1503833830742016008) on **academic writing**.
+
+
+# Copyright
+Learn more about **licenses for publications and data**: Watch some short videos that:
+- [Provide insights into the copyright agreement signing during the publishing process](https://www.youtube.com/watch?v=dx71U3u--qU).
+-	[Introduce licenses](https://av.tib.eu/media/53449?watchlist=11784).
+-	Go over the [different types of Creative Commons licenses](https://av.tib.eu/media/53525?watchlist=11784) (see the [license selector](https://chooser-beta.creativecommons.org/) to choose your own data license).
+
+Or read more about [data licenses on The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html).
 
 # Integrity
 - [Recordings of the National Symposium on Research Integrity 2020](http://www.nsri2020.nl/symposium)
