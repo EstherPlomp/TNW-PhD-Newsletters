@@ -168,6 +168,7 @@ See for example the workshop on [software design and sustainability](https://www
     - [15 minute video on the R Package WORCS, Workflow for Open Reproducible Code in Science (WORCS)](https://www.youtube.com/watch?v=uzjpN_yFeUU)
     - ‘[R for Excel users](https://education.rstudio.com/blog/2020/02/conf20-r-excel/)’ course
 - [What if the Marvel films were linux commands?](https://twitter.com/cooperrc84/status/1445489035376353292)
+- Not sure what a **Research Software Engineer** is? Listen to [Hello PhD podcast](https://hellophd.com/2022/03/172-research-software-engineer/) to learn more (7.40 – 40.00 for the interview with a Research Software Engineer). 
 
 # Open Methods
 - PLOS ONE introduced two new publication formats: [Lab Protocols and Study Protocols!](https://theplosblog.plos.org/2021/02/submit-your-lab-and-study-protocols-plos-one/)
@@ -325,6 +326,8 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
 - **Prioritising**
     - [The Guide to Saying No](https://www.deargradstudent.com/episodes/64) (starts at 9:30)
     - [Not overextending ourselves](https://open.spotify.com/episode/2WrDeT1u4XjkANRJz7C5Pm?si=d6d74ea5466d46fb)
+- This [meme](https://twitter.com/hardsci/status/1539746549466443777) might persuade you to take some time off ;)
+- In case you also manually scrolled back in an article every time you want to **look up a reference in an article**, you can use Alt + <- to return to the page you found it! ([Thanks Bjorn!)](https://twitter.com/OsteoBjorn/status/1554399706788335616)
 
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
@@ -339,14 +342,20 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
 - [atoms are binary](https://twitter.com/KatysCartoons/status/1504463231380865031)
 
 # Career
+- [Not everyone will become a PI after their PhD](https://www.nature.com/articles/d41586-022-00875-0), or [wants to become one](https://www.science.org/content/article/i-thought-i-wanted-be-faculty-member-then-i-served-hiring-committee)! 
 - **Career outside of academia**
     - This [Twitter thread lists some job skills](https://twitter.com/ZJAyres/status/1354704980838637569?s=03) that your PhD provides you with! 
     - See also this [blogpost on the skill gaps of PhD graduates](https://leidenmadtrics.nl/articles/skill-gaps-of-phd-graduates)
     - Transition to data science: [Twitter thread by Dr. Michael Mullarkey](https://twitter.com/mcmullarkey/status/1395145664267526145) 
     - [Twitter thread on Dr Lizzy Lowe’s experiences with transitioning to industry](https://twitter.com/LizyLowe/status/1415191644861722625)
     - Work on your [career transition story](https://beyondprof.com/your-phd-career-transition-story/)
+    - [Danielle Navarro’s blog on transitioning to industry](https://blog.djnavarro.net/posts/2022-04-01_academia-to-industry-transition/) 
+    - [Ashley Ruba’s mistakes thread on finding an industry job](https://twitter.com/ashleyruba/status/1521500770373406725)).
 - [List of postdoctoral fellowships](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/) set up by the Johns Hopkins University
 - Browse a [collection on **postdoc fellowships in biology**](https://docs.google.com/spreadsheets/d/1J2M_tQgoqV4ivpfEClh9qs9f2KQN2O1G3Jpda2aoHfQ/edit#gid=0).
+- Want to stay in **Dutch Academia**? 
+Read [Eva Lantsoght’s blogpost on 'Diversifying career paths in the Dutch universities'](https://www.evalantsoght.com/2022/03/phd-talk-for-academictransfer-2.html). 
+Eva mentions **finding your strengths**, which the [StrengthsFinder website](https://leadthroughstrengths.com/talents/) can help you with!
 - **Structure your CV**
     - A [Twitter thread by Alexandria West](https://twitter.com/AlexWestPsych/status/1400885658139467778) contains some opinions on the topic.
     - You can use your [ORCID](https://orcid.org/) to [generate a CV (with R)](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806).
@@ -365,6 +374,13 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
     Read this [Twitter thread by Daniel MacArthur](https://twitter.com/dgmacarthur/status/1486824087724847104) to learn more. 
 - If you want to apply for a **position in another lab**, [these are a couple of good questions](https://twitter.com/ProfessorTanvir/status/1448690023277203459) to ask to see if the lab will be a good fit for you! 
 - Read a blog by ERClife on “[Early Career Researchers, take charge and **develop your career**](https://ecrlife.org/early-career-researchers-the-world-is-your-oyster-take-charge-and-develop-your-career-2/)” or by Lizzie Gadd on “[Five steps to healthy research career building](https://drhiddencurriculum.wordpress.com/2022/01/25/five-steps-to-healthy-research-career-building/)”.
+-	When you get invited to a **job interview**, come with **questions**! 
+    - Read threads by [Amber Naslund](https://twitter.com/AmberCadabra/status/1516802269274071044) and [Anthony Disney](https://twitter.com/buildinglegends/status/1554126131321782280), or the [HBR article by Amy Gallo](https://hbr.org/2022/05/38-smart-questions-to-ask-in-a-job-interview) for inspiration. 
+    - See also [6 things to say during job interviews](https://www.cnbc.com/2021/02/08/want-a-job-at-google-a-vp-shares-6-things-to-say-during-job-interviews.html).
+- There is an [**AltAcChats** podcast](https://www.youtube.com/watch?v=EvO7UAUriTo) where you can learn more about Alt Academic career paths. 
+- Do you suffer from **networking anxiety**? This [Twitter Thread by PhD Balancing]( https://twitter.com/PhD_Balance/status/1403762851873968133) has some tips! 
+- How to set up **cold emails** – a [Twitter thread by Mohit Chandra]( https://twitter.com/mohit__30/status/1483395288266321923).
+- And just remember that academia/the job market is [not a meritocracy](https://twitter.com/dwebsterhist/status/1556003605160894467). 
 
 # Tools 
 - **Chem4Word** will allow you to draw different kinds of chemical reactions and specifying reactants, products, reaction type with reagents and conditions in Microsoft Word.
