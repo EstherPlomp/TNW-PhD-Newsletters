@@ -51,6 +51,7 @@ See these [tips from Springer Nature for writing this statement](https://researc
     - [Webinar on transparency and qualitative data sharing](https://www.youtube.com/watch?v=DKkExQfwqpU) 
     - Learn more about [how to **share your research** from PLOS](https://plos.org/resource/how-to-share-your-research/)
     - [Sharing biological data: why, when, and how](https://doi.org/10.1002/1873-3468.14067) by Wilson et al. 2021 provides some pointers on how you can share **biological data**, specifically tabular data, genomics, proteomics, microscopy, and structural biological data. 
+- Listen to the [Data Horror song](https://twitter.com/rafamoral/status/1571622591219236864)
 
 # Software
 
@@ -157,6 +158,12 @@ See for example the workshop on [software design and sustainability](https://www
     - [PEP 657](https://www.python.org/dev/peps/pep-0657/) tracebacks will annotate where exactly the error is happening in your code!
     - Data Umbrella also has a monthly newsletters with events and tips focusing on **Python**. 
     [Read their February edition](https://dataumbrella.substack.com/p/data-umbrella-newsletter-february) and sign up! 
+    - Check out the [Python Cheat sheet by OpenAcademics](https://twitter.com/OpenAcademics/status/1522246807765458944)
+    - Go over the source code from **Machine Learning Projects** for beginners [via a thread by Aishwarya Nevrekar](https://twitter.com/nevrekaraishwa2/status/1555232126240698368). 
+ Or follow a [course that introduces Machine Learning](https://intro-machine-learning.netlify.app/).
+    - Read the book ‘[Python for data analysis](https://wesmckinney.com/book/)’ 
+    - Or another book on ‘[Research Software Engineering with Python](https://merely-useful.github.io/py-rse/)’
+    - Check the course ‘[Programming in Python for Data Science](https://prog-learn.mds.ubc.ca/en/)’
 - **R**
     -  [Delft RCafe resources](https://github.com/Delft-RCafe/resources/blob/gh-pages/index.md)
     -  UseR! 2020 presentations are available on the [useR! YouTube channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
@@ -169,6 +176,15 @@ See for example the workshop on [software design and sustainability](https://www
     - ‘[R for Excel users](https://education.rstudio.com/blog/2020/02/conf20-r-excel/)’ course
 - [What if the Marvel films were linux commands?](https://twitter.com/cooperrc84/status/1445489035376353292)
 - Not sure what a **Research Software Engineer** is? Listen to [Hello PhD podcast](https://hellophd.com/2022/03/172-research-software-engineer/) to learn more (7.40 – 40.00 for the interview with a Research Software Engineer). 
+
+# Reproducibility
+- Read a chapter about ‘[Reproducible Bioinformatics Research for Biologists](https://osf.io/zqbu2)’ (for anyone with more wetlab experience than programming!)
+- Follow a [reproducibility checklist (pdf)](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist-v1.2.pdf) set up by NeurIPS.
+- Check out [slides by Jason K. Moore on computational reproducible papers](https://docs.google.com/presentation/d/e/2PACX-1vQDdWrp6zgVY1RodVLECVI0D7leP5eAeJLUD6ZHuX_NA-jvfWKTXcWHv9mZjR6W0PxPmmaJgFMpxIqJ/pub?start=false&loop=false&delayms=3000#slide=id.p). 
+- Watch some videos/seminars: 
+    - ‘[Towards a Culture of Computational Reproducibility](https://www.youtube.com/watch?v=XjW3t-qXAiE&)’
+    - ‘[Steps towards reproducible research]( https://www.youtube.com/watch?v=rNQ-RlG3JnQ)’
+    - [How to make your research reproducible?](https://www.workcast.com/ControlUsher.aspx?cpak=8232371292435174&pak=7279159888532687) (requires you to register to watch on demand)
 
 # Open Methods
 - PLOS ONE introduced two new publication formats: [Lab Protocols and Study Protocols!](https://theplosblog.plos.org/2021/02/submit-your-lab-and-study-protocols-plos-one/)
@@ -328,6 +344,7 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
     - [Not overextending ourselves](https://open.spotify.com/episode/2WrDeT1u4XjkANRJz7C5Pm?si=d6d74ea5466d46fb)
 - This [meme](https://twitter.com/hardsci/status/1539746549466443777) might persuade you to take some time off ;)
 - In case you also manually scrolled back in an article every time you want to **look up a reference in an article**, you can use Alt + <- to return to the page you found it! ([Thanks Bjorn!)](https://twitter.com/OsteoBjorn/status/1554399706788335616)
+- If you then want to **Get things Done**, read a [Twitter thread by Benjamin Smith](https://twitter.com/itmebenji/status/1559170545718947843).
 
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
