@@ -232,7 +232,8 @@ Highlights are the keynote by Ashley Jane Lewis ([starting at 5.47](https://yout
 - If you are trying to **convince your supervisor** that you want to share your research outputs more widely, Kowalczyk et al. 2022 wrote a paper on [‘What senior academic can do to support open research’]( https://doi.org/10.1186/s13104-022-05999-0). There’s also the [ten-week plan for open data science]( https://www.nature.com/articles/d41586-019-03335-4) that can be used as a starting point. 
 - What can you do to **work more openly**? Read [this blogpost]( https://blog.scholasticahq.com/post/oa-leaders-advancing-boai-part-2/ ), especially the part by Dr. Mark C. Wilson who is offering some practical tips (scroll down a bit). 
 - Check out the [**Open Science Top Ten Tools**](https://genr.eu/wp/open-science-top-ten-tools-all-open-source/)! 
-
+- The US recently released an announcement that **US funded research should be immediately accessible to the public**, similar to policies that Dutch institutes and NWO already implemented. 
+Watch [this short announcement video by Dr. Glaucomflecken](https://twitter.com/DGlaucomflecken/status/1563264244950646785). 
 
 # Open Publishing
 - [Registered Reports](https://cos.io/rr/)
@@ -254,7 +255,11 @@ This format allows for live code, data and interactive figures next to your manu
   - Having doubts about posting a preprint? 
     Read a [blogpost about experiences with sharing a first preprint](https://veronikach.com/phd-advice/firsts-publishing-a-preprint-before-submitting-the-paper/) or ["Why do some researchers have reservations about preprints?"](https://asapbio.org/march-community-call)
   - Or watch [Preprints: A Practical Guide](https://www.youtube.com/watch?v=8OPpGdZhL5o)
-
+- Learn more about **Open Access** via keynotes and podcasts: 
+  - [Locked up science](https://www.youtube.com/watch?v=SbzSR0b71PE) by Claudia Frick.
+  - [April Hathcock's keynote on Open Access](https://youtu.be/5_7SXNW-5DQ?t=481).
+  - The Labors in Ohr podcast introduces the [History of scientific publishing](https://open.spotify.com/episode/0h28zs4Htymv3hPuGO8LW1?si=8a38afc05a6a4995) with a follow up on [Open Access with Bjorn Brembs](https://open.spotify.com/episode/5yliqST0bGf1KJ6e8eB1OM?si=ff5aa064ac874daf) and an [episode focused on Plan S]( https://open.spotify.com/episode/3WllXZ1qAPRg3r0Z87kHwd?si=c4d48dc341fd4131).
+- Use [this workflow](https://twitter.com/AStrasser116/status/1576648460194807808/photo/1) to find accessible versions of research articles.
 
 # Writing
 - The [PubReCheck tool](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/PubReCheck/#/) can identify some issues with your text
