@@ -350,6 +350,7 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
 - This [meme](https://twitter.com/hardsci/status/1539746549466443777) might persuade you to take some time off ;)
 - In case you also manually scrolled back in an article every time you want to **look up a reference in an article**, you can use Alt + <- to return to the page you found it! ([Thanks Bjorn!)](https://twitter.com/OsteoBjorn/status/1554399706788335616)
 - If you then want to **Get things Done**, read a [Twitter thread by Benjamin Smith](https://twitter.com/itmebenji/status/1559170545718947843).
+- Academia is not a calling – it is an “emailing”!
 
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
