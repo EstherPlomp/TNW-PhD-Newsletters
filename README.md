@@ -413,3 +413,4 @@ You can [download the betaversion](https://www.chem4word.co.uk/2022/03/15/all-ne
 
 # Other
 - In case you want to know what data Elsevier collects from you, read [the blogpost ‘Welcome to Hotel Elsevier: you can check-out any time you like … not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)! 
+- If you're joining the Twitter migration to **Mastodon**, [elilla wrote a comprehensive overview](https://wordsmith.social/elilla/a-futuristic-mastodon-introduction-for-2021), and you can easily find people from twitter using the [fedifinder](https://fedifinder.glitch.me/).  
