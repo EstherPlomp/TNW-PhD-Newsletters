@@ -261,6 +261,20 @@ This format allows for live code, data and interactive figures next to your manu
   - The Labors in Ohr podcast introduces the [History of scientific publishing](https://open.spotify.com/episode/0h28zs4Htymv3hPuGO8LW1?si=8a38afc05a6a4995) with a follow up on [Open Access with Bjorn Brembs](https://open.spotify.com/episode/5yliqST0bGf1KJ6e8eB1OM?si=ff5aa064ac874daf) and an [episode focused on Plan S]( https://open.spotify.com/episode/3WllXZ1qAPRg3r0Z87kHwd?si=c4d48dc341fd4131).
 - Use [this workflow](https://twitter.com/AStrasser116/status/1576648460194807808/photo/1) to find accessible versions of research articles.
 
+# (Open) Peer Review
+- **The Turing Way** has a chapter on [Peer Review](https://the-turing-way.netlify.app/communication/peer-review.html), including a section on [Open Peer Review](https://the-turing-way.netlify.app/communication/peer-review/peer-review-open.html).
+- Listen to some [tips to **manage peer review**](https://www.nature.com/articles/d41586-020-00381-1) (also check out the episode on [how to publish a paper](https://www.nature.com/articles/d41586-020-00292-1)).
+- To **suggest peer reviewers** to the editor/journal, remember when other researchers interacted with you (meetings, conferences, Twitter). 
+Write their names down somewhere (a reviewers.txt file). 
+Or check which articles/authors you're citing!
+- How do you **respond to a review**? 
+[EASE provides a 6 step guide](https://ease.org.uk/communities/peer-review-committee/peer-review-toolkit/how-to-respond-to-reviewers-comments/) and [Dan Quintana wrote a short blog](https://www.dsquintana.blog/reviewer-response/) about this.
+- Watch a panel on ‘[Discussion on Peer Review: **"Thinking With” When Peer Reviewing**](https://www.youtube.com/watch?v=4iYMeWA-IGo&t=2680s)’.
+- Check the [**Open Reviewers Review Guide**](https://doi.org/10.5281/zenodo.5484087). 
+Pages 28-31 provide insights about what a reviewer would look for when evaluating your manuscript.
+- Read some [reflections on **reviewing in the publishing system**](http://neural-reckoning.org/reviewing.html).
+
+
 # Writing
 - The [PubReCheck tool](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/PubReCheck/#/) can identify some issues with your text
 - [11 step guide to structure your paper](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously) 
@@ -291,6 +305,8 @@ You may also want to read: ‘[Why scientific journal authorship practices make 
 - Or you can procrastinate by reading more [writing tips on Twitter](https://twitter.com/rodriguesjm6/status/1436355550388932614) (see also the upcoming tweet chat using [#ImLeavingAcademia](https://twitter.com/hashtag/ImLeavingAcademia) on the 13th of Jan!) or by watching this RIOT talk on ‘[Reimagining scientific publishing](https://www.youtube.com/watch?v=0AX2vNMsX98)’!
 - Afterwards, you probably want to learn more about how you can [deal with **writing guilt**](https://twitter.com/dsquintana/status/961107677232418816). 
 - The [HemingWay Editor](https://hemingwayapp.com/) allows you to check if your sentences are **written clearly**. See also this [Twitter thread by Mercedes Gómez-López](https://twitter.com/dr_gomez_lopez/status/1503833830742016008) on **academic writing**.
+- [Lex](https://lex.page) is a **new word processor with AI assistance** to help you to write. 
+
 
 
 # Copyright
@@ -413,4 +429,8 @@ You can [download the betaversion](https://www.chem4word.co.uk/2022/03/15/all-ne
 
 # Other
 - In case you want to know what data Elsevier collects from you, read [the blogpost ‘Welcome to Hotel Elsevier: you can check-out any time you like … not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)! 
-- If you're joining the Twitter migration to **Mastodon**, [elilla wrote a comprehensive overview](https://wordsmith.social/elilla/a-futuristic-mastodon-introduction-for-2021), and you can easily find people from twitter using the [fedifinder](https://fedifinder.glitch.me/).  
+- If you're joining the Twitter migration to **Mastodon**, [elilla wrote a comprehensive overview](https://wordsmith.social/elilla/a-futuristic-mastodon-introduction-for-2021), and you can easily find people from twitter using the [fedifinder](https://fedifinder.glitch.me/).
+- **machine/deep learning**
+    - [Sign up for a **machine learning newsletter**](https://www.getrevue.co/profile/jesperdramsch).
+    - [Read about five ways](https://www.nature.com/articles/d41586-022-02964-6) **deep learning has transformed image analysis**, also with the help of Citizen Science!
+    - Check out [**visual explanations** of machine learning concepts](https://mlu-explain.github.io/).
