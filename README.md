@@ -176,6 +176,7 @@ See for example the workshop on [software design and sustainability](https://www
     - ‘[R for Excel users](https://education.rstudio.com/blog/2020/02/conf20-r-excel/)’ course
 - [What if the Marvel films were linux commands?](https://twitter.com/cooperrc84/status/1445489035376353292)
 - Not sure what a **Research Software Engineer** is? Listen to [Hello PhD podcast](https://hellophd.com/2022/03/172-research-software-engineer/) to learn more (7.40 – 40.00 for the interview with a Research Software Engineer). 
+- The **NORM conference** has interesting talks on **[data visualistion](https://www.youtube.com/watch?v=MzaOivVxU8M)**, [invisible work](https://www.youtube.com/watch?v=HiF83i1OLOM), **[file naming](https://www.youtube.com/watch?v=ES1LTlnpLMk)**, [Excel hotkeys](https://youtu.be/HF0F4H8BNsE), [Docker](https://youtu.be/kx-SeGbkNPU), [Data is the new coffee]( https://youtu.be/GrQcVU-eapc), and [how to stop crying when using **Matplotlib**](https://youtu.be/vjQIaepijbE). 
 
 # Reproducibility
 - Read a chapter about ‘[Reproducible Bioinformatics Research for Biologists](https://osf.io/zqbu2)’ (for anyone with more wetlab experience than programming!)
@@ -198,6 +199,7 @@ See this feature on ‘[Five keys to writing a reproducible lab protocol](https:
 - [Open Science Community Delft](https://osc-delft.github.io/) 
 - **TU Delft has an [Open Science website](https://www.tudelft.nl/library/actuele-themas/openscience).** 
 - [TU Delft’s Open Science online course](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world)
+- TNW has an [Open Science support website](https://estherplomp.github.io/TNW-OS-support/)
 - [Open Life Science programmme](https://openlifesci.org/) (which [TNW PhD candidates can follow for credits](https://intranet.tudelft.nl/-/open-life-science-programme)!)
 **No experience with Open Science practises yet**? This [Open Science Buffet](https://doi.org/10.5281/zenodo.6752865) poster will point you to some resources that we have at TU Delft that can support you!
 - **King’s Open Research Conference** [blogpost summary and recordings](https://www.kcl.ac.uk/daring-to-shift-research-culture-towards-more-reproducibility-and-transparency).  
