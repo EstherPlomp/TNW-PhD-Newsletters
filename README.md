@@ -52,6 +52,17 @@ See these [tips from Springer Nature for writing this statement](https://researc
     - Learn more about [how to **share your research** from PLOS](https://plos.org/resource/how-to-share-your-research/)
     - [Sharing biological data: why, when, and how](https://doi.org/10.1002/1873-3468.14067) by Wilson et al. 2021 provides some pointers on how you can share **biological data**, specifically tabular data, genomics, proteomics, microscopy, and structural biological data. 
 - Listen to the [Data Horror song](https://twitter.com/rafamoral/status/1571622591219236864)
+- **Personal Data** 
+    - Personal data is any data that can lead to the identification of a person. 
+      If you work with surveys, interviews or videos of people – you’re working with personal data. 
+      This requires extra care when managing the data. 
+      See for example the [data privacy strategies outlined by The Turing Way](https://the-turing-way.netlify.app/project-design/sdpm/data-privacy-strategies.html).
+    - TU Delft now has a self-paced **personal data course**. 
+      You can sign up and follow it for 0.5 GS credits. 
+      The next run starts **3 April**. See the [website for more information](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research).
+    - If you want to learn more about the laws that regulate processing of personal data, such as the **GDPR**, you can watch a talk on ‘[GDPR & processing of (identifiable) image, audio, and video data](https://www.youtube.com/watch?v=H2mv6q4WwOU)’ or ‘[Putting Data Protection into practice](https://youtu.be/eAKhI0qde2w?t=1110)’ (18:30-38:50). 
+Or if you’re working with any **clinical data**: ‘[Open Data and Data Management in Clinical Research]( https://www.youtube.com/watch?v=H7YtnrLPG_A)’.
+
 
 # Software
 
@@ -263,6 +274,12 @@ This format allows for live code, data and interactive figures next to your manu
   - The Labors in Ohr podcast introduces the [History of scientific publishing](https://open.spotify.com/episode/0h28zs4Htymv3hPuGO8LW1?si=8a38afc05a6a4995) with a follow up on [Open Access with Bjorn Brembs](https://open.spotify.com/episode/5yliqST0bGf1KJ6e8eB1OM?si=ff5aa064ac874daf) and an [episode focused on Plan S]( https://open.spotify.com/episode/3WllXZ1qAPRg3r0Z87kHwd?si=c4d48dc341fd4131).
 - Use [this workflow](https://twitter.com/AStrasser116/status/1576648460194807808/photo/1) to find accessible versions of research articles.
 
+# Preprints
+- [Watch a crash course](https://elifesciences.org/inside-elife/8df4a59d/webinar-report-the-history-of-science-publishing) in the history of publishing and sharing your research through a preprint as an act of resistance to the publication pressures.
+- [Learn all about preprints from Jessica Polka](https://youtu.be/TW-SrGkmH6U?t=199) or check a webinar on '[How to Publish Preprints](https://www.youtube.com/watch?v=jwtX3kmnC4c)'. 
+- Not convinced about preprints? Check out a video on [How preprints can benefit both science and your career](https://www.youtube.com/watch?v=h-5YnAcN6Aw) or read [a guide to preprinting for early-career researchers](https://doi.org/10.1242/bio.059310) that lists benefits and arguments to convince co-authors to preprint. 
+- What if we all just submitted preprints and [have the journals compete on what gets published](https://twitter.com/DrCMcMaster/status/1515476892782317571?t=KV926aFHvKuOqzIcoCacdA&s=03)? 
+
 # (Open) Peer Review
 - **The Turing Way** has a chapter on [Peer Review](https://the-turing-way.netlify.app/communication/peer-review.html), including a section on [Open Peer Review](https://the-turing-way.netlify.app/communication/peer-review/peer-review-open.html).
 - Listen to some [tips to **manage peer review**](https://www.nature.com/articles/d41586-020-00381-1) (also check out the episode on [how to publish a paper](https://www.nature.com/articles/d41586-020-00292-1)).
@@ -369,6 +386,9 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
 - In case you also manually scrolled back in an article every time you want to **look up a reference in an article**, you can use Alt + <- to return to the page you found it! ([Thanks Bjorn!)](https://twitter.com/OsteoBjorn/status/1554399706788335616)
 - If you then want to **Get things Done**, read a [Twitter thread by Benjamin Smith](https://twitter.com/itmebenji/status/1559170545718947843).
 - Academia is not a calling – it is an “emailing”!
+- **Burn out**
+    - Watch '[How To Stop **Burnout** In Its Tracks With Özgün Ünver](https://www.youtube.com/watch?v=RsxM--V4mtc)'
+    - Read a [Twitter thread on burnout and steps you can take](https://twitter.com/egcartisano/status/1551961931380047884).
 
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
