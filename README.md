@@ -197,6 +197,16 @@ See for example the workshop on [software design and sustainability](https://www
     - ‘[Towards a Culture of Computational Reproducibility](https://www.youtube.com/watch?v=XjW3t-qXAiE&)’
     - ‘[Steps towards reproducible research]( https://www.youtube.com/watch?v=rNQ-RlG3JnQ)’
     - [How to make your research reproducible?](https://www.workcast.com/ControlUsher.aspx?cpak=8232371292435174&pak=7279159888532687) (requires you to register to watch on demand)
+- Ensuring your work is reproducible can **prevent retractions** later on, particularly when there are [software problems](https://www.science.org/doi/full/10.1126/science.314.5807.1856).
+- [Does **condensed matter physics** need to worry about a replication crisis?](https://virtualscienceforum.org/reproducibility_in_cmp/) 
+- Slides on [Data Management and Reproducibility: A Tasting Buffet](https://doi.org/10.5281/zenodo.7725483) by Shern Tee.
+- [Docker](https://www.docker.com/) is a **tool for reproducibility** and portability. 
+[Learn more about Docker and how can you start using it](https://do4ds.com/chapters/sec2/2-4-docker.html).
+- You can watch several **webinars/presentations** on reproducibility: 
+  - [Data sharing and reproducibility]( https://vimeo.com/668640629) by Dr Laurence Hunt (you can use [4TU.ResearchData](https://data.4tu.nl) and/or [Zenodo](https://zenodo.org/) to share data publicly!) 
+  - [Open and Reproducible Coding: Perspective of an MSK Imaging Researcher](https://www.youtube.com/watch?v=YiBjBt3NR8M) by Serena Bonaretti
+  - [Improve your workflow for reproducible science]( https://riotscience.co.uk/reproducible-data-science-with-r/) with a focus on rMarkdown by Mine Çetinkaya-Rundel
+  - [Improving openness and reproducibility of research](https://www.youtube.com/watch?v=-DDD901fk6s) by Brian Nosek
 
 # Open Methods
 - PLOS ONE introduced two new publication formats: [Lab Protocols and Study Protocols!](https://theplosblog.plos.org/2021/02/submit-your-lab-and-study-protocols-plos-one/)
@@ -389,6 +399,7 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
 - **Burn out**
     - Watch '[How To Stop **Burnout** In Its Tracks With Özgün Ünver](https://www.youtube.com/watch?v=RsxM--V4mtc)'
     - Read a [Twitter thread on burnout and steps you can take](https://twitter.com/egcartisano/status/1551961931380047884).
+- PhD times can be tough! [Be compassionate to yourself, and you can make it through](https://voicesofacademia.com/2022/03/11/what-does-self-care-really-mean-by-jessie-shepherd/).
 
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
@@ -401,6 +412,7 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
 - Maranke Wieringa is setting up a new Dutch interuniversity **network for people with a disability**: contact them for more information through their email (m.a.wieringa[at]uu.nl) or on Twitter.
 - Slack panel on [Trailblazing women in tech](https://slackwomensday.splashthat.com/slackemail).
 - [atoms are binary](https://twitter.com/KatysCartoons/status/1504463231380865031)
+- Susanne Täuber was fired this month for writing [an article](https://doi.org/10.1111/joms.12516) on her own experiences to write a **critique of the system**, showcasing how programmes that are intended to help women can actually get in their way. You can [read more about the case](https://ukrant.nl/magazine/susanne-tauber-has-been-fired-if-we-stay-silent-now-the-systems-wins/?lang=en) and how to support Susanne, [listen to a podcast](https://open.spotify.com/episode/4qDHjkRw08bVzmSGmzLpel?si=11ce2e3963284319), or use #AmINext to find posts about this on social media.
 
 # Career
 - [Not everyone will become a PI after their PhD](https://www.nature.com/articles/d41586-022-00875-0), or [wants to become one](https://www.science.org/content/article/i-thought-i-wanted-be-faculty-member-then-i-served-hiring-committee)! 
