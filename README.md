@@ -454,6 +454,11 @@ Eva mentions **finding your strengths**, which the [StrengthsFinder website](htt
 - Do you suffer from **networking anxiety**? This [Twitter Thread by PhD Balancing]( https://twitter.com/PhD_Balance/status/1403762851873968133) has some tips! 
 - How to set up **cold emails** – a [Twitter thread by Mohit Chandra]( https://twitter.com/mohit__30/status/1483395288266321923).
 - And just remember that academia/the job market is [not a meritocracy](https://twitter.com/dwebsterhist/status/1556003605160894467). 
+- Read up on **salary information** in Europe: [Uncompetitive pay is behind exodus of academics in Italy](https://www.universityworldnews.com/post.php?story=20230321143001600).
+- Read some [Tips for Early Career Academics](https://sites.google.com/view/dvugroup/resources/tips-for-early-career-academics).
+- Read a **postdoc's experience** on [redefining academic success](https://elifesciences.org/articles/83251).
+- Sometimes it is better to **say no to things**. 
+[Use one of the 20 templates](https://www.inc.com/jessica-stillman/productivity-meetings-time-management-emails.html) to turn down any opportunities/requests that you don't have time for. 
 
 # Tools 
 - **Chem4Word** will allow you to draw different kinds of chemical reactions and specifying reactants, products, reaction type with reagents and conditions in Microsoft Word.
