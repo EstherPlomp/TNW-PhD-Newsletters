@@ -392,6 +392,7 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
 - **Prioritising**
     - [The Guide to Saying No](https://www.deargradstudent.com/episodes/64) (starts at 9:30)
     - [Not overextending ourselves](https://open.spotify.com/episode/2WrDeT1u4XjkANRJz7C5Pm?si=d6d74ea5466d46fb)
+    - [Use one of the 20 templates to say no](https://www.inc.com/jessica-stillman/productivity-meetings-time-management-emails.html) to turn down any opportunities/requests that you don't have time for. 
 - This [meme](https://twitter.com/hardsci/status/1539746549466443777) might persuade you to take some time off ;)
 - In case you also manually scrolled back in an article every time you want to **look up a reference in an article**, you can use Alt + <- to return to the page you found it! ([Thanks Bjorn!)](https://twitter.com/OsteoBjorn/status/1554399706788335616)
 - If you then want to **Get things Done**, read a [Twitter thread by Benjamin Smith](https://twitter.com/itmebenji/status/1559170545718947843).
@@ -457,8 +458,7 @@ Eva mentions **finding your strengths**, which the [StrengthsFinder website](htt
 - Read up on **salary information** in Europe: [Uncompetitive pay is behind exodus of academics in Italy](https://www.universityworldnews.com/post.php?story=20230321143001600).
 - Read some [Tips for Early Career Academics](https://sites.google.com/view/dvugroup/resources/tips-for-early-career-academics).
 - Read a **postdoc's experience** on [redefining academic success](https://elifesciences.org/articles/83251).
-- Sometimes it is better to **say no to things**. 
-[Use one of the 20 templates](https://www.inc.com/jessica-stillman/productivity-meetings-time-management-emails.html) to turn down any opportunities/requests that you don't have time for. 
+
 
 # Tools 
 - **Chem4Word** will allow you to draw different kinds of chemical reactions and specifying reactants, products, reaction type with reagents and conditions in Microsoft Word.
