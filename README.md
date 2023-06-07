@@ -52,6 +52,7 @@ See these [tips from Springer Nature for writing this statement](https://researc
     - Learn more about [how to **share your research** from PLOS](https://plos.org/resource/how-to-share-your-research/)
     - [Sharing biological data: why, when, and how](https://doi.org/10.1002/1873-3468.14067) by Wilson et al. 2021 provides some pointers on how you can share **biological data**, specifically tabular data, genomics, proteomics, microscopy, and structural biological data. 
 - Listen to the [Data Horror song](https://twitter.com/rafamoral/status/1571622591219236864)
+- [Watch a webinar](https://www.youtube.com/watch?v=bo4_mShJfyM) on **data/software sharing guidance**.
 - **Personal Data** 
     - Personal data is any data that can lead to the identification of a person. 
       If you work with surveys, interviews or videos of people – you’re working with personal data. 
@@ -215,6 +216,7 @@ See for example the workshop on [software design and sustainability](https://www
 Note that you can still publish on these experiments through journals such as the [Journal of Trial and Error](https://www.jtrialerror.com/) and [Experimental Results](https://www.cambridge.org/core/journals/experimental-results).
 - You can also **share your methods** through platforms such as [protocols.io](https://www.protocols.io/). 
 See this feature on ‘[Five keys to writing a reproducible lab protocol](https://www.nature.com/articles/d41586-021-02428-3)’ for some pointers. 
+- Read up on the possibilities for [providing **access to reagents**](https://www.the-scientist.com/careers/what-if-scientists-shared-their-reagents-for-free-70170). 
 
 # Open Science
 - [Open Science Community Delft](https://osc-delft.github.io/) 
@@ -283,6 +285,12 @@ This format allows for live code, data and interactive figures next to your manu
   - [April Hathcock's keynote on Open Access](https://youtu.be/5_7SXNW-5DQ?t=481).
   - The Labors in Ohr podcast introduces the [History of scientific publishing](https://open.spotify.com/episode/0h28zs4Htymv3hPuGO8LW1?si=8a38afc05a6a4995) with a follow up on [Open Access with Bjorn Brembs](https://open.spotify.com/episode/5yliqST0bGf1KJ6e8eB1OM?si=ff5aa064ac874daf) and an [episode focused on Plan S]( https://open.spotify.com/episode/3WllXZ1qAPRg3r0Z87kHwd?si=c4d48dc341fd4131).
 - Use [this workflow](https://twitter.com/AStrasser116/status/1576648460194807808/photo/1) to find accessible versions of research articles.
+- Learn more about the recent Neuro Image editorial resignations from a [video by Dr. Glaucomflecken]( https://www.youtube.com/watch?v=hoUGiS1LeKU) or read up on how '[How Scientific Publishers' Extreme Fees Put Profit Over Progress]( https://www.thenation.com/article/society/neuroimage-elsevier-editorial-board-journal-profit/)'. 
+- Note that **publishing Open Access does not have to be expensive** – for example: [SciPost](https://scipost.org/) and [Peer Community In](https://www.youtube.com/watch?v=8MKpImtupHI) allow you to do this without costs to you. TU Delft also has deals with several journals which you can check in the [journal browser](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser). 
+- Read more about [how to choose an open venue for your article]( https://www.linkedin.com/pulse/three-tips-choose-publishing-venue-using-directory-open-chiarelli/).
+- Learn more about **how we’re going to get to ethical publishing** from Fernando Racimo in a [PCI Webinar](https://www.youtube.com/watch?v=TzLgGSNq0Wk). 
+
+
 
 # Preprints
 - [Watch a crash course](https://elifesciences.org/inside-elife/8df4a59d/webinar-report-the-history-of-science-publishing) in the history of publishing and sharing your research through a preprint as an act of resistance to the publication pressures.
@@ -414,6 +422,7 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
 - Slack panel on [Trailblazing women in tech](https://slackwomensday.splashthat.com/slackemail).
 - [atoms are binary](https://twitter.com/KatysCartoons/status/1504463231380865031)
 - Susanne Täuber was fired this month for writing [an article](https://doi.org/10.1111/joms.12516) on her own experiences to write a **critique of the system**, showcasing how programmes that are intended to help women can actually get in their way. You can [read more about the case](https://ukrant.nl/magazine/susanne-tauber-has-been-fired-if-we-stay-silent-now-the-systems-wins/?lang=en) and how to support Susanne, [listen to a podcast](https://open.spotify.com/episode/4qDHjkRw08bVzmSGmzLpel?si=11ce2e3963284319), or use #AmINext to find posts about this on social media.
+- [Preprint]( https://doi.org/10.31235/osf.io/s5b6j) highlighting the **gender inequality** in ‘cum laude’ for PhD candidates at a Dutch University, where women were ‘almost two times less likely to get a ‘cum laude’ distinction’.
 
 # Career
 - [Not everyone will become a PI after their PhD](https://www.nature.com/articles/d41586-022-00875-0), or [wants to become one](https://www.science.org/content/article/i-thought-i-wanted-be-faculty-member-then-i-served-hiring-committee)! 
@@ -465,6 +474,7 @@ Eva mentions **finding your strengths**, which the [StrengthsFinder website](htt
 You can [download the betaversion](https://www.chem4word.co.uk/2022/03/15/all-new-for-2022-chem4word-does-chemical-reactions/) now and provide them with feedback!
 - [Find different CLI tools](https://twitter.com/rust4bio/status/1479817227964760066) for **bioinformatics**. 
 - The Protein Data Bank in Europe (PDBe) and PDBe Knowledge Base (PDBe-KB) have tools available to **analyse binding sites in protein structures** (see the [recordings of a webinar](https://www.ebi.ac.uk/training/events/guide-analysing-binding-sites-protein-structures) they hosted on this topic). 
+- For **bioimage analysis** needs visit [forum.image.sc]( https://forum.image.sc/), or visit [bio.tools]( https://bio.tools/) for tools relevant to **bioinformatics** and life sciences. 
 
 # Other
 - In case you want to know what data Elsevier collects from you, read [the blogpost ‘Welcome to Hotel Elsevier: you can check-out any time you like … not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)! 
