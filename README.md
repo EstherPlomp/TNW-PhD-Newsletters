@@ -21,17 +21,15 @@ Overview of the newsletters sent to the PhD candidates of TNW by the [Data Stewa
 - [ROpenSci webinar “The Wild World of Data Repositories”](https://ropensci.org/commcalls/dec2020-datarepos/)
 - Learn more about **Data Management Plans (DMP)** by [watching a video on DMPs](https://www.youtube.com/watch?v=tvs5_X5rn8w)
 - **file naming** 
-    - Do you run into [New_Final_FINAL_NEW_23_FuckingFinal.jpeg](https://twitter.com/chazhutton/status/1285955514241875968) troubles? 
-Have a look at [this presentation on naming things](https://speakerdeck.com/jennybc/how-to-name-files) or a [blogpost on how to make your files more findable](https://zapier.com/blog/organize-files-folders/). 
+    - Have a look at [this presentation on naming things](https://speakerdeck.com/jennybc/how-to-name-files) or a [blogpost on how to make your files more findable](https://zapier.com/blog/organize-files-folders/). 
     - Want to rename multiple files? 
 The [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) may save you a lot of time (but be careful with overwriting things)! 
 This [short data organisation/documentation manual](https://surfdrive.surf.nl/files/index.php/s/J6XOVPcUot1tiUl) can help you with file naming but also folder organisation. 
 - Suffering from **messy datasets**? [The ultimate guide to data cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) contains some tips to clean it up! 
-See also these [slides on the Practicalities of Data Handling](https://doi.org/10.5281/zenodo.5078264) and a [Twitter thread on Tidy Data with nice illustrations](https://twitter.com/juliesquid/status/1315710359404113920).
+See also these [slides on the Practicalities of Data Handling](https://doi.org/10.5281/zenodo.5078264) and a [blog on Tidy Data with nice illustrations](https://openscapes.org/blog/2020-10-12-tidy-data/).
 - Learn more about [**how to organise your research project** through this short video](https://youtu.be/tBGLRXUbCrU). 
 - Want to learn more on **working more openly and reproducibly**? Watch these [videos on how to do open and reproducible research](https://tmskr.github.io/video.html).
-- If you’re not convinced about **documenting your data and setting up a readme file**, you may want to check out this [Twitter thread by Dr. Elisabeth Bik were she is trying to install a research tool](https://twitter.com/MicrobiomDigest/status/1283082285097422848). 
-- Setting up your **readme file** has never been easier with the [readme.so online editor](https://readme.so/).
+- - Setting up your **readme file** has never been easier with the [readme.so online editor](https://readme.so/).
 - When you use **arXiv** you can now [link your publication to a dataset](https://blog.arxiv.org/2021/05/13/linking-to-datasets-on-arxiv/)! 
 [arXiv now also asigns DOIs!](https://blog.arxiv.org/2022/02/17/new-arxiv-articles-are-now-automatically-assigned-dois/) 
 - There’s a **materials research data alliance community**: www.marda-alliance.org.
@@ -51,7 +49,6 @@ See these [tips from Springer Nature for writing this statement](https://researc
     - [Webinar on transparency and qualitative data sharing](https://www.youtube.com/watch?v=DKkExQfwqpU) 
     - Learn more about [how to **share your research** from PLOS](https://plos.org/resource/how-to-share-your-research/)
     - [Sharing biological data: why, when, and how](https://doi.org/10.1002/1873-3468.14067) by Wilson et al. 2021 provides some pointers on how you can share **biological data**, specifically tabular data, genomics, proteomics, microscopy, and structural biological data. 
-- Listen to the [Data Horror song](https://twitter.com/rafamoral/status/1571622591219236864)
 - [Watch a webinar](https://www.youtube.com/watch?v=bo4_mShJfyM) on **data/software sharing guidance**.
 - **Personal Data** 
     - Personal data is any data that can lead to the identification of a person. 
@@ -60,7 +57,7 @@ See these [tips from Springer Nature for writing this statement](https://researc
       See for example the [data privacy strategies outlined by The Turing Way](https://the-turing-way.netlify.app/project-design/sdpm/data-privacy-strategies.html).
     - TU Delft now has a self-paced **personal data course**. 
       You can sign up and follow it for 0.5 GS credits. 
-      The next run starts **3 April**. See the [website for more information](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research).
+      See the [website for more information](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research).
     - If you want to learn more about the laws that regulate processing of personal data, such as the **GDPR**, you can watch a talk on ‘[GDPR & processing of (identifiable) image, audio, and video data](https://www.youtube.com/watch?v=H2mv6q4WwOU)’ or ‘[Putting Data Protection into practice](https://youtu.be/eAKhI0qde2w?t=1110)’ (18:30-38:50). 
 Or if you’re working with any **clinical data**: ‘[Open Data and Data Management in Clinical Research]( https://www.youtube.com/watch?v=H7YtnrLPG_A)’.
 
@@ -98,7 +95,6 @@ If you have external collaborators in a project, GitHub is a better solution.
 - Webinar: ['How to set up a GitHub repository and your own website'](https://www.youtube.com/watch?v=QRUvQgKbVZQ)
 - [Best practices for writing reproducible code](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html#1) (slides by Barbara Vreede)
 - [document your code](https://twitter.com/ismonkeyuser/status/1332216804614303745)
-- [Twitter thread on reproducibility](https://twitter.com/VLucet/status/1297928408077303809) (with gifs!)
 - [FAIR software recommendations](https://fair-software.nl/recommendations/checklist)
 - **Improving code readability**
   * Slides (.pdf) on [Writing clear code](https://kbroman.org/AdvData/14_clearcode.pdf) by Karl Broman
@@ -127,22 +123,18 @@ The only thing you have to do is create a CITATION.cff file in your repository, 
 - **Sharing your code/software**:
     - Need some more help on **how to make your project publicly available**? 
 Watch [this short video by Dr. Barbara Vreede on sharing your project](https://www.youtube.com/watch?v=Y-WUOkqTBNE) or learn more about [software containers](https://www.youtube.com/watch?v=HelrQnm3v4g).
-    - Hesitant about **sharing your software/code?** 
-This [Twitter thread by Colin Angus](https://twitter.com/VictimOfMaths/status/1405809689246507010) highlights the benefits.
     - Doubting whether your **software is ready to be published** in the Journal of Open Source Software? 
 [Read a blogpost about to know for sure](http://pdebuyl.be/blog/2021/joss-ready.html). 
     - [How can **software containers** help your research?](https://www.youtube.com/watch?v=HelrQnm3v4g)
     - **Why share your code?**
 [Read some reflections from the social sciences](https://www.ncrm.ac.uk/news/show.php?article=5705) that are widely applicable. 
-    - [Krafczyk et al. 2021]( https://doi.org/10.1098/rsta.2020.0069) share some helpful **recommendations on how you can share your software** (pages 5-11). 
-    - [GitHub](https://github.com/) is a great platform to share software but it won’t **preserve your code for the long term** (for example, [GitHub changed github.com to github.io](https://twitter.com/EmilyEscamilla_/status/1509252361310588932), resulting in a lot of broken links). 
+    - [Krafczyk et al. 2021](https://doi.org/10.1098/rsta.2020.0069) share some helpful **recommendations on how you can share your software** (pages 5-11). 
+    - [GitHub](https://github.com/) is a great platform to share software but it won’t **preserve your code for the long term** (for example, GitHub changed github.com to github.io, resulting in a lot of broken links). 
 Instead, you can preserve a snapshot of your code on either [Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) or [4TU.ResearchData (Connecting your GitHub/GitLab account)](https://data.4tu.nl/info/en/about-your-data/getting-started). 
     - You may be asked to share your code by **peer reviewers**! 
         - [Read this blogpost on how peer review of software can improve the quality of your work]( https://ropensci.org/blog/2019/04/18/wild-standards/)
-        - [Jan Jensen](https://twitter.com/janhjensen/status/1479434115397136392) won’t recommend publication if the code is not made freely available. 
-See also the reactions to this approach in this [Twitter thread by Evelyne Deplazes](https://twitter.com/DeplazesEvelyne/status/1479625126458978305).  
     - You can also use [notebooksharing](https://notebooksharing.space/) to **share your Jupyter and R Markdown notebooks** with co-authors. 
-    - [Lisa deBruine has written a short guide](https://twitter.com/LisaDeBruine/status/1504063177012695047) for authors that want to **share their code in a computationally reproducible way**. 
+    - [Lisa deBruine has written a short guide](https://debruine.github.io/data-code-tips/) for authors that want to **share their code in a computationally reproducible way**. 
     - The [Journal of Open Source Education]( https://jose.theoj.org/) **publishes open-source educational materials and software**.
 - The Turing Way now has a guide on [Software Citation with CITATION.cff](https://the-turing-way.netlify.app/communication/citable/citable-cff.html). 
 You can also go over this [Software Citation Checklist for Authors](https://doi.org/10.5281/zenodo.3479199).
@@ -159,9 +151,8 @@ See for example the workshop on [software design and sustainability](https://www
     - [Recordings from SciPy 2020](https://www.youtube.com/channel/UCkhm72fuzkS9fYGlGpEmj7A)
       - See [talk on Frictionless Data](https://www.youtube.com/watch?v=vZAi4OnfH-Q) that introduces some tools to document your data more systematically and check your tabular data. 
     - The [European Python Conference](https://www.youtube.com/user/PythonItalia) took place in July, and had some presentations on using Python to manage your projects: [‘Python table manners’](https://speakerdeck.com/leew/python-table-manners-cut-the-cookie-gracefully-at-euro-python-2020) and [‘Scientific Python Cookiecutter’](https://nsls-ii.github.io/scientific-python-cookiecutter/preliminaries.html)
-    - [10 Python 3 features](https://twitter.com/svpino/status/1308632185113579522?s=03) that will change the way you are writing code today
-    - ‘[Data Science in Python beginner course](https://github.com/semacu/data-science-python)’ 
-    - Use emojis in Python: [pip install emoji](https://twitter.com/pybites/status/1323488121158356992)
+    - '[Data Science in Python beginner course](https://github.com/semacu/data-science-python)’ 
+    - Use emojis in Python: pip install emoji.
     - Python libraries: [SMOP, a Matlab to Python compiler](https://github.com/victorlei/smop) and [spec2vec](https://github.com/iomega/spec2vec) for mass spectrometry data. 
     - [This presentation](https://www.youtube.com/watch?v=QSSgLflyisI&list=PLiX54geLkpPL4brRcYfnekp42PLJi5eEe) by Serena Bonaretti contains some nice resources (on slide 25, see https://doi.org/10.5281/zenodo.3939392) to learn how to use Python/Jupyter notebooks. 
     - [Nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/) seems handy for Jupyter notebooks (headers, notifications when cells are done running, code folding). 
@@ -170,9 +161,8 @@ See for example the workshop on [software design and sustainability](https://www
     - [PEP 657](https://www.python.org/dev/peps/pep-0657/) tracebacks will annotate where exactly the error is happening in your code!
     - Data Umbrella also has a monthly newsletters with events and tips focusing on **Python**. 
     [Read their February edition](https://dataumbrella.substack.com/p/data-umbrella-newsletter-february) and sign up! 
-    - Check out the [Python Cheat sheet by OpenAcademics](https://twitter.com/OpenAcademics/status/1522246807765458944)
-    - Go over the source code from **Machine Learning Projects** for beginners [via a thread by Aishwarya Nevrekar](https://twitter.com/nevrekaraishwa2/status/1555232126240698368). 
- Or follow a [course that introduces Machine Learning](https://intro-machine-learning.netlify.app/).
+    - Check out the [Python Cheat sheet by OpenAcademics](https://bit.ly/3KGZpxC)
+    - [course that introduces Machine Learning](https://intro-machine-learning.netlify.app/).
     - Read the book ‘[Python for data analysis](https://wesmckinney.com/book/)’ 
     - Or another book on ‘[Research Software Engineering with Python](https://merely-useful.github.io/py-rse/)’
     - Check the course ‘[Programming in Python for Data Science](https://prog-learn.mds.ubc.ca/en/)’
@@ -186,7 +176,6 @@ See for example the workshop on [software design and sustainability](https://www
     - Short [podcast on using **Git/GitHub** (and R)](https://intertidal.agency/intertidal-podcast/2020/9/14/9-using-git-to-drive-better-science-with-dr-julie-lowndes), with nice resources to get started
     - [15 minute video on the R Package WORCS, Workflow for Open Reproducible Code in Science (WORCS)](https://www.youtube.com/watch?v=uzjpN_yFeUU)
     - ‘[R for Excel users](https://education.rstudio.com/blog/2020/02/conf20-r-excel/)’ course
-- [What if the Marvel films were linux commands?](https://twitter.com/cooperrc84/status/1445489035376353292)
 - Not sure what a **Research Software Engineer** is? Listen to [Hello PhD podcast](https://hellophd.com/2022/03/172-research-software-engineer/) to learn more (7.40 – 40.00 for the interview with a Research Software Engineer). 
 - The **NORM conference** has interesting talks on **[data visualistion](https://www.youtube.com/watch?v=MzaOivVxU8M)**, [invisible work](https://www.youtube.com/watch?v=HiF83i1OLOM), **[file naming](https://www.youtube.com/watch?v=ES1LTlnpLMk)**, [Excel hotkeys](https://youtu.be/HF0F4H8BNsE), [Docker](https://youtu.be/kx-SeGbkNPU), [Data is the new coffee]( https://youtu.be/GrQcVU-eapc), and [how to stop crying when using **Matplotlib**](https://youtu.be/vjQIaepijbE). 
 
@@ -212,7 +201,7 @@ See for example the workshop on [software design and sustainability](https://www
 # Open Methods
 - PLOS ONE introduced two new publication formats: [Lab Protocols and Study Protocols!](https://theplosblog.plos.org/2021/02/submit-your-lab-and-study-protocols-plos-one/)
 - Did your recent experiment fail? 
-[This Twitter post](https://twitter.com/IamKhanPhD/status/1450815000222838784) or a more serious [blogpost on negative results](https://medium.com/psychphdpathway/emptying-psychologys-file-drawer-6909cf6b7eb) are for you. 
+Read a [blogpost on negative results](https://medium.com/psychphdpathway/emptying-psychologys-file-drawer-6909cf6b7eb). 
 Note that you can still publish on these experiments through journals such as the [Journal of Trial and Error](https://www.jtrialerror.com/) and [Experimental Results](https://www.cambridge.org/core/journals/experimental-results).
 - You can also **share your methods** through platforms such as [protocols.io](https://www.protocols.io/). 
 See this feature on ‘[Five keys to writing a reproducible lab protocol](https://www.nature.com/articles/d41586-021-02428-3)’ for some pointers. 
@@ -228,12 +217,11 @@ See this feature on ‘[Five keys to writing a reproducible lab protocol](https:
 - **King’s Open Research Conference** [blogpost summary and recordings](https://www.kcl.ac.uk/daring-to-shift-research-culture-towards-more-reproducibility-and-transparency).  
 - Share your data/code on your **CV**! Check [this example](https://bartlettje.github.io/BartlettJE.github.io/research/).
 Make sure that you set up an [ORCID](https://orcid.org/) so that you can always link to your ORCID in your CV! 
-- Follow the **Open Research Calendar** on [Twitter](https://twitter.com/openresearchcal) or [Google Calendar](https://openresearchcalendar.org/calendar/) for Open Science related events!
+- Check the [Open Research Calendar](https://openresearchcalendar.org/) or add its [Google Calendar](https://openresearchcalendar.org/calendar/) for **Open Science related events**!
 - [‘Easing into Open Science’](https://www.youtube.com/watch?v=owJaD3UiseQ)
 - [Open Scholarship Knowledge Base](https://www.oercommons.org/hubs/OSKB) contains resources that can help you to make your research more open
 - Watch this video on [five things that you should know about Open Science](https://www.youtube.com/watch?v=0uCG3Fl6ugE&feature=youtu.be)
 - Watch this video on how to become an [Open Science Champion](https://www.youtube.com/watch?v=IV1aFnPkUSI) by Heidi Seibold. 
-[Heidi is launching an ‘Open Science Stories’ podcast](https://twitter.com/HeidiBaya/status/1346372717562347523), so if you have any stories that you would like to share, get in touch! 
 -  The [Passport For Open Science](https://www.ouvrirlascience.fr/passport-for-open-science-a-practical-guide-for-phd-students/?mc_cid=0abeb12a98&mc_eid=3f2684c619) is a guide for PhD students on Open Access, Data Management, and Reproducibility ([click here to download the pdf directly](https://www.ouvrirlascience.fr/wp-content/uploads/2020/11/Passport-for-Open-Science-A-Practical-Guide-For-PhD-Students_30-10-2020_WEB.pdf)). 
 (The authors are French but in general the resources will also be applicable to you, or there are TU Delft/Dutch alternatives available such as [DMPonline](https://dmponline.tudelft.nl/) - email me for more info!). 
 - To learn more about Open Access, read [‘A Researcher’s Guide to Open Access Publishing’](https://www.openscience-rotterdam.com/2020/12/eur-oa/). 
@@ -254,7 +242,7 @@ Highlights are the keynote by Ashley Jane Lewis ([starting at 5.47](https://yout
 - Watch a [video by Cassandra Gould van Praag](https://vimeo.com/670399599) to learn more about **how to get a DOI for your research outputs**. 
 - Watch another [video by Prof Stephen Curry](https://youtu.be/AvXNsp2ch-A) on **Open Research and DORA**.
 - To see how others started their **Open Science journeys** and get inspired, watch an [interview with Dr. Malvika Sharan]( https://www.youtube.com/watch?v=GMwRyAwnlEk), or a [recording of the eLife Ambassadors Open Science event](https://www.youtube.com/watch?v=6XOyGZDCfdg).
-- If you are trying to **convince your supervisor** that you want to share your research outputs more widely, Kowalczyk et al. 2022 wrote a paper on [‘What senior academic can do to support open research’]( https://doi.org/10.1186/s13104-022-05999-0). There’s also the [ten-week plan for open data science]( https://www.nature.com/articles/d41586-019-03335-4) that can be used as a starting point. 
+- If you are trying to **convince your supervisor** that you want to share your research outputs more widely, Kowalczyk et al. 2022 wrote a paper on [‘What senior academic can do to support open research’]( https://doi.org/10.1186/s13104-022-05999-0). There’s also the [ten-week plan for open data science](https://www.nature.com/articles/d41586-019-03335-4) that can be used as a starting point. 
 - What can you do to **work more openly**? Read [this blogpost]( https://blog.scholasticahq.com/post/oa-leaders-advancing-boai-part-2/ ), especially the part by Dr. Mark C. Wilson who is offering some practical tips (scroll down a bit). 
 - Check out the [**Open Science Top Ten Tools**](https://genr.eu/wp/open-science-top-ten-tools-all-open-source/)! 
 - The US recently released an announcement that **US funded research should be immediately accessible to the public**, similar to policies that Dutch institutes and NWO already implemented. 
@@ -271,7 +259,7 @@ This format allows for live code, data and interactive figures next to your manu
 - To avoid publishing with **predatory publishers** check out the checklists for [books](https://thinkchecksubmit.org/books-and-chapters/) and [journals](https://thinkchecksubmit.org/journals/) from [Think, check, submit](https://thinkchecksubmit.org/).
 - [Short video on academic publishing](https://www.youtube.com/watch?v=PriwCi6SzLo&feature=youtu.be).
 - Video: [introduction to Preregistration](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=db83bd17-4c08-466b-9ced-ac60012e7573)
-- Two videos on the [workings of the publishing system](https://twitter.com/dglaucomflecken/status/1493946227985059841?s=21) and [article processing fees from Nature](https://twitter.com/dglaucomflecken/status/1484679759829209090) by Dr. Glaucomflecken were quite the hit on Twitter in the past month.
+- Watch two videos on the [workings of the publishing system](https://www.youtube.com/watch?v=ukAkG6c_N4M) and [article processing fees from Nature](https://www.youtube.com/watch?v=8F9gzQz1Pms) by Dr. Glaucomflecken.
 - In related news, [publishers now also tag PDFs with a unique hash](https://twitter.com/json_dirs/status/1486120144141123584), so you may want to be careful with how you share articles that are not Open Access (and publish Open Access where you can!)
 - A way to make the submitted version of your article openly accessible are **preprints**! If you haven't heard about those yet, here are a couple of resources: 
   - [On Preprints](http://academiclifehistories.weebly.com/blog/on-preprints)
