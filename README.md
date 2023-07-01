@@ -6,7 +6,7 @@ Overview of the newsletters sent to the PhD candidates of TNW by the [Data Stewa
 - **TU Delft resources**
     - [DMPonline](https://dmponline.tudelft.nl/) to set up a data management plan (see also the [Research Data Management website](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/plan/dmponline/dmponline/) for more information)
     - TU Delft [Research Data Management 101 course](https://intranet.tudelft.nl/en/-/r4.a1-research-data-management-101)
-    - [TNW/AS Research Data Management Policy](https://d1rkab7tlqy5f1.cloudfront.net/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf)
+    - [TNW/AS Research Data Management Policy](https://filelist.tudelft.nl/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf)
     - Electronic Lab Notebooks: [RSpace](https://www.researchspace.com/) and [eLABjournal](https://www.elabjournal.com/) are available for TU Delft researchers
     - [4TU.ResearchData](https://data.4tu.nl/) archive to share your data
     - [Project drive](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/manage/storage/), [SURFdrive](https://www.surf.nl/en/surfdrive-store-and-share-your-files-securely-in-the-cloud) or OneDrive to store your project’s research data
@@ -415,41 +415,31 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
 - [Not everyone will become a PI after their PhD](https://www.nature.com/articles/d41586-022-00875-0), or [wants to become one](https://www.science.org/content/article/i-thought-i-wanted-be-faculty-member-then-i-served-hiring-committee)! 
 - **Career outside of academia**
     - See this [blogpost on the skill gaps of PhD graduates](https://leidenmadtrics.nl/articles/skill-gaps-of-phd-graduates)
-    - Transition to data science: [Twitter thread by Dr. Michael Mullarkey](https://twitter.com/mcmullarkey/status/1395145664267526145) 
-    - [Twitter thread on Dr Lizzy Lowe’s experiences with transitioning to industry](https://twitter.com/LizyLowe/status/1415191644861722625)
     - Work on your [career transition story](https://beyondprof.com/your-phd-career-transition-story/)
     - [Danielle Navarro’s blog on transitioning to industry](https://blog.djnavarro.net/posts/2022-04-01_academia-to-industry-transition/) 
-    - [Ashley Ruba’s mistakes thread on finding an industry job](https://twitter.com/ashleyruba/status/1521500770373406725)).
 - [List of postdoctoral fellowships](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/) set up by the Johns Hopkins University
 - Browse a [collection on **postdoc fellowships in biology**](https://docs.google.com/spreadsheets/d/1J2M_tQgoqV4ivpfEClh9qs9f2KQN2O1G3Jpda2aoHfQ/edit#gid=0).
 - Want to stay in **Dutch Academia**? 
 Read [Eva Lantsoght’s blogpost on 'Diversifying career paths in the Dutch universities'](https://www.evalantsoght.com/2022/03/phd-talk-for-academictransfer-2.html). 
 Eva mentions **finding your strengths**, which the [StrengthsFinder website](https://leadthroughstrengths.com/talents/) can help you with!
 - **Structure your CV**
-    - A [Twitter thread by Alexandria West](https://twitter.com/AlexWestPsych/status/1400885658139467778) contains some opinions on the topic.
     - You can use your [ORCID](https://orcid.org/) to [generate a CV (with R)](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806).
-    - Generate your CV easily [using a template](https://javierelio.shinyapps.io/cv_app/) (from this [Twitter Thread with tips for CVs](https://twitter.com/tpoi/status/1482375387820830723))
+    - Generate your CV easily [using a template](https://javierelio.shinyapps.io/cv_app/).
 - **Writing grants**
     - The [Open Grants repository](https://www.ogrants.org/) contains grant applications that got funded or rejected that can serve as an example.
 - [Hsu et al. 2021](https://doi.org/10.1126/sciadv.abj2604) contains short **interviews** with people in academic hiring committees (pages 9-11) that provides some insights in the hiring process (publications/funding may be less important if you have a clear vision on your work and are able to communicate your research well!). While the data is based on neuroscientists, some of the things are more generally applicable (such as institutions showing a preference for hiring individuals that they know).
     - Browse through an [overview of **successful grant applications and interviews**](https://github.com/RILAB/statements).
 - **Not sure what to do after your PhD?** 
     - This [interview with Jennifer Polk](https://open.spotify.com/episode/5WXJDQBNiiy42D9IBBHyyd?si=WRXeouhCQy-qk6F7qjb9ZA&dl_branch=1) contains some helpful pointers. 
-    - If you’re on the fence about staying or leaving academia, this [Twitter thread by Shoshana Jarvis](https://twitter.com/Shoshana_Jarvis/status/1428403324483629060) is for you. 
     - Listen a [podcast on career uncertainty](https://open.spotify.com/episode/62G37HRzlJypmCLYLU4aex?si=iy22EOj5TZqB8DB0toG1Ww). 
     - Do a job search and find 25 jobs that you find interesting. 
-    Copy the requirements and group them: focus developing the skills in the top 3-5 mentioned requirements/skills (from this [Twitter post by Emily Kubicek](https://twitter.com/steministemily/status/1478173318398169088). 
-    - Go parallel and forget about the serial model to figure out what you enjoy! 
-    Read this [Twitter thread by Daniel MacArthur](https://twitter.com/dgmacarthur/status/1486824087724847104) to learn more. 
-- If you want to apply for a **position in another lab**, [these are a couple of good questions](https://twitter.com/ProfessorTanvir/status/1448690023277203459) to ask to see if the lab will be a good fit for you! 
+    Copy the requirements and group them: focus developing the skills in the top 3-5 mentioned requirements/skills.
 - Read a blog by ERClife on “[Early Career Researchers, take charge and **develop your career**](https://ecrlife.org/early-career-researchers-the-world-is-your-oyster-take-charge-and-develop-your-career-2/)” or by Lizzie Gadd on “[Five steps to healthy research career building](https://drhiddencurriculum.wordpress.com/2022/01/25/five-steps-to-healthy-research-career-building/)”.
 -	When you get invited to a **job interview**, come with **questions**! 
-    - Read threads by [Amber Naslund](https://twitter.com/AmberCadabra/status/1516802269274071044) and [Anthony Disney](https://twitter.com/buildinglegends/status/1554126131321782280), or the [HBR article by Amy Gallo](https://hbr.org/2022/05/38-smart-questions-to-ask-in-a-job-interview) for inspiration. 
+    - Read a blog by [Anthony Disney](https://anthonydisney.beehiiv.com/p/interviewing-interviewer), or the [HBR article by Amy Gallo](https://hbr.org/2022/05/38-smart-questions-to-ask-in-a-job-interview) for inspiration. 
     - See also [6 things to say during job interviews](https://www.cnbc.com/2021/02/08/want-a-job-at-google-a-vp-shares-6-things-to-say-during-job-interviews.html).
 - There is an [**AltAcChats** podcast](https://www.youtube.com/watch?v=EvO7UAUriTo) where you can learn more about Alt Academic career paths. 
-- Do you suffer from **networking anxiety**? This [Twitter Thread by PhD Balancing]( https://twitter.com/PhD_Balance/status/1403762851873968133) has some tips! 
-- How to set up **cold emails** – a [Twitter thread by Mohit Chandra]( https://twitter.com/mohit__30/status/1483395288266321923).
-- And just remember that academia/the job market is [not a meritocracy](https://twitter.com/dwebsterhist/status/1556003605160894467). 
+- Do you suffer from **networking anxiety**? This [Infographic by PhD Balancing](https://figshare.com/articles/poster/Networking_Anxiety/16450644) has some tips! 
 - Read up on **salary information** in Europe: [Uncompetitive pay is behind exodus of academics in Italy](https://www.universityworldnews.com/post.php?story=20230321143001600).
 - Read some [Tips for Early Career Academics](https://sites.google.com/view/dvugroup/resources/tips-for-early-career-academics).
 - Read a **postdoc's experience** on [redefining academic success](https://elifesciences.org/articles/83251).
