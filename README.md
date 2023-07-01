@@ -86,12 +86,19 @@ If you have external collaborators in a project, GitHub is a better solution.
     - The **eScienceCenter is now sending out newsletters** so that you can keep up to date with the workshops that they organise: [sign up here](https://esciencecenter.us8.list-manage.com/subscribe?u=a0a563ca342f1949246a9f92f&id=31bfc2303d&mc_cid=22d88cb6ae&mc_eid=ce223eff4c). 
     - ‘**Intermediate Research Software Development in Python**’ course in your own time as [all the materials are available online/on GitHub](https://carpentries-incubator.github.io/python-intermediate-development/).
     - [**Binder** workshop materials](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder)
-    - [RIOT: Version control for academics with GitHub, Dr Sam Forbes](https://www.youtube.com/watch?v=pxRSpfmX2h0)
-    - Follow an [introduction to version control with **GitLab**](https://vimeo.com/668637653) by Dr Cassandra Gould van Praag. 
+    - [RIOT: Version control for academics with **GitHub**, Dr Sam Forbes](https://www.youtube.com/watch?v=pxRSpfmX2h0)
+    - Follow an [introduction to version control with **GitLab**](https://vimeo.com/668637653) by Dr Cassandra Gould van Praag.
+    - [Writing **Reusable and Modular Code**](https://uf-repro.github.io/writing-reusable-code/).
+    - Learn more about [Computer Science](https://github.com/ossu/computer-science).
+    - See also this [List of Free **Learning Resources** In Many Languages](https://ebookfoundation.github.io/free-programming-books/) 
 - [Aalto University resources on making your computational workflow more reproducible](https://scicomp.aalto.fi/scicomp/zen-of-scicomp/)
 - **Embrace the Command Line** by using Jeroen Janssens' [book that is freely available](https://datascienceatthecommandline.com/2e/). 
-- Licenses: [website with explanations on licenses in plain English](https://tldrlegal.com/) or [choose a License website](https://choosealicense.com/) (TU Delft recommends the MIT license for code and CC-BY for data)
-- [Webinar on Open Software licenses](https://www.youtube.com/watch?v=y9y8a3O4fjg), where they also discuss **readme files** (30.48 – 41:00), which you need for your project to describe it to others and tell them how to interact with your code/software. You can also learn about **contribution guidelines** and how to set up a **code of conduct** (46:00 – 1:01) from the same webinar. 
+- **Licenses**:
+    - [website with explanations on licenses in plain English](https://tldrlegal.com/)
+    - [choose a License website](https://choosealicense.com/) (TU Delft recommends MIT license for software)
+    - See what [TU Delft requires from you in terms of Open Source Software](https://estherplomp.github.io/TNW-OS-support/posts/software-sharing/#tu-delft-and-open-software).
+    - Learn more about **software licencing** via a [FAQ](https://fsfe.org/freesoftware/legal/faq.en.html) or a [podcast by ByteSized](https://open.spotify.com/episode/4ev4QCsY4yIoXkAkhEbiVR?si=ed690dac653b43b1).
+    - [Webinar on Open Software licenses](https://www.youtube.com/watch?v=y9y8a3O4fjg), where they also discuss **readme files** (30.48 – 41:00), which you need for your project to describe it to others and tell them how to interact with your code/software. You can also learn about **contribution guidelines** and how to set up a **code of conduct** (46:00 – 1:01) from the same webinar. 
 - Webinar: ['How to set up a GitHub repository and your own website'](https://www.youtube.com/watch?v=QRUvQgKbVZQ)
 - [Best practices for writing reproducible code](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html#1) (slides by Barbara Vreede)
 - [document your code](https://www.monkeyuser.com/2020/welcome-to-hell/)
@@ -102,6 +109,7 @@ If you have external collaborators in a project, GitHub is a better solution.
   * Slides on [Writing Clean Scientific Software](https://doi.org/10.5281/zenodo.3922957) by Nicolas Murphy 
   * Example [video of how to structure your code](https://www.youtube.com/watch?v=EQIOyF2oots) by Anton Akhmerov
   * Slides with [15 tips to write better analytic code](https://doi.org/10.6084/m9.figshare.13362740.v1) by Francisco Rodriguez-Sanchez
+  * Read up on [Why **comment** your code as little (and as well) as possible](https://blog.r-hub.io/2023/01/26/code-comments-self-explaining-code/).
 - **Software quality checklist**
     - [Software Sustainability Institute checklist](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform) (it is a google form)
     - [Core Infrastructure Initiative](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform)
@@ -176,9 +184,13 @@ See for example the workshop on [software design and sustainability](https://www
     - Short [podcast on using **Git/GitHub** (and R)](https://intertidal.agency/intertidal-podcast/2020/9/14/9-using-git-to-drive-better-science-with-dr-julie-lowndes), with nice resources to get started
     - [15 minute video on the R Package WORCS, Workflow for Open Reproducible Code in Science (WORCS)](https://www.youtube.com/watch?v=uzjpN_yFeUU)
     - ‘[R for Excel users](https://education.rstudio.com/blog/2020/02/conf20-r-excel/)’ course
+- **Quarto**
+    - [Quarto offers a myriad of features that are especially useful for academics](https://quarto.org/docs/blog/posts/2023-05-22-quarto-for-academics).
 - Not sure what a **Research Software Engineer** is? Listen to [Hello PhD podcast](https://hellophd.com/2022/03/172-research-software-engineer/) to learn more (7.40 – 40.00 for the interview with a Research Software Engineer). 
-- The **NORM conference** has interesting talks on **[data visualistion](https://www.youtube.com/watch?v=MzaOivVxU8M)**, [invisible work](https://www.youtube.com/watch?v=HiF83i1OLOM), **[file naming](https://www.youtube.com/watch?v=ES1LTlnpLMk)**, [Excel hotkeys](https://youtu.be/HF0F4H8BNsE), [Docker](https://youtu.be/kx-SeGbkNPU), [Data is the new coffee]( https://youtu.be/GrQcVU-eapc), and [how to stop crying when using **Matplotlib**](https://youtu.be/vjQIaepijbE). 
-
+- The **NORM conference** has interesting talks on **[data visualistion](https://www.youtube.com/watch?v=MzaOivVxU8M)**, [invisible work](https://www.youtube.com/watch?v=HiF83i1OLOM), **[file naming](https://www.youtube.com/watch?v=ES1LTlnpLMk)**, [Excel hotkeys](https://youtu.be/HF0F4H8BNsE), [Docker](https://youtu.be/kx-SeGbkNPU), [Data is the new coffee]( https://youtu.be/GrQcVU-eapc), and [how to stop crying when using **Matplotlib**](https://youtu.be/vjQIaepijbE).
+- Watch Margaret Mitchell's [PyCon2023 keynote](https://www.youtube.com/watch?v=urBrxQ4e8WY&t=90s) on **biases and ethics in machine learning**.
+- Need help picking a **data notebook** for your next project? [Data Science Notebooks](https://datasciencenotebook.org/) compares the features in different data science notebook tools.
+ 
 # Reproducibility
 - Read a chapter about ‘[Reproducible Bioinformatics Research for Biologists](https://osf.io/zqbu2)’ (for anyone with more wetlab experience than programming!)
 - Follow a [reproducibility checklist (pdf)](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist-v1.2.pdf) set up by NeurIPS.
