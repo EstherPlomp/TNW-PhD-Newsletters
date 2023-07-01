@@ -94,7 +94,7 @@ If you have external collaborators in a project, GitHub is a better solution.
 - [Webinar on Open Software licenses](https://www.youtube.com/watch?v=y9y8a3O4fjg), where they also discuss **readme files** (30.48 – 41:00), which you need for your project to describe it to others and tell them how to interact with your code/software. You can also learn about **contribution guidelines** and how to set up a **code of conduct** (46:00 – 1:01) from the same webinar. 
 - Webinar: ['How to set up a GitHub repository and your own website'](https://www.youtube.com/watch?v=QRUvQgKbVZQ)
 - [Best practices for writing reproducible code](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html#1) (slides by Barbara Vreede)
-- [document your code](https://twitter.com/ismonkeyuser/status/1332216804614303745)
+- [document your code](https://www.monkeyuser.com/2020/welcome-to-hell/)
 - [FAIR software recommendations](https://fair-software.nl/recommendations/checklist)
 - **Improving code readability**
   * Slides (.pdf) on [Writing clear code](https://kbroman.org/AdvData/14_clearcode.pdf) by Karl Broman
@@ -117,7 +117,7 @@ If you have external collaborators in a project, GitHub is a better solution.
 - Recordings from previous Collaboration Workshops by the Software Sustainability Insitute are available on their [YouTube channel](https://www.youtube.com/c/SoftwareSaved/playlists)
 - The [videos of the **2020 Essential Open Source Software for Science conference** are available on YouTube](https://www.youtube.com/watch?v=h6OkCbEd1AE&list=PLilvrWT8aLuZgAIJ7rq3-hhw_M5Z1yV4l). 
 See for example the [demo on Imaging & Microscopy](https://youtu.be/0FjKkTJO0Rc). 
-- **[GitHub added built-in citation support](https://mobile.twitter.com/natfriedman/status/1420122675813441540)**! 
+- **[GitHub added built-in citation support]**! 
 The only thing you have to do is create a CITATION.cff file in your repository, which will provide you with an example template that you can fill in in two minutes. 
 [Link your GitHub repository to Zenodo](https://guides.github.com/activities/citable-code/) or [4TU.ResearchData](https://researchdata.4tu.nl/en/) to make your software citable and add the DOI to the citation file! 
 - **Sharing your code/software**:
@@ -246,7 +246,7 @@ Highlights are the keynote by Ashley Jane Lewis ([starting at 5.47](https://yout
 - What can you do to **work more openly**? Read [this blogpost]( https://blog.scholasticahq.com/post/oa-leaders-advancing-boai-part-2/ ), especially the part by Dr. Mark C. Wilson who is offering some practical tips (scroll down a bit). 
 - Check out the [**Open Science Top Ten Tools**](https://genr.eu/wp/open-science-top-ten-tools-all-open-source/)! 
 - The US recently released an announcement that **US funded research should be immediately accessible to the public**, similar to policies that Dutch institutes and NWO already implemented. 
-Watch [this short announcement video by Dr. Glaucomflecken](https://twitter.com/DGlaucomflecken/status/1563264244950646785). 
+Watch [this short announcement video by Dr. Glaucomflecken](https://www.youtube.com/watch?v=GJdR96MosXo). 
 
 # Open Publishing
 - [Registered Reports](https://cos.io/rr/)
@@ -260,7 +260,7 @@ This format allows for live code, data and interactive figures next to your manu
 - [Short video on academic publishing](https://www.youtube.com/watch?v=PriwCi6SzLo&feature=youtu.be).
 - Video: [introduction to Preregistration](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=db83bd17-4c08-466b-9ced-ac60012e7573)
 - Watch two videos on the [workings of the publishing system](https://www.youtube.com/watch?v=ukAkG6c_N4M) and [article processing fees from Nature](https://www.youtube.com/watch?v=8F9gzQz1Pms) by Dr. Glaucomflecken.
-- In related news, [publishers now also tag PDFs with a unique hash](https://twitter.com/json_dirs/status/1486120144141123584), so you may want to be careful with how you share articles that are not Open Access (and publish Open Access where you can!)
+- In related news, [publishers now also tag PDFs with a unique hash](https://gist.github.com/sneakers-the-rat/6d158eb4c8836880cf03191cb5419c8f), so you may want to be careful with how you share articles that are not Open Access (and publish Open Access where you can!), and [remove the hashes](https://gist.github.com/sneakers-the-rat/172e8679b824a3871decd262ed3f59c6) where needed.
 - A way to make the submitted version of your article openly accessible are **preprints**! If you haven't heard about those yet, here are a couple of resources: 
   - [On Preprints](http://academiclifehistories.weebly.com/blog/on-preprints)
   - eLife now only reviews and publishes articles that are shared as a preprint. 
@@ -272,7 +272,6 @@ This format allows for live code, data and interactive figures next to your manu
   - [Locked up science](https://www.youtube.com/watch?v=SbzSR0b71PE) by Claudia Frick.
   - [April Hathcock's keynote on Open Access](https://youtu.be/5_7SXNW-5DQ?t=481).
   - The Labors in Ohr podcast introduces the [History of scientific publishing](https://open.spotify.com/episode/0h28zs4Htymv3hPuGO8LW1?si=8a38afc05a6a4995) with a follow up on [Open Access with Bjorn Brembs](https://open.spotify.com/episode/5yliqST0bGf1KJ6e8eB1OM?si=ff5aa064ac874daf) and an [episode focused on Plan S]( https://open.spotify.com/episode/3WllXZ1qAPRg3r0Z87kHwd?si=c4d48dc341fd4131).
-- Use [this workflow](https://twitter.com/AStrasser116/status/1576648460194807808/photo/1) to find accessible versions of research articles.
 - Learn more about the recent Neuro Image editorial resignations from a [video by Dr. Glaucomflecken]( https://www.youtube.com/watch?v=hoUGiS1LeKU) or read up on how '[How Scientific Publishers' Extreme Fees Put Profit Over Progress]( https://www.thenation.com/article/society/neuroimage-elsevier-editorial-board-journal-profit/)'. 
 - Note that **publishing Open Access does not have to be expensive** – for example: [SciPost](https://scipost.org/) and [Peer Community In](https://www.youtube.com/watch?v=8MKpImtupHI) allow you to do this without costs to you. TU Delft also has deals with several journals which you can check in the [journal browser](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser). 
 - Read more about [how to choose an open venue for your article]( https://www.linkedin.com/pulse/three-tips-choose-publishing-venue-using-directory-open-chiarelli/).
@@ -284,12 +283,12 @@ This format allows for live code, data and interactive figures next to your manu
 - [Watch a crash course](https://elifesciences.org/inside-elife/8df4a59d/webinar-report-the-history-of-science-publishing) in the history of publishing and sharing your research through a preprint as an act of resistance to the publication pressures.
 - [Learn all about preprints from Jessica Polka](https://youtu.be/TW-SrGkmH6U?t=199) or check a webinar on '[How to Publish Preprints](https://www.youtube.com/watch?v=jwtX3kmnC4c)'. 
 - Not convinced about preprints? Check out a video on [How preprints can benefit both science and your career](https://www.youtube.com/watch?v=h-5YnAcN6Aw) or read [a guide to preprinting for early-career researchers](https://doi.org/10.1242/bio.059310) that lists benefits and arguments to convince co-authors to preprint. 
-- What if we all just submitted preprints and [have the journals compete on what gets published](https://twitter.com/DrCMcMaster/status/1515476892782317571?t=KV926aFHvKuOqzIcoCacdA&s=03)? 
+
 
 # (Open) Peer Review
 - **The Turing Way** has a chapter on [Peer Review](https://the-turing-way.netlify.app/communication/peer-review.html), including a section on [Open Peer Review](https://the-turing-way.netlify.app/communication/peer-review/peer-review-open.html).
 - Listen to some [tips to **manage peer review**](https://www.nature.com/articles/d41586-020-00381-1) (also check out the episode on [how to publish a paper](https://www.nature.com/articles/d41586-020-00292-1)).
-- To **suggest peer reviewers** to the editor/journal, remember when other researchers interacted with you (meetings, conferences, Twitter). 
+- To **suggest peer reviewers** to the editor/journal, remember when other researchers interacted with you (meetings, conferences). 
 Write their names down somewhere (a reviewers.txt file). 
 Or check which articles/authors you're citing!
 - How do you **respond to a review**? 
@@ -321,15 +320,23 @@ Particularly week 1-4 contain important information on how to structure your art
 - Writing your **first article**? 
 This [two-page article](https://www.mjdrdypv.org/text.asp?2021/14/6/599/329688) contains a good set up for your introduction and questions that you should address in your discussion (it is a bit medical focused but mostly generally applicable). 
 [This blogpost also shows you how to structure](https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/) your article.
-- How to [write an **abstract** focusing on five sentences](https://twitter.com/kepadil1/status/1479226348120023043).
-- Answer these [questions in your **introduction**](https://twitter.com/scigradcoach/status/1445426054147964932). 
+- How to write an **abstractfocusing on five sentences** :
+    - What we know from the current literature.
+    - What we don't know from the current literature.
+    - What we did in the current study to address sentence 2.
+    - What the findings from teh current study are.
+    - What the implications of the findings from the current study are. 
+- Answer the questions below in your **introduction** or watch [a video](https://www.youtube.com/watch?v=wYdjXd25VXw):
+    - Importance - Why is your field important? Why should a reader read your paper?
+    - Background - What does your reader need to know about your topics to understand your results?
+    - Problem - Why is your research important? What problem does your research solve?
+    - Context - How have you and others researched this problem? What articles led to your research?
 - The [five ingredients for a successful **methods** section](https://doi.org/10.1373/clinchem.2010.146589).
 - TU Delft offers access to the ‘[academic writing assistant](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/academic-writing-assistant)’ tool that can help you to improve the structure, style and spelling of your text.
 - ‘[How to navigate **authorship** of scientific manuscripts](https://www.science.org/content/article/how-navigate-authorship-scientific-manuscripts)’ (you can use the [CRediT roles](https://casrai.org/credit/) to track contributions to the work, and use [Tenzing](https://rollercoaster.shinyapps.io/tenzing/) to easily record these roles).
 You may also want to read: ‘[Why scientific journal authorship practices make no sense et al.](https://www.science.org/content/article/why-scientific-journal-authorship-makes-absolutely-no-sense-et-al)’ 
-- Or you can procrastinate by reading more [writing tips on Twitter](https://twitter.com/rodriguesjm6/status/1436355550388932614) (see also the upcoming tweet chat using [#ImLeavingAcademia](https://twitter.com/hashtag/ImLeavingAcademia) on the 13th of Jan!) or by watching this RIOT talk on ‘[Reimagining scientific publishing](https://www.youtube.com/watch?v=0AX2vNMsX98)’!
-- Afterwards, you probably want to learn more about how you can [deal with **writing guilt**](https://twitter.com/dsquintana/status/961107677232418816). 
-- The [HemingWay Editor](https://hemingwayapp.com/) allows you to check if your sentences are **written clearly**. See also this [Twitter thread by Mercedes Gómez-López](https://twitter.com/dr_gomez_lopez/status/1503833830742016008) on **academic writing**.
+- Watch a RIOT talk on ‘[Reimagining scientific publishing](https://www.youtube.com/watch?v=0AX2vNMsX98)’
+- The [HemingWay Editor](https://hemingwayapp.com/) allows you to check if your sentences are **written clearly**. 
 - [Lex](https://lex.page) is a **new word processor with AI assistance** to help you to write. 
 
 
@@ -351,7 +358,6 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
     - [standing up for yourself](https://www.youtube.com/watch?v=dnyIzEFHXqI)
     - [adapting to change](https://www.youtube.com/watch?v=f4FAqvGrAHE)
     - [Academic Mental Health](https://www.youtube.com/watch?v=yyPTzvPwIwg) with Zoë Ayres
-- [“What is the Secret to **Developing New Research Ideas**?”](https://twitter.com/GeostatsGuy/status/1267114162284630018)
 - [Scientist without a lab? PhD guide to COVID-19](https://pbs.twimg.com/media/Eao-3S3WAAcA8kK?format=png&name=900x900)
 - [PhDForum Online Study Room](https://www.thephdforum.com/study-room)
 - [TIGER in STEMM](https://www.tigerinstemm.org/) held a summer webinar series on physics research topics over the summer on [YouTube](https://www.youtube.com/channel/UClEBGiUuUXJNuicJsHYlOyg)
@@ -363,13 +369,11 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
     - [The Academist](http://theacademinist.buzzsprout.com/)
     - [the Scientistt podcast](https://scientistt.net/pages/podcast)
 - [Blogpost has some tips on staying productive](https://smartsciencecareer.com/corona-career/)
-- [Guide on Twitter for scientists](https://t4scientists.com/) (promoting your work on Twitter it will increase your citations](https://doi.org/10.1016/j.athoracsur.2020.04.065))
-- [Twitter thread on mental health](https://twitter.com/MIKendrick94/status/1301338644934877186) during COVID
 - [12 min video on how luck plays a large role in success](https://www.youtube.com/watch?v=3LopI4YeC4I)
 - [PhD on track website](https://www.phdontrack.net/) 
 - **Resources**
     - Read Alexandra Lautarescu’s [blogpost on the tools](https://www.alautarescu.com/post/what-i-use-during-my-phd) she is using during her PhD or Sam Westwood’s [blogpost on ‘Time-saving things that actually work’](https://medium.com/@samuelwestwood/time-saving-things-that-actually-work-trust-me-28461a6f4a41?source=linkShare-60ad664054ea-1601025564)
-    - Overviews of tools by [Muhammad Sajeer](https://twitter.com/Sajeerp_/status/1487743490431721474), [Helena Hartmann](https://twitter.com/helenahhartmann/status/1473735195920633859), and  [Achintya Rao](https://raoofphysics.github.io/phd-starter-kit/)
+    - Overviews of tools by [Achintya Rao](https://raoofphysics.github.io/phd-starter-kit/) and [Helena Hartmann](https://github.com/helenahartmann/awesome-PhD)
     - Use the [Early Career Research Central](https://ecrcentral.org/) to find and discuss opportunities, and share experiences
     - [PhD Kickstarter](https://sites.google.com/view/phdkickstarter/home), FAQs to help you start and manage your PhD 
 - Some points that you may want to discuss with your supervisor can be found in this [Mentoring and Advising agreement document](https://docs.google.com/document/d/1oOPjjF8RJ1EOFvZMFAKe19hUVyQ5FRpS-tPV_uE1dcI/edit). 
@@ -382,20 +386,17 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
 - [Comic on Science Fictions](https://www.smbc-comics.com/comic/science-fictions) 
 - [Faking your daily commute](https://werepstem.com/2021/01/15/as-days-blend-together-many-turn-to-fake-commutes-for-a-sense-of-routine/) 
 - 'The Professor is in' has webinars available to [improve your productivity](https://theprofessorisin.com/free-productivity-webinars/) and a [blog post on how to gain some motivation](https://theprofessorisin.com/2020/07/27/motivation/). 
-- How do [Lord of the Rings GIFs describe the academic experience](https://twitter.com/AndrewBarnas/status/1440361521377280002?s=03)?
 - For some more tips on how to get through your PhD you can read my blog “[PhD in 4 - 5, 6, 7](https://vu.nl/en/about-vu/more-about/phd-in-4-5-6-7)”.
 - In case people are telling you to show more grit or just buckle up or work harder during your PhD, you might want to watch this video “[Grittier Than You](https://www.ted.com/talks/cait_kirby_grittier_than_you)”. 
 - **Prioritising**
     - [The Guide to Saying No](https://www.deargradstudent.com/episodes/64) (starts at 9:30)
     - [Not overextending ourselves](https://open.spotify.com/episode/2WrDeT1u4XjkANRJz7C5Pm?si=d6d74ea5466d46fb)
     - [Use one of the 20 templates to say no](https://www.inc.com/jessica-stillman/productivity-meetings-time-management-emails.html) to turn down any opportunities/requests that you don't have time for. 
-- This [meme](https://twitter.com/hardsci/status/1539746549466443777) might persuade you to take some time off ;)
-- In case you also manually scrolled back in an article every time you want to **look up a reference in an article**, you can use Alt + <- to return to the page you found it! ([Thanks Bjorn!)](https://twitter.com/OsteoBjorn/status/1554399706788335616)
-- If you then want to **Get things Done**, read a [Twitter thread by Benjamin Smith](https://twitter.com/itmebenji/status/1559170545718947843).
+- In case you also manually scrolled back in an article every time you want to **look up a reference in an article**, you can use Alt + <- to return to the page you found it! 
+- If you then want to **Get things Done**: 1. Make a focus playlist, 2. Prepare, 3. Prioritize tasks, 4. Work in 90 minute sprints, 5. Batch similar tasks, 6. Eliminate distractions, 7. Relax afterward.
 - Academia is not a calling – it is an “emailing”!
 - **Burn out**
     - Watch '[How To Stop **Burnout** In Its Tracks With Özgün Ünver](https://www.youtube.com/watch?v=RsxM--V4mtc)'
-    - Read a [Twitter thread on burnout and steps you can take](https://twitter.com/egcartisano/status/1551961931380047884).
 - PhD times can be tough! [Be compassionate to yourself, and you can make it through](https://voicesofacademia.com/2022/03/11/what-does-self-care-really-mean-by-jessie-shepherd/).
 
 # Inclusion / Belonging
@@ -406,17 +407,14 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
 - [webinar on inclusion organised by eLife](https://elifesciences.org/inside-elife/1aee75f1/webinar-report-promoting-inclusion-in-science)
 - [‘Picture a scientist’ documentary](https://www.filmplatform.net/product/picture-a-scientist/) (that you can watch if you’re logged in through the TU Delft network!) 
 - [Diversity and Inclusion in Research, Technology and Design](https://osc-delft.github.io/posts/2021/10/29/diversity-and-inclusion-in-research-technology-and-design/)
-- Maranke Wieringa is setting up a new Dutch interuniversity **network for people with a disability**: contact them for more information through their email (m.a.wieringa[at]uu.nl) or on Twitter.
 - Slack panel on [Trailblazing women in tech](https://slackwomensday.splashthat.com/slackemail).
-- [atoms are binary](https://twitter.com/KatysCartoons/status/1504463231380865031)
 - Susanne Täuber was fired this month for writing [an article](https://doi.org/10.1111/joms.12516) on her own experiences to write a **critique of the system**, showcasing how programmes that are intended to help women can actually get in their way. You can [read more about the case](https://ukrant.nl/magazine/susanne-tauber-has-been-fired-if-we-stay-silent-now-the-systems-wins/?lang=en) and how to support Susanne, [listen to a podcast](https://open.spotify.com/episode/4qDHjkRw08bVzmSGmzLpel?si=11ce2e3963284319), or use #AmINext to find posts about this on social media.
 - [Preprint]( https://doi.org/10.31235/osf.io/s5b6j) highlighting the **gender inequality** in ‘cum laude’ for PhD candidates at a Dutch University, where women were ‘almost two times less likely to get a ‘cum laude’ distinction’.
 
 # Career
 - [Not everyone will become a PI after their PhD](https://www.nature.com/articles/d41586-022-00875-0), or [wants to become one](https://www.science.org/content/article/i-thought-i-wanted-be-faculty-member-then-i-served-hiring-committee)! 
 - **Career outside of academia**
-    - This [Twitter thread lists some job skills](https://twitter.com/ZJAyres/status/1354704980838637569?s=03) that your PhD provides you with! 
-    - See also this [blogpost on the skill gaps of PhD graduates](https://leidenmadtrics.nl/articles/skill-gaps-of-phd-graduates)
+    - See this [blogpost on the skill gaps of PhD graduates](https://leidenmadtrics.nl/articles/skill-gaps-of-phd-graduates)
     - Transition to data science: [Twitter thread by Dr. Michael Mullarkey](https://twitter.com/mcmullarkey/status/1395145664267526145) 
     - [Twitter thread on Dr Lizzy Lowe’s experiences with transitioning to industry](https://twitter.com/LizyLowe/status/1415191644861722625)
     - Work on your [career transition story](https://beyondprof.com/your-phd-career-transition-story/)
@@ -460,13 +458,13 @@ Eva mentions **finding your strengths**, which the [StrengthsFinder website](htt
 # Tools 
 - **Chem4Word** will allow you to draw different kinds of chemical reactions and specifying reactants, products, reaction type with reagents and conditions in Microsoft Word.
 You can [download the betaversion](https://www.chem4word.co.uk/2022/03/15/all-new-for-2022-chem4word-does-chemical-reactions/) now and provide them with feedback!
-- [Find different CLI tools](https://twitter.com/rust4bio/status/1479817227964760066) for **bioinformatics**. 
 - The Protein Data Bank in Europe (PDBe) and PDBe Knowledge Base (PDBe-KB) have tools available to **analyse binding sites in protein structures** (see the [recordings of a webinar](https://www.ebi.ac.uk/training/events/guide-analysing-binding-sites-protein-structures) they hosted on this topic). 
 - For **bioimage analysis** needs visit [forum.image.sc]( https://forum.image.sc/), or visit [bio.tools]( https://bio.tools/) for tools relevant to **bioinformatics** and life sciences. 
 
 # Other
-- In case you want to know what data Elsevier collects from you, read [the blogpost ‘Welcome to Hotel Elsevier: you can check-out any time you like … not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)! 
-- If you're joining the Twitter migration to **Mastodon**, [elilla wrote a comprehensive overview](https://wordsmith.social/elilla/a-futuristic-mastodon-introduction-for-2021), and you can easily find people from twitter using the [fedifinder](https://fedifinder.glitch.me/).
+- In case you want to know what data Elsevier collects from you, read [the blogpost ‘Welcome to Hotel Elsevier: you can check-out any time you like … not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)!
+- **Mastodon**
+    - [elilla wrote a comprehensive Mastodon introduction](https://wordsmith.social/elilla/a-futuristic-mastodon-introduction-for-2021)
 - **machine/deep learning**
     - [Sign up for a **machine learning newsletter**](https://www.getrevue.co/profile/jesperdramsch).
     - [Read about five ways](https://www.nature.com/articles/d41586-022-02964-6) **deep learning has transformed image analysis**, also with the help of Citizen Science!
