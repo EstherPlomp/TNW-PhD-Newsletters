@@ -116,7 +116,16 @@ If you have external collaborators in a project, GitHub is a better solution.
     - [EURISE guide](https://github.com/eurise-network/technical-reference/blob/v0.1/quality/software-checklist.rst)
 - For general software/data information, see the [eScience Center guide](https://guide.esciencecenter.nl/#/) and [The Turing Way](https://the-turing-way.netlify.app/welcome) 
 - If sets, arrays and queues are not making any sense to you, you can watch this [short video on **data structures**](https://www.tiktok.com/@theannalytical/video/6876070561194282245?_d=secCgsIARCbDRgBIAIoARI%2BCjzQW45DNjGBfp3q5jKnY0Wjujb6t%2BqEM354CC8w4ErFCQntXwKRpQD16uhoZjWLeaES4%2BH%2BbiqmSRgv1ooaAA%3D%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAARTPuNiMjZQd4RUeJY813qXqlzIUxij_ISySZXOKEe_L5kZyEQ2h5nU8xD5AUZ7c2&share_item_id=6876070561194282245&share_link_id=404A63E3-E6FF-4114-BEAC-746B33C7E061&timestamp=1600960056&tt_from=copy&u_code=d78eg579kl69fh&user_id=6714106760716813317&utm_campaign=client_share&utm_medium=ios&utm_source=copy&source=h5_m) for a memorable explanation. 
-- Blog on **version control**: [Git or Perish](https://blogs.egu.eu/divisions/sm/2020/08/25/git-or-perish/)
+- **Version Control**
+    - Blog on [Git or Perish](https://blogs.egu.eu/divisions/sm/2020/08/25/git-or-perish/)
+    - Learn more about **version control** in this blogpost on [Why mycode.R_final.v2_usethisone is not helping your workflow](https://software.ac.uk/blog/2020-06-05-why-mycoderfinalv2usethisone-not-helping-your-workflow).
+    - If you want to work more collaboratively using version control you can consider using **GitHub or TU Delft GitLab**.
+  [TU Delft GitLab](https://gitlab.tudelft.nl/) is intended for private/secure repositories, whereas [GitHub](https://github.com/) is easier to use if you do not work with sensitive code and need to collaborate with externals. 
+    - Learn more about Git and GitHub via [Perez-Riverol et al. 2016](https://doi.org/10.1371/journal.pcbi.1004947)
+    - You can generate the text for your GitHub profile using [profilinator](https://profilinator.rishav.dev/) or the [GitHub Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+    - You can also implement GitHub Actions to check for errors in your data processing and cleaning: see [Kim et al. 2022](https://doi.org/10.1111/2041-210X.13982) for more details.
+- You can check out a webinar on [Practicals: Scientific software engineering principles](https://www.youtube.com/watch?v=KTjgTj6k5kE), where the first talk focuses on **version control** and the last one on **testing**.
+- For more resources on **testing**, check out another webinar on [Software Testing in Open Source and Data Science (Eric Ma)](https://www.youtube.com/watch?v=bJGgVoV4GTc).
 - Vlog on [how to start with code sharing](https://www.youtube.com/watch?v=u7h0A-KvWls&). 
 - [Sharing brain MRI data/code](https://www.youtube.com/watch?v=28XzdqbGKoE&feature=youtu.be)
 - ‘[Science as Amateur Software Development](https://youtu.be/zwRdO9_GGhY)’
@@ -135,12 +144,15 @@ Watch [this short video by Dr. Barbara Vreede on sharing your project](https://w
 [Read a blogpost about to know for sure](http://pdebuyl.be/blog/2021/joss-ready.html). 
     - [How can **software containers** help your research?](https://www.youtube.com/watch?v=HelrQnm3v4g)
     - **Why share your code?**
-[Read some reflections from the social sciences](https://www.ncrm.ac.uk/news/show.php?article=5705) that are widely applicable. 
-    - [Krafczyk et al. 2021](https://doi.org/10.1098/rsta.2020.0069) share some helpful **recommendations on how you can share your software** (pages 5-11). 
+[Read some reflections from the social sciences](https://www.ncrm.ac.uk/news/show.php?article=5705) that are widely applicable.
+    - [Top ten reasons to not **share your code** (and why you should anyway)](https://sinews.siam.org/Details-Page/top-ten-reasons-to-not-share-your-code-and-why-you-should-anyway)
+    - [Krafczyk et al. 2021](https://doi.org/10.1098/rsta.2020.0069) share some helpful **recommendations on how you can share your software** (pages 5-11).
+    - Read up on **reproducible and FAIR software** via a [blogpost by Peter Kalverla](https://blog.esciencecenter.nl/6-months-of-escience-6-lessons-worth-sharing-4fc925a1e376).
     - [GitHub](https://github.com/) is a great platform to share software but it won’t **preserve your code for the long term** (for example, GitHub changed github.com to github.io, resulting in a lot of broken links). 
 Instead, you can preserve a snapshot of your code on either [Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) or [4TU.ResearchData (Connecting your GitHub/GitLab account)](https://data.4tu.nl/info/en/about-your-data/getting-started). 
     - You may be asked to share your code by **peer reviewers**! 
         - [Read this blogpost on how peer review of software can improve the quality of your work]( https://ropensci.org/blog/2019/04/18/wild-standards/)
+        - Learn more about **code review** in a [webinar by Lisa DeBruine](https://www.youtube.com/watch?v=w056yEMyJnE)
     - You can also use [notebooksharing](https://notebooksharing.space/) to **share your Jupyter and R Markdown notebooks** with co-authors. 
     - [Lisa deBruine has written a short guide](https://debruine.github.io/data-code-tips/) for authors that want to **share their code in a computationally reproducible way**. 
     - The [Journal of Open Source Education]( https://jose.theoj.org/) **publishes open-source educational materials and software**.
@@ -174,6 +186,9 @@ See for example the workshop on [software design and sustainability](https://www
     - Read the book ‘[Python for data analysis](https://wesmckinney.com/book/)’ 
     - Or another book on ‘[Research Software Engineering with Python](https://merely-useful.github.io/py-rse/)’
     - Check the course ‘[Programming in Python for Data Science](https://prog-learn.mds.ubc.ca/en/)’
+    - This year’s **JupyterCon videos** are [available on YouTube](https://www.youtube.com/@JupyterCon/videos).
+See for example the presentation by Franklin Koch on [MyST Markdown: Using notebooks in scientific publishing workflows]( https://www.youtube.com/watch?v=wyRmcbWBXs4).
+(You can also check out the [Start using MyST Markdown in JupyterLab in 30 seconds video]( https://www.youtube.com/watch?v=gM0IMVPH9AU)). 
 - **R**
     -  [Delft RCafe resources](https://github.com/Delft-RCafe/resources/blob/gh-pages/index.md)
     -  UseR! 2020 presentations are available on the [useR! YouTube channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
@@ -467,6 +482,10 @@ You can [download the betaversion](https://www.chem4word.co.uk/2022/03/15/all-ne
 - In case you want to know what data Elsevier collects from you, read [the blogpost ‘Welcome to Hotel Elsevier: you can check-out any time you like … not](https://eiko-fried.com/welcome-to-hotel-elsevier-you-can-check-out-any-time-you-like-not/)!
 - **Mastodon**
     - [elilla wrote a comprehensive Mastodon introduction](https://wordsmith.social/elilla/a-futuristic-mastodon-introduction-for-2021)
+    - [blog by Danielle Navarro](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/)
+    - [How to Join Mastodon blogpost]( https://gizmodo.com/how-to-join-mastodon-twitter-alternative-elon-musk-1849739031) 
+    - [blogpost by Stammy](https://paulstamatiou.com/mastodon/)
+    - [SURF also hosts a pilot](https://www.surf.nl/en/mastodon-pilot-for-research-and-education) which is making it easy to join their instance and get started!
 - **machine/deep learning**
     - [Sign up for a **machine learning newsletter**](https://www.getrevue.co/profile/jesperdramsch).
     - [Read about five ways](https://www.nature.com/articles/d41586-022-02964-6) **deep learning has transformed image analysis**, also with the help of Citizen Science!
