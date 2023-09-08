@@ -188,7 +188,9 @@ See for example the workshop on [software design and sustainability](https://www
     - Check the course ‘[Programming in Python for Data Science](https://prog-learn.mds.ubc.ca/en/)’
     - This year’s **JupyterCon videos** are [available on YouTube](https://www.youtube.com/@JupyterCon/videos).
 See for example the presentation by Franklin Koch on [MyST Markdown: Using notebooks in scientific publishing workflows]( https://www.youtube.com/watch?v=wyRmcbWBXs4).
-(You can also check out the [Start using MyST Markdown in JupyterLab in 30 seconds video]( https://www.youtube.com/watch?v=gM0IMVPH9AU)). 
+(You can also check out the [Start using MyST Markdown in JupyterLab in 30 seconds video]( https://www.youtube.com/watch?v=gM0IMVPH9AU)).
+    - **PyCon AU 2023 recordings** are available.
+See for example [Present like a pro! by Katie McLaughlin](https://www.youtube.com/watch?v=YMcx35RGzYM) and [Roll for Initiative: how to make the world of AI a more ethical place](https://www.youtube.com/watch?v=FvBCO7IK_6Y)
 - **R**
     -  [Delft RCafe resources](https://github.com/Delft-RCafe/resources/blob/gh-pages/index.md)
     -  UseR! 2020 presentations are available on the [useR! YouTube channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
