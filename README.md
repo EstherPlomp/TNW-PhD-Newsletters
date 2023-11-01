@@ -158,8 +158,12 @@ Instead, you can preserve a snapshot of your code on either [Zenodo](https://doc
     - The [Journal of Open Source Education]( https://jose.theoj.org/) **publishes open-source educational materials and software**.
 - The Turing Way now has a guide on [Software Citation with CITATION.cff](https://the-turing-way.netlify.app/communication/citable/citable-cff.html). 
 You can also go over this [Software Citation Checklist for Authors](https://doi.org/10.5281/zenodo.3479199).
-- Recordings of the ‘**[SeptembRSE](https://septembrse.society-rse.org/)**’ sessions are [available on YouTube](https://www.youtube.com/playlist?list=PL27mQJy8eDHkB1Q9pu8pXpMa1AZtwov6Q). 
+* **Software conference recordings** 
+    - Recordings of the ‘**[SeptembRSE](https://septembrse.society-rse.org/)**’ sessions are [available on YouTube](https://www.youtube.com/playlist?list=PL27mQJy8eDHkB1Q9pu8pXpMa1AZtwov6Q). 
 See for example the workshop on [software design and sustainability](https://www.youtube.com/watch?v=z_xSsl8iC4g&list=PL27mQJy8eDHkB1Q9pu8pXpMa1AZtwov6Q&index=10) (starts at 8 min, with the more practical part at 1.20-2.14 and the coding/interactive part at the end), the discussion session on [software testing](https://www.youtube.com/watch?v=9084fOirQYo&list=PL27mQJy8eDHkB1Q9pu8pXpMa1AZtwov6Q&index=21), the panel on ‘[missing narratives in discussions around diversity and inclusion in research software](https://youtu.be/tpxCWCTSZUc?t=2014)’, and a session on the [different aspects of the RSE roles](https://youtu.be/beGmYKVNApA).
+    -  **FOSSY 2023** [recordings](https://archive.org/details/@sfconservancy) are out!
+    This conference focused on the creation and impact of **free and open source software** has some interesting presentations on: [Community lead user research and usability in Science and Research OSS: What we learned](https://archive.org/details/fossy2023_Community_lead_user_research_a) and [Diamond Open Education](https://archive.org/details/fossy2023_Diamond_Open_Education).
+    -  The **CopyLeft conference from 2020** has some older but still relevant recordings on [The Rising Ethical Storm In Open Source – Coraline Ada Ehmke](https://archive.org/details/copyleftconf2020-ehmke) and [Collaborative Authorship Models in Open Source – Dashiell Renaud](https://archive.org/details/copyleftconf2020-renaud).
 - **Open-Source Tools for Chemists** workshop recordings are available on [YouTube](https://www.youtube.com/playlist?list=PLBQwbn0mPhvWfOx6ce_vUjr54ftLBmSH0).
     - See for example: [DataWarrior](https://www.youtube.com/watch?v=Is2hLqqSFvM); [PyMOL](https://www.youtube.com/watch?v=qOxS2wqajdg); [GoogleCoLab](https://www.youtube.com/watch?v=KEIpJ50Jc0w); [CheMBL](https://www.youtube.com/watch?v=zpzJutFTtL4); [Fragalysis](https://www.youtube.com/watch?v=LVWd50CgU4g); [Knime](https://www.youtube.com/watch?v=lP0Yh6kKNsA) 
 - **Docker**
@@ -191,6 +195,15 @@ See for example the presentation by Franklin Koch on [MyST Markdown: Using noteb
 (You can also check out the [Start using MyST Markdown in JupyterLab in 30 seconds video]( https://www.youtube.com/watch?v=gM0IMVPH9AU)).
     - **PyCon AU 2023 recordings** are available.
 See for example [Present like a pro! by Katie McLaughlin](https://www.youtube.com/watch?v=YMcx35RGzYM) and [Roll for Initiative: how to make the world of AI a more ethical place](https://www.youtube.com/watch?v=FvBCO7IK_6Y)
+    - Checkout some **Machine Learning Workshops** ([workshops descriptions](https://research.library.gsu.edu/dataservices/data-analysis-tools#pythonML-workshops))
+         -	[Univariate Linear Regression](https://lib.gsu.edu/pythonML1)
+         -	[Multiple Linear Regression Workshop](https://lib.gsu.edu/pythonML2)
+         -	[Logistic Regression](https://lib.gsu.edu/pythonML3)
+    -  Read up on ‘Ten simple rules for **writing and sharing computational analyses in Jupyter Notebooks**’ ([Rule et al. 2019](https://doi.org/10.1371/journal.pcbi.1007007)).
+    - [Check out some options you have](https://learn.scientific-python.org/development/guides/style/) to check your Python **code style**.
+    - Get started with [Sphinx ](https://www.sphinx-doc.org/en/master/) improve your **documentation** practices. 
+    - Or try out Python and **Quarto** to [produce reproducible publications](https://www.youtube.com/watch?v=TnVgHE9LAiw)!
+    - And on a less serious note, listen to a 2 part ‘ interview’ with a Senior Python Developer: [Part 1](https://www.youtube.com/watch?v=BgxklT94W0I), [Part 2](https://www.youtube.com/watch?v=xyrgkui0uCA). 
 - **R**
     -  [Delft RCafe resources](https://github.com/Delft-RCafe/resources/blob/gh-pages/index.md)
     -  UseR! 2020 presentations are available on the [useR! YouTube channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
@@ -488,6 +501,7 @@ You can [download the betaversion](https://www.chem4word.co.uk/2022/03/15/all-ne
     - [How to Join Mastodon blogpost]( https://gizmodo.com/how-to-join-mastodon-twitter-alternative-elon-musk-1849739031) 
     - [blogpost by Stammy](https://paulstamatiou.com/mastodon/)
     - [SURF also hosts a pilot](https://www.surf.nl/en/mastodon-pilot-for-research-and-education) which is making it easy to join their instance and get started!
+    - If you haven’t wrapped your head around **Mastodon** yet, use the [Mastodon Quick Start Guide](https://zenodo.org/records/10019853) to get started!
 - **machine/deep learning**
     - [Sign up for a **machine learning newsletter**](https://www.getrevue.co/profile/jesperdramsch).
     - [Read about five ways](https://www.nature.com/articles/d41586-022-02964-6) **deep learning has transformed image analysis**, also with the help of Citizen Science!
