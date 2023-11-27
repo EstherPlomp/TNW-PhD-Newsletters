@@ -21,7 +21,8 @@ Overview of the newsletters sent to the PhD candidates of TNW by the [Data Stewa
 - [ROpenSci webinar “The Wild World of Data Repositories”](https://ropensci.org/commcalls/dec2020-datarepos/)
 - Learn more about **Data Management Plans (DMP)** by [watching a video on DMPs](https://www.youtube.com/watch?v=tvs5_X5rn8w)
 - **file naming** 
-    - Have a look at [this presentation on naming things](https://speakerdeck.com/jennybc/how-to-name-files) or a [blogpost on how to make your files more findable](https://zapier.com/blog/organize-files-folders/). 
+    - Have a look at [this presentation on naming things](https://speakerdeck.com/jennybc/how-to-name-files) or a [blogpost on how to make your files more findable](https://zapier.com/blog/organize-files-folders/).
+    - Improve your file naming practises by watching a [5 min video](https://youtu.be/ES1LTlnpLMk)
     - Want to rename multiple files? 
 The [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) may save you a lot of time (but be careful with overwriting things)! 
 This [short data organisation/documentation manual](https://surfdrive.surf.nl/files/index.php/s/J6XOVPcUot1tiUl) can help you with file naming but also folder organisation. 
@@ -37,6 +38,10 @@ See also these [slides on the Practicalities of Data Handling](https://doi.org/1
     - The [‘Quick Guide to Organizing Computational Biology Projects’](https://doi.org/10.1371/journal.pcbi.1000424) is relevant to all research projects and also goes into a bit more detail on how to organise your files. 
     - Read a blogpost on [‘How to Organize Your Digital Files’](https://www.nytimes.com/wirecutter/guides/how-to-organize-your-digital-files/).
 - Learn how to **manage your project**, folders and files from this [short video series on Project Structure](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=3) by Danielle Navarro (see [here for the slides](https://slides.djnavarro.net/project-structure/#1)).
+- Prevent having to [save your data from extinction by reading about a **data ecology horror**](https://www.the-scientist.com/notebook/inside-the-project-trying-to-save-datasets-from-extinction-70690)
+- If you’re working with survey data – [generate a data dictionary](https://doi.org/10.1177/2515245920928007)!
+- Check the slides or recording of a talk by [Ten Common Data Management Mistakes](https://cghlewis.com/talk/sssp_ecf/) by Crystal Lewis
+- Checkout a [helpful overview of **data visualisation** resources](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-visualisation) 
 - **Data Sharing**
     - This blogpost [‘How can you make research data accessible’](https://www.software.ac.uk/how-can-you-make-research-data-accessible) describes five steps that you can take. 
     - Wellcome’s (UK funder) [data sharing guide](https://urldefense.proofpoint.com/v2/url?u=https-3A__think.f1000research.com_wp-2Dcontent_uploads_2021_01_Open-5FData-5FJourney.pdf-3Futm-5Fsource-3DCPB-26utm-5Fmedium-3Dcms-26utm-5Fcampaign-3DJPE14618&d=DwMFAg&c=XYzUhXBD2cD-CornpT4QE19xOJBbRy-TBPLK0X9U2o8&r=qx-Tb7sihBJZNL88xMGfB6jQKYzV5t8sRq2LokPa_BE&m=D0DyZjvAEkjnkZIqochhdadHYsGST2pJoXB15H6Ghmc&s=hkXL1bLTIMPvpQnmyByUh5xj8DHCK8AH3CrbOaJcwXs&e=) (pdf) provides a short overview of things you will encounter if you want to share your data and contains a lot of good resources that help you to get started!
@@ -48,7 +53,8 @@ See also these [slides on the Practicalities of Data Handling](https://doi.org/1
 See these [tips from Springer Nature for writing this statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement).
     - [Webinar on transparency and qualitative data sharing](https://www.youtube.com/watch?v=DKkExQfwqpU) 
     - Learn more about [how to **share your research** from PLOS](https://plos.org/resource/how-to-share-your-research/)
-    - [Sharing biological data: why, when, and how](https://doi.org/10.1002/1873-3468.14067) by Wilson et al. 2021 provides some pointers on how you can share **biological data**, specifically tabular data, genomics, proteomics, microscopy, and structural biological data. 
+    - [Sharing biological data: why, when, and how](https://doi.org/10.1002/1873-3468.14067) by Wilson et al. 2021 provides some pointers on how you can share **biological data**, specifically tabular data, genomics, proteomics, microscopy, and structural biological data.
+    - Read a [publication](https://doi.org/10.1038/s41586-022-04501-x) on the application of the **FAIR principles to materials research**
 - [Watch a webinar](https://www.youtube.com/watch?v=bo4_mShJfyM) on **data/software sharing guidance**.
 - **Personal Data** 
     - Personal data is any data that can lead to the identification of a person. 
@@ -248,6 +254,7 @@ Note that you can still publish on these experiments through journals such as th
 - You can also **share your methods** through platforms such as [protocols.io](https://www.protocols.io/). 
 See this feature on ‘[Five keys to writing a reproducible lab protocol](https://www.nature.com/articles/d41586-021-02428-3)’ for some pointers. 
 - Read up on the possibilities for [providing **access to reagents**](https://www.the-scientist.com/careers/what-if-scientists-shared-their-reagents-for-free-70170). 
+- Watch a [video on how to write a reusable, step-by-step **protocol**](https://www.youtube.com/watch?v=aKiXFzj15dg&list=PLWb8IFSVeQ620plPweZIQSGQODpGOww8r&index=5)
 
 # Open Science
 - [Open Science Community Delft](https://osc-delft.github.io/) 
