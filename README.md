@@ -459,6 +459,7 @@ Or read more about [data licenses on The Turing Way](https://the-turing-way.netl
 - Slack panel on [Trailblazing women in tech](https://slackwomensday.splashthat.com/slackemail).
 - Susanne Täuber was fired this month for writing [an article](https://doi.org/10.1111/joms.12516) on her own experiences to write a **critique of the system**, showcasing how programmes that are intended to help women can actually get in their way. You can [read more about the case](https://ukrant.nl/magazine/susanne-tauber-has-been-fired-if-we-stay-silent-now-the-systems-wins/?lang=en) and how to support Susanne, [listen to a podcast](https://open.spotify.com/episode/4qDHjkRw08bVzmSGmzLpel?si=11ce2e3963284319), or use #AmINext to find posts about this on social media.
 - [Preprint]( https://doi.org/10.31235/osf.io/s5b6j) highlighting the **gender inequality** in ‘cum laude’ for PhD candidates at a Dutch University, where women were ‘almost two times less likely to get a ‘cum laude’ distinction’.
+- Article on [how well intent alone does not address inequity in STEM](https://doi.org/10.3390/educsci13030233).  
 
 # Career
 - [Not everyone will become a PI after their PhD](https://www.nature.com/articles/d41586-022-00875-0), or [wants to become one](https://www.science.org/content/article/i-thought-i-wanted-be-faculty-member-then-i-served-hiring-committee)! 
