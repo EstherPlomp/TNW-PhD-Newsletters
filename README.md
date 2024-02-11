@@ -9,7 +9,7 @@ Overview of the newsletters sent to the PhD candidates of TNW by the [Data Stewa
     - [TNW/AS Research Data Management Policy](https://filelist.tudelft.nl/Library/Themaportalen/RDM/Beleid/2020_AS_Research_Data_Management_Policy.pdf)
     - Electronic Lab Notebooks: [RSpace](https://www.researchspace.com/) and [eLABjournal](https://www.elabjournal.com/) are available for TU Delft researchers
     - [4TU.ResearchData](https://data.4tu.nl/) archive to share your data
-    - [Project drive](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/manage/storage/), [SURFdrive](https://www.surf.nl/en/surfdrive-store-and-share-your-files-securely-in-the-cloud) or OneDrive to store your project’s research data
+    - [Project drive](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/manage/storage/), [SURFdrive](https://www.surf.nl/en/surfdrive-store-and-share-your-files-securely-in-the-cloud) or OneDrive to store your project’s research data - see [storage solutions](https://estherplomp.github.io/TNW-OS-support/posts/storage-solutions/) for a more comprehensive overview.
 - [Know Moore About Research Data Management](https://www.youtube.com/watch?v=NCUT6MA-zVA) (+ [slides](https://hcommons.org/deposits/item/hc:28833/) - Some resources mentioned in the webinar are Cambridge specific)
 - [The Turing Way](https://the-turing-way.netlify.app/welcome.html) also has a chapter on [Research Data Management](https://the-turing-way.netlify.app/reproducible-research/rdm.html) - and a lot more information on how to **work more reproducible**. 
 - [Blogpost that contains some tips on how to organise your paperwork](https://alexwlchan.net/2019/11/my-scanning-setup/)
@@ -17,7 +17,6 @@ Overview of the newsletters sent to the PhD candidates of TNW by the [Data Stewa
 - Aalto University’s [Introduction to Research Data Management](https://www.youtube.com/watch?v=duDCcV8xhQo) 
 - Short video on [**file formats**](https://www.youtube.com/watch?v=kxxlQnc8u1I)
 - Organise your **spreadsheet data** with [OpenRefine](https://openrefine.org/)/[Frictionlessdata](https://frictionlessdata.io/)/[Excelint](https://github.com/plasma-umass/Excelint-addin) (see also [this lesson on OpenRefine by the Carpentries](https://librarycarpentry.org/lc-open-refine/)).
-- Podcast episode [‘Reproducible data science, how hard can it be?’](https://open.spotify.com/episode/1OVxFUA5UyIfMSCd842wjD?si=tEhJzufDROmOqsvJHsUPuw)
 - [ROpenSci webinar “The Wild World of Data Repositories”](https://ropensci.org/commcalls/dec2020-datarepos/)
 - Learn more about **Data Management Plans (DMP)** by [watching a video on DMPs](https://www.youtube.com/watch?v=tvs5_X5rn8w)
 - **file naming** 
@@ -29,8 +28,7 @@ This [short data organisation/documentation manual](https://surfdrive.surf.nl/fi
 - Suffering from **messy datasets**? [The ultimate guide to data cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) contains some tips to clean it up! 
 See also these [slides on the Practicalities of Data Handling](https://doi.org/10.5281/zenodo.5078264) and a [blog on Tidy Data with nice illustrations](https://openscapes.org/blog/2020-10-12-tidy-data/).
 - Learn more about [**how to organise your research project** through this short video](https://youtu.be/tBGLRXUbCrU). 
-- Want to learn more on **working more openly and reproducibly**? Watch these [videos on how to do open and reproducible research](https://tmskr.github.io/video.html).
-- - Setting up your **readme file** has never been easier with the [readme.so online editor](https://readme.so/).
+- Setting up your **readme file** has never been easier with the [readme.so online editor](https://readme.so/).
 - When you use **arXiv** you can now [link your publication to a dataset](https://blog.arxiv.org/2021/05/13/linking-to-datasets-on-arxiv/)! 
 [arXiv now also asigns DOIs!](https://blog.arxiv.org/2022/02/17/new-arxiv-articles-are-now-automatically-assigned-dois/) 
 - There’s a **materials research data alliance community**: www.marda-alliance.org.
@@ -39,7 +37,7 @@ See also these [slides on the Practicalities of Data Handling](https://doi.org/1
     - Read a blogpost on [‘How to Organize Your Digital Files’](https://www.nytimes.com/wirecutter/guides/how-to-organize-your-digital-files/).
 - Learn how to **manage your project**, folders and files from this [short video series on Project Structure](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=3) by Danielle Navarro (see [here for the slides](https://slides.djnavarro.net/project-structure/#1)).
 - Prevent having to [save your data from extinction by reading about a **data ecology horror**](https://www.the-scientist.com/notebook/inside-the-project-trying-to-save-datasets-from-extinction-70690)
-- If you’re working with survey data – [generate a data dictionary](https://doi.org/10.1177/2515245920928007)!
+- If you’re working with **survey data** – [generate a data dictionary](https://doi.org/10.1177/2515245920928007)!
 - Check the slides or recording of a talk by [Ten Common Data Management Mistakes](https://cghlewis.com/talk/sssp_ecf/) by Crystal Lewis
 - Checkout a [helpful overview of **data visualisation** resources](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-visualisation) 
 - **Data Sharing**
@@ -106,7 +104,6 @@ If you have external collaborators in a project, GitHub is a better solution.
     - Learn more about **software licencing** via a [FAQ](https://fsfe.org/freesoftware/legal/faq.en.html) or a [podcast by ByteSized](https://open.spotify.com/episode/4ev4QCsY4yIoXkAkhEbiVR?si=ed690dac653b43b1).
     - [Webinar on Open Software licenses](https://www.youtube.com/watch?v=y9y8a3O4fjg), where they also discuss **readme files** (30.48 – 41:00), which you need for your project to describe it to others and tell them how to interact with your code/software. You can also learn about **contribution guidelines** and how to set up a **code of conduct** (46:00 – 1:01) from the same webinar. 
 - Webinar: ['How to set up a GitHub repository and your own website'](https://www.youtube.com/watch?v=QRUvQgKbVZQ)
-- [Best practices for writing reproducible code](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html#1) (slides by Barbara Vreede)
 - [document your code](https://www.monkeyuser.com/2020/welcome-to-hell/)
 - [FAIR software recommendations](https://fair-software.nl/recommendations/checklist)
 - **Improving code readability**
@@ -160,7 +157,6 @@ Instead, you can preserve a snapshot of your code on either [Zenodo](https://doc
         - [Read this blogpost on how peer review of software can improve the quality of your work]( https://ropensci.org/blog/2019/04/18/wild-standards/)
         - Learn more about **code review** in a [webinar by Lisa DeBruine](https://www.youtube.com/watch?v=w056yEMyJnE)
     - You can also use [notebooksharing](https://notebooksharing.space/) to **share your Jupyter and R Markdown notebooks** with co-authors. 
-    - [Lisa deBruine has written a short guide](https://debruine.github.io/data-code-tips/) for authors that want to **share their code in a computationally reproducible way**. 
     - The [Journal of Open Source Education]( https://jose.theoj.org/) **publishes open-source educational materials and software**.
 - The Turing Way now has a guide on [Software Citation with CITATION.cff](https://the-turing-way.netlify.app/communication/citable/citable-cff.html). 
 You can also go over this [Software Citation Checklist for Authors](https://doi.org/10.5281/zenodo.3479199).
@@ -169,9 +165,12 @@ You can also go over this [Software Citation Checklist for Authors](https://doi.
 See for example the workshop on [software design and sustainability](https://www.youtube.com/watch?v=z_xSsl8iC4g&list=PL27mQJy8eDHkB1Q9pu8pXpMa1AZtwov6Q&index=10) (starts at 8 min, with the more practical part at 1.20-2.14 and the coding/interactive part at the end), the discussion session on [software testing](https://www.youtube.com/watch?v=9084fOirQYo&list=PL27mQJy8eDHkB1Q9pu8pXpMa1AZtwov6Q&index=21), the panel on ‘[missing narratives in discussions around diversity and inclusion in research software](https://youtu.be/tpxCWCTSZUc?t=2014)’, and a session on the [different aspects of the RSE roles](https://youtu.be/beGmYKVNApA).
     -  **FOSSY 2023** [recordings](https://archive.org/details/@sfconservancy) are out!
     This conference focused on the creation and impact of **free and open source software** has some interesting presentations on: [Community lead user research and usability in Science and Research OSS: What we learned](https://archive.org/details/fossy2023_Community_lead_user_research_a) and [Diamond Open Education](https://archive.org/details/fossy2023_Diamond_Open_Education).
-    -  The **CopyLeft conference from 2020** has some older but still relevant recordings on [The Rising Ethical Storm In Open Source – Coraline Ada Ehmke](https://archive.org/details/copyleftconf2020-ehmke) and [Collaborative Authorship Models in Open Source – Dashiell Renaud](https://archive.org/details/copyleftconf2020-renaud).
+    - The **CopyLeft conference from 2020** has some older but still relevant recordings on [The Rising Ethical Storm In Open Source – Coraline Ada Ehmke](https://archive.org/details/copyleftconf2020-ehmke) and [Collaborative Authorship Models in Open Source – Dashiell Renaud](https://archive.org/details/copyleftconf2020-renaud).
+    - The **NORM conference** has interesting talks on **[data visualistion](https://www.youtube.com/watch?v=MzaOivVxU8M)**, [invisible work](https://www.youtube.com/watch?v=HiF83i1OLOM), **[file naming](https://www.youtube.com/watch?v=ES1LTlnpLMk)**, [Excel hotkeys](https://youtu.be/HF0F4H8BNsE), [Docker](https://youtu.be/kx-SeGbkNPU), [Data is the new coffee]( https://youtu.be/GrQcVU-eapc), and [how to stop crying when using **Matplotlib**](https://youtu.be/vjQIaepijbE).
+    - Watch Margaret Mitchell's [PyCon2023 keynote](https://www.youtube.com/watch?v=urBrxQ4e8WY&t=90s) on **biases and ethics in machine learning**.
 - **Open-Source Tools for Chemists** workshop recordings are available on [YouTube](https://www.youtube.com/playlist?list=PLBQwbn0mPhvWfOx6ce_vUjr54ftLBmSH0).
-    - See for example: [DataWarrior](https://www.youtube.com/watch?v=Is2hLqqSFvM); [PyMOL](https://www.youtube.com/watch?v=qOxS2wqajdg); [GoogleCoLab](https://www.youtube.com/watch?v=KEIpJ50Jc0w); [CheMBL](https://www.youtube.com/watch?v=zpzJutFTtL4); [Fragalysis](https://www.youtube.com/watch?v=LVWd50CgU4g); [Knime](https://www.youtube.com/watch?v=lP0Yh6kKNsA) 
+    - See for example: [DataWarrior](https://www.youtube.com/watch?v=Is2hLqqSFvM); [PyMOL](https://www.youtube.com/watch?v=qOxS2wqajdg); [GoogleCoLab](https://www.youtube.com/watch?v=KEIpJ50Jc0w); [CheMBL](https://www.youtube.com/watch?v=zpzJutFTtL4); [Fragalysis](https://www.youtube.com/watch?v=LVWd50CgU4g); [Knime](https://www.youtube.com/watch?v=lP0Yh6kKNsA)
+
 - **Docker**
      - [Start using Docker](https://blog.datasciencedojo.com/data-science-with-docker-containers/) 
      - [Ensure that what you share with Docker becomes citable](https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi)
@@ -223,8 +222,6 @@ See for example [Present like a pro! by Katie McLaughlin](https://www.youtube.co
 - **Quarto**
     - [Quarto offers a myriad of features that are especially useful for academics](https://quarto.org/docs/blog/posts/2023-05-22-quarto-for-academics).
 - Not sure what a **Research Software Engineer** is? Listen to [Hello PhD podcast](https://hellophd.com/2022/03/172-research-software-engineer/) to learn more (7.40 – 40.00 for the interview with a Research Software Engineer). 
-- The **NORM conference** has interesting talks on **[data visualistion](https://www.youtube.com/watch?v=MzaOivVxU8M)**, [invisible work](https://www.youtube.com/watch?v=HiF83i1OLOM), **[file naming](https://www.youtube.com/watch?v=ES1LTlnpLMk)**, [Excel hotkeys](https://youtu.be/HF0F4H8BNsE), [Docker](https://youtu.be/kx-SeGbkNPU), [Data is the new coffee]( https://youtu.be/GrQcVU-eapc), and [how to stop crying when using **Matplotlib**](https://youtu.be/vjQIaepijbE).
-- Watch Margaret Mitchell's [PyCon2023 keynote](https://www.youtube.com/watch?v=urBrxQ4e8WY&t=90s) on **biases and ethics in machine learning**.
 - Need help picking a **data notebook** for your next project? [Data Science Notebooks](https://datasciencenotebook.org/) compares the features in different data science notebook tools.
  
 # Reproducibility
@@ -235,6 +232,7 @@ See for example [Present like a pro! by Katie McLaughlin](https://www.youtube.co
     - ‘[Towards a Culture of Computational Reproducibility](https://www.youtube.com/watch?v=XjW3t-qXAiE&)’
     - ‘[Steps towards reproducible research]( https://www.youtube.com/watch?v=rNQ-RlG3JnQ)’
     - [How to make your research reproducible?](https://www.workcast.com/ControlUsher.aspx?cpak=8232371292435174&pak=7279159888532687) (requires you to register to watch on demand)
+    - [videos on how to do open and reproducible research](https://tmskr.github.io/video.html)
 - Ensuring your work is reproducible can **prevent retractions** later on, particularly when there are [software problems](https://www.science.org/doi/full/10.1126/science.314.5807.1856).
 - [Does **condensed matter physics** need to worry about a replication crisis?](https://virtualscienceforum.org/reproducibility_in_cmp/) 
 - Slides on [Data Management and Reproducibility: A Tasting Buffet](https://doi.org/10.5281/zenodo.7725483) by Shern Tee.
@@ -245,7 +243,10 @@ See for example [Present like a pro! by Katie McLaughlin](https://www.youtube.co
   - [Open and Reproducible Coding: Perspective of an MSK Imaging Researcher](https://www.youtube.com/watch?v=YiBjBt3NR8M) by Serena Bonaretti
   - [Improve your workflow for reproducible science]( https://riotscience.co.uk/reproducible-data-science-with-r/) with a focus on rMarkdown by Mine Çetinkaya-Rundel
   - [Improving openness and reproducibility of research](https://www.youtube.com/watch?v=-DDD901fk6s) by Brian Nosek
-
+- Podcast episode [‘Reproducible data science, how hard can it be?’](https://open.spotify.com/episode/1OVxFUA5UyIfMSCd842wjD?si=tEhJzufDROmOqsvJHsUPuw)
+- [Best practices for writing reproducible code](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html#1) (slides by Barbara Vreede)
+- [Lisa deBruine has written a short guide](https://debruine.github.io/data-code-tips/) for authors that want to **share their code in a computationally reproducible way**. 
+  
 # Open Methods
 - PLOS ONE introduced two new publication formats: [Lab Protocols and Study Protocols!](https://theplosblog.plos.org/2021/02/submit-your-lab-and-study-protocols-plos-one/)
 - Did your recent experiment fail? 
