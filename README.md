@@ -233,19 +233,24 @@ See for example [Present like a pro! by Katie McLaughlin](https://www.youtube.co
     - ‘[Steps towards reproducible research]( https://www.youtube.com/watch?v=rNQ-RlG3JnQ)’
     - [How to make your research reproducible?](https://www.workcast.com/ControlUsher.aspx?cpak=8232371292435174&pak=7279159888532687) (requires you to register to watch on demand)
     - [videos on how to do open and reproducible research](https://tmskr.github.io/video.html)
+    - [Approaches to Scientific Error](https://www.youtube.com/watch?v=jNQky95-lhY) with Dr. Amy Orben
+    - [Why openness and reproducibility makes research software better](https://www.youtube.com/watch?v=abij6ITfpUA) by Yo Yehudi
+    - [Data sharing and reproducibility]( https://vimeo.com/668640629) by Dr Laurence Hunt (you can use [4TU.ResearchData](https://data.4tu.nl) and/or [Zenodo](https://zenodo.org/) to share data publicly!) 
+    - [Open and Reproducible Coding: Perspective of an MSK Imaging Researcher](https://www.youtube.com/watch?v=YiBjBt3NR8M) by Serena Bonaretti
+    - [Improve your workflow for reproducible science]( https://riotscience.co.uk/reproducible-data-science-with-r/) with a focus on rMarkdown by Mine Çetinkaya-Rundel
+    - [Improving openness and reproducibility of research](https://www.youtube.com/watch?v=-DDD901fk6s) by Brian Nosek
 - Ensuring your work is reproducible can **prevent retractions** later on, particularly when there are [software problems](https://www.science.org/doi/full/10.1126/science.314.5807.1856).
 - [Does **condensed matter physics** need to worry about a replication crisis?](https://virtualscienceforum.org/reproducibility_in_cmp/) 
 - Slides on [Data Management and Reproducibility: A Tasting Buffet](https://doi.org/10.5281/zenodo.7725483) by Shern Tee.
 - [Docker](https://www.docker.com/) is a **tool for reproducibility** and portability. 
 [Learn more about Docker and how can you start using it](https://do4ds.com/chapters/sec2/2-4-docker.html).
-- You can watch several **webinars/presentations** on reproducibility: 
-  - [Data sharing and reproducibility]( https://vimeo.com/668640629) by Dr Laurence Hunt (you can use [4TU.ResearchData](https://data.4tu.nl) and/or [Zenodo](https://zenodo.org/) to share data publicly!) 
-  - [Open and Reproducible Coding: Perspective of an MSK Imaging Researcher](https://www.youtube.com/watch?v=YiBjBt3NR8M) by Serena Bonaretti
-  - [Improve your workflow for reproducible science]( https://riotscience.co.uk/reproducible-data-science-with-r/) with a focus on rMarkdown by Mine Çetinkaya-Rundel
-  - [Improving openness and reproducibility of research](https://www.youtube.com/watch?v=-DDD901fk6s) by Brian Nosek
 - Podcast episode [‘Reproducible data science, how hard can it be?’](https://open.spotify.com/episode/1OVxFUA5UyIfMSCd842wjD?si=tEhJzufDROmOqsvJHsUPuw)
 - [Best practices for writing reproducible code](https://bvreede.github.io/presentations/presentations/2020-09-17_BestPractices-lecture.html#1) (slides by Barbara Vreede)
-- [Lisa deBruine has written a short guide](https://debruine.github.io/data-code-tips/) for authors that want to **share their code in a computationally reproducible way**. 
+- [Lisa deBruine has written a short guide](https://debruine.github.io/data-code-tips/) for authors that want to **share their code in a computationally reproducible way**.
+- Read a blogpost on [Keeping science reproducible in a world of custom code and data](https://arstechnica.com/science/2021/11/keeping-science-reproducible-in-a-world-of-custom-code-and-data/)
+- **Physical samples** also play a role in reproducibility: [Organize your –80 °C freezer to save time and prevent frozen fingertips](https://www.nature.com/articles/d41586-024-00031-w). 
+- Check out community-developed checklists for **publishing images and image analyses** by [Schmied et al. 2023](https://doi.org/10.1038/s41592-023-01987-9).
+- Try out [Surge: a fast open-source chemical graph generator](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00604-9)!
   
 # Open Methods
 - PLOS ONE introduced two new publication formats: [Lab Protocols and Study Protocols!](https://theplosblog.plos.org/2021/02/submit-your-lab-and-study-protocols-plos-one/)
