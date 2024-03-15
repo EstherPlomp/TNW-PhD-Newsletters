@@ -404,9 +404,27 @@ Learn more about **licenses for publications and data**: Watch some short videos
 
 Or read more about [data licenses on The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html).
 
-# Integrity
-- [Recordings of the National Symposium on Research Integrity 2020](http://www.nsri2020.nl/symposium)
-- Podcast: [How to self-correct science](http://www.juiceandsqueeze.net/17)
+# Research Integrity
+* Read [PNAS is Not a Good Journal]( https://getsyeducated.substack.com/p/pnas-is-not-a-good-journal) or check out this [Elsevier comic](https://scholar.social/@kavana/109427309591841051).
+* Learn more about **research integrity** via webinars and conference recordings: 
+    *	[Recordings of the National Symposium on Research Integrity 2020](http://www.nsri2020.nl/symposium)
+    *	[Trust: What does it mean and how can we build it?](https://www.youtube.com/watch?v=pS1bg6DHpi0&t=856s)
+    *	The UK Research Integrity Office (UKRIO) hosts regular webinars on Research Integrity with [recordings available on YouTube](https://www.youtube.com/@UKResearchIntegrityOffice/videos).
+    *	[What is Research Integrity?](https://vimeo.com/557331797)
+    *	[Sexual harassment and assault in Astronomy and Physics](https://www.youtube.com/watch?v=8DNRBa39Iig)
+    *	[Research Integrity @ MTU recordings](https://sword.cit.ie/rimtu/2022/)
+    *	[Addressing Global Power Asymmetries through Responsible Research](https://www.youtube.com/watch?v=URFfFsfKW7I)
+* Read up on how a [Prominent nanoscientist retracts paper after PhD students flagged error](https://retractionwatch.com/2023/05/09/prominent-nanoscientist-has-paper-retracted-after-phd-students-flagged-error/)
+* Listen to **podcasts** on research integrity:
+    * [Fostering research integrity through fairness and equity]( https://open.spotify.com/episode/0hqdk00inPAo9yF0UrTLsH?si=4af4bdf188d84556)
+    * [Science is political - and that's a bad thing](https://www.sciencefictions.org/p/science-is-political-audio#details)
+    * [Integrity with Prof. Emily Sena](https://open.spotify.com/episode/38ZAv08GRcgNrhDzjOq3tt?si=1f53aeaac1454e31) (content starts after 14 minutes)
+    * [How to self-correct science](http://www.juiceandsqueeze.net/17)
+* Ensure your **citation practices are more inclusive**! 
+    * The [FEM/UM Citation Guide](https://library.maastrichtuniversity.nl/news/fem-um-citation-guide-overcoming-bias-in-citation-practice) explains how women and other underrepresented groups can become more visible in science through citation practices. 
+    * [Balanced citer](https://github.com/mb3152/balanced_citer) allow you to perform statistical analyses using Python to investigate the equality in gender and race of the first and last authors in your reference list.
+    * Watch a [10-minute mini-module on diversifying citations](https://spsp.org/professional-development/learning-online/disrupting-racism-and-eurocentrism-methods-and-practices) (the mini-module starts at 1:00:20).
+You'll also learn about positionality statements! 
 
 # PhD things
 - [PhD Balance](https://www.phdbalance.com/)
