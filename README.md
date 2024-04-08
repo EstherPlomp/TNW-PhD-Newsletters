@@ -352,7 +352,11 @@ Or check which articles/authors you're citing!
 - Check the [**Open Reviewers Review Guide**](https://doi.org/10.5281/zenodo.5484087). 
 Pages 28-31 provide insights about what a reviewer would look for when evaluating your manuscript.
 - Read some [reflections on **reviewing in the publishing system**](http://neural-reckoning.org/reviewing.html).
-
+- TU Delft Library organised an event on [Peer review: Peer Review under Pressure: how do we ensure research publications are of high quality?](https://www.youtube.com/watch?v=tuoGfpOToHk) 
+Watch the recording to discover more!
+- Read up on [The rise and fall of peer review](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review).
+- Listen to Chris Chambers discussing [new forms of publication and revision](https://www.youtube.com/watch?v=jld4olGa0gg).
+- Read up on [how to write concisely](https://hbr.org/2022/06/how-to-write-concisely) for any writing, including peer reviews.
 
 # Writing
 - The [PubReCheck tool](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/PubReCheck/#/) can identify some issues with your text
