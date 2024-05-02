@@ -73,6 +73,7 @@ Or if you’re working with any **clinical data**: ‘[Open Data and Data Manage
         - See **[Coach View](https://tudelftgs.opleidingsportaal.nl/en-us/)** for future workshop dates and times
     - **TU Delft Digital Competence Center**: Learn more about what [type of data/code support the DCC offers on their website](https://dcc.tudelft.nl/) 
     - [Code Refinery](https://coderefinery.org/)
+    - TU Delft [R Cafés](https://delft-rcafe.github.io/home/)
     - [**TU Delft Software Policy and guidelines**](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies)   
         - **Why a research software policy?** The new workflow is an improvement as you don't have to ask the Valorisation Center permission to publish your software through a disclosure form, as long as you follow the workflow.
         - **How to follow the workflow?** A super concise summary is to share your code/software through [4TU.ResearchData](https://data.4tu.nl/info/en/) choosing one of the TU Delft approved licenses (Apache, MIT, BSD, EUPL, AGPL, LGPL, GPL, CC0)
@@ -113,6 +114,11 @@ If you have external collaborators in a project, GitHub is a better solution.
   * Example [video of how to structure your code](https://www.youtube.com/watch?v=EQIOyF2oots) by Anton Akhmerov
   * Slides with [15 tips to write better analytic code](https://doi.org/10.6084/m9.figshare.13362740.v1) by Francisco Rodriguez-Sanchez
   * Read up on [Why **comment** your code as little (and as well) as possible](https://blog.r-hub.io/2023/01/26/code-comments-self-explaining-code/).
+- Start with writing **clean code** by reading up on some blogs:
+    -	[Writing code for your future self](https://dev.to/sunnysingh/writing-code-for-your-future-self-3da2)
+    -	[How to Set Your Future Self Up for Success with Good Coding Habits](https://www.freecodecamp.org/news/set-future-you-up-for-success-with-good-coding-habits/)
+    -	[Coding and Comment Style]( https://mitcommlab.mit.edu/broad/commkit/coding-and-comment-style/) 
+- **Bugs**: Check out [how to avoid them](https://www.nature.com/nature-index/news/three-ways-researchers-science-can-avoid-common-programming-bugs-errors) and [how to fix them](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/).
 - **Software quality checklist**
     - [Software Sustainability Institute checklist](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform) (it is a google form)
     - [Core Infrastructure Initiative](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform)
@@ -129,30 +135,28 @@ If you have external collaborators in a project, GitHub is a better solution.
     - You can also implement GitHub Actions to check for errors in your data processing and cleaning: see [Kim et al. 2022](https://doi.org/10.1111/2041-210X.13982) for more details.
 - You can check out a webinar on [Practicals: Scientific software engineering principles](https://www.youtube.com/watch?v=KTjgTj6k5kE), where the first talk focuses on **version control** and the last one on **testing**.
 - For more resources on **testing**, check out another webinar on [Software Testing in Open Source and Data Science (Eric Ma)](https://www.youtube.com/watch?v=bJGgVoV4GTc).
-- Vlog on [how to start with code sharing](https://www.youtube.com/watch?v=u7h0A-KvWls&). 
-- [Sharing brain MRI data/code](https://www.youtube.com/watch?v=28XzdqbGKoE&feature=youtu.be)
 - ‘[Science as Amateur Software Development](https://youtu.be/zwRdO9_GGhY)’
 - Learn how to improve your **software management** from [The Good Research Code Handbook](https://goodresearch.dev/index.html).
 - Felienne Hermans wrote [The Programmer's Brain](https://www.universiteitleiden.nl/en/research/research-output/science/the-programmers-brain).
-- Recordings from previous Collaboration Workshops by the Software Sustainability Insitute are available on their [YouTube channel](https://www.youtube.com/c/SoftwareSaved/playlists)
-- The [videos of the **2020 Essential Open Source Software for Science conference** are available on YouTube](https://www.youtube.com/watch?v=h6OkCbEd1AE&list=PLilvrWT8aLuZgAIJ7rq3-hhw_M5Z1yV4l). 
-See for example the [demo on Imaging & Microscopy](https://youtu.be/0FjKkTJO0Rc). 
 - **[GitHub added built-in citation support]**! 
 The only thing you have to do is create a CITATION.cff file in your repository, which will provide you with an example template that you can fill in in two minutes. 
 [Link your GitHub repository to Zenodo](https://guides.github.com/activities/citable-code/) or [4TU.ResearchData](https://researchdata.4tu.nl/en/) to make your software citable and add the DOI to the citation file! 
 - **Sharing your code/software**:
     - Need some more help on **how to make your project publicly available**? 
-Watch [this short video by Dr. Barbara Vreede on sharing your project](https://www.youtube.com/watch?v=Y-WUOkqTBNE) or learn more about [software containers](https://www.youtube.com/watch?v=HelrQnm3v4g).
+Watch [this short video by Dr. Barbara Vreede on sharing your project](https://www.youtube.com/watch?v=Y-WUOkqTBNE).
     - Doubting whether your **software is ready to be published** in the Journal of Open Source Software? 
 [Read a blogpost about to know for sure](http://pdebuyl.be/blog/2021/joss-ready.html). 
-    - [How can **software containers** help your research?](https://www.youtube.com/watch?v=HelrQnm3v4g)
+    - [Sharing brain MRI data/code](https://www.youtube.com/watch?v=28XzdqbGKoE&feature=youtu.be)
+    - Vlog on [how to start with code sharing](https://www.youtube.com/watch?v=u7h0A-KvWls&). 
     - **Why share your code?**
 [Read some reflections from the social sciences](https://www.ncrm.ac.uk/news/show.php?article=5705) that are widely applicable.
     - [Top ten reasons to not **share your code** (and why you should anyway)](https://sinews.siam.org/Details-Page/top-ten-reasons-to-not-share-your-code-and-why-you-should-anyway)
     - [Krafczyk et al. 2021](https://doi.org/10.1098/rsta.2020.0069) share some helpful **recommendations on how you can share your software** (pages 5-11).
     - Read up on **reproducible and FAIR software** via a [blogpost by Peter Kalverla](https://blog.esciencecenter.nl/6-months-of-escience-6-lessons-worth-sharing-4fc925a1e376).
     - [GitHub](https://github.com/) is a great platform to share software but it won’t **preserve your code for the long term** (for example, GitHub changed github.com to github.io, resulting in a lot of broken links). 
-Instead, you can preserve a snapshot of your code on either [Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) or [4TU.ResearchData (Connecting your GitHub/GitLab account)](https://data.4tu.nl/info/en/about-your-data/getting-started). 
+Instead, you can preserve a snapshot of your code on either [Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) or [4TU.ResearchData (Connecting your GitHub/GitLab account)](https://data.4tu.nl/info/en/about-your-data/getting-started).
+    - [Best Practices for Writing Reproducible Code](https://utrechtuniversity.github.io/workshop-computational-reproducibility/) by Utrecht University!
+    - The Research Data Management 101 course had some additions for **[software sharing]( https://estherplomp.github.io/TNW-RDM-101/10-Realising-FAIR-Publication.html#software-sharing)**.
     - You may be asked to share your code by **peer reviewers**! 
         - [Read this blogpost on how peer review of software can improve the quality of your work]( https://ropensci.org/blog/2019/04/18/wild-standards/)
         - Learn more about **code review** in a [webinar by Lisa DeBruine](https://www.youtube.com/watch?v=w056yEMyJnE)
@@ -168,18 +172,32 @@ See for example the workshop on [software design and sustainability](https://www
     - The **CopyLeft conference from 2020** has some older but still relevant recordings on [The Rising Ethical Storm In Open Source – Coraline Ada Ehmke](https://archive.org/details/copyleftconf2020-ehmke) and [Collaborative Authorship Models in Open Source – Dashiell Renaud](https://archive.org/details/copyleftconf2020-renaud).
     - The **NORM conference** has interesting talks on **[data visualistion](https://www.youtube.com/watch?v=MzaOivVxU8M)**, [invisible work](https://www.youtube.com/watch?v=HiF83i1OLOM), **[file naming](https://www.youtube.com/watch?v=ES1LTlnpLMk)**, [Excel hotkeys](https://youtu.be/HF0F4H8BNsE), [Docker](https://youtu.be/kx-SeGbkNPU), [Data is the new coffee]( https://youtu.be/GrQcVU-eapc), and [how to stop crying when using **Matplotlib**](https://youtu.be/vjQIaepijbE).
     - Watch Margaret Mitchell's [PyCon2023 keynote](https://www.youtube.com/watch?v=urBrxQ4e8WY&t=90s) on **biases and ethics in machine learning**.
+    - **Distribits 2024**: see the talk by [Julia Thönnißen: Balancing Efficiency and Standardization for a Microscopic Image Repository on HPC](https://www.youtube.com/watch?v=lYAZN9c4WvA&list=PLEQHbPfpVqU6esVrgqjfYybY394XD2qf2&index=7), using tools such as datalad and rsync.
+    - **Collaboration Workshops by the Software Sustainability Insitute** recordings are available on their [YouTube channel](https://www.youtube.com/c/SoftwareSaved/playlists)
+    - The [videos of the **2020 Essential Open Source Software for Science conference** are available on YouTube](https://www.youtube.com/watch?v=h6OkCbEd1AE&list=PLilvrWT8aLuZgAIJ7rq3-hhw_M5Z1yV4l). 
+See for example the [demo on Imaging & Microscopy](https://youtu.be/0FjKkTJO0Rc). 
 - **Open-Source Tools for Chemists** workshop recordings are available on [YouTube](https://www.youtube.com/playlist?list=PLBQwbn0mPhvWfOx6ce_vUjr54ftLBmSH0).
     - See for example: [DataWarrior](https://www.youtube.com/watch?v=Is2hLqqSFvM); [PyMOL](https://www.youtube.com/watch?v=qOxS2wqajdg); [GoogleCoLab](https://www.youtube.com/watch?v=KEIpJ50Jc0w); [CheMBL](https://www.youtube.com/watch?v=zpzJutFTtL4); [Fragalysis](https://www.youtube.com/watch?v=LVWd50CgU4g); [Knime](https://www.youtube.com/watch?v=lP0Yh6kKNsA)
 
-- **Docker**
-     - [Start using Docker](https://blog.datasciencedojo.com/data-science-with-docker-containers/) 
-     - [Ensure that what you share with Docker becomes citable](https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi)
+-	It is important to document the **dependencies and workflow for your software** to allow others to reproduce your results (or for you to use your software on a different computer :)). You can list dependencies in a text file, or use more advanced tools: 
+    -	[Conda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html) (Python) or [renv](https://rstudio.github.io/renv/articles/renv.html) (R): a package/environment management system. 
+    -	[myBinder]( https://mybinder.readthedocs.io/en/latest/introduction.html): online service to make your repositories interactive and executable.
+    -	[Docker](https://docker-curriculum.com/): containerisation platform that allows you to package, distribute, and reproduce software and experiments in a consistent and portable way. 
+        -	See [Setting a Dockerized Python Development Environment Template](https://medium.com/@rami.krispin/setting-a-dockerized-python-development-environment-template-de2400c4812b)
+        -	See also some [slides on Docker for Reproducible Research](https://osf.io/zm9qn ) by Philipp Zumstein
+        -	[Start using Docker](https://blog.datasciencedojo.com/data-science-with-docker-containers/) 
+        -   [Ensure that what you share with Docker becomes citable](https://www.software.ac.uk/blog/2016-09-12-reproducible-research-citing-your-execution-environment-using-docker-and-doi)
+    -	[Snakemake](https://snakemake.github.io/): workflow management system for creating and executing reproducible data analysis pipelines ([Mölder et al. 2021](https://doi.org/10.12688/f1000research.29032.2)).
+    -	See also [Secrets and environments](https://www.software.ac.uk/blog/research-software-security-snippets-2) to **prevent accidental sharing of information**!
+    -   [How can **software containers** help your research?](https://www.youtube.com/watch?v=HelrQnm3v4g)
+    -   learn more about [software containers](https://www.youtube.com/watch?v=HelrQnm3v4g).
 - **Python**
     - [Sign up for Tony Hirst’s newsletter](http://tinyletter.com/TrackingJupyter). 
     - [Practical Python course](https://dabeaz-course.github.io/practical-python/)
     - [Recordings from SciPy 2020](https://www.youtube.com/channel/UCkhm72fuzkS9fYGlGpEmj7A)
       - See [talk on Frictionless Data](https://www.youtube.com/watch?v=vZAi4OnfH-Q) that introduces some tools to document your data more systematically and check your tabular data. 
     - The [European Python Conference](https://www.youtube.com/user/PythonItalia) took place in July, and had some presentations on using Python to manage your projects: [‘Python table manners’](https://speakerdeck.com/leew/python-table-manners-cut-the-cookie-gracefully-at-euro-python-2020) and [‘Scientific Python Cookiecutter’](https://nsls-ii.github.io/scientific-python-cookiecutter/preliminaries.html)
+    -  [Python for Scientific Computing 2023](https://scicomp.aalto.fi/training/scip/python-for-scicomp-2023/): See the [materials](https://aaltoscicomp.github.io/python-for-scicomp/ ) or specific videos on [visualisation](https://www.youtube.com/watch?v=tGdBLwNkB1Q&list=PLZLVmS9rf3nNI3oQEqSJW6yXltOAZnkpa&index=9), [data formats](https://www.youtube.com/watch?v=wT2m5wYOsWY&list=PLZLVmS9rf3nNI3oQEqSJW6yXltOAZnkpa&index=9&pp=iAQB), [productivity tools](https://www.youtube.com/watch?v=vSqSz3B9u5Q&list=PLZLVmS9rf3nNI3oQEqSJW6yXltOAZnkpa&index=11), [dependencies](https://www.youtube.com/watch?v=4MrZMSPUFG8&list=PLZLVmS9rf3nNI3oQEqSJW6yXltOAZnkpa&index=14&pp=iAQB), [parallel computing](https://www.youtube.com/watch?v=KnaxsAFPhk0&list=PLZLVmS9rf3nNI3oQEqSJW6yXltOAZnkpa&index=18), and [packaging](https://www.youtube.com/watch?v=SFo7pChFtVs&list=PLZLVmS9rf3nNI3oQEqSJW6yXltOAZnkpa&index=19).
     - '[Data Science in Python beginner course](https://github.com/semacu/data-science-python)’ 
     - Use emojis in Python: pip install emoji.
     - Python libraries: [SMOP, a Matlab to Python compiler](https://github.com/victorlei/smop) and [spec2vec](https://github.com/iomega/spec2vec) for mass spectrometry data. 
@@ -208,7 +226,8 @@ See for example [Present like a pro! by Katie McLaughlin](https://www.youtube.co
     - [Check out some options you have](https://learn.scientific-python.org/development/guides/style/) to check your Python **code style**.
     - Get started with [Sphinx ](https://www.sphinx-doc.org/en/master/) improve your **documentation** practices. 
     - Or try out Python and **Quarto** to [produce reproducible publications](https://www.youtube.com/watch?v=TnVgHE9LAiw)!
-    - And on a less serious note, listen to a 2 part ‘ interview’ with a Senior Python Developer: [Part 1](https://www.youtube.com/watch?v=BgxklT94W0I), [Part 2](https://www.youtube.com/watch?v=xyrgkui0uCA). 
+    - And on a less serious note, listen to a 2 part ‘ interview’ with a Senior Python Developer: [Part 1](https://www.youtube.com/watch?v=BgxklT94W0I), [Part 2](https://www.youtube.com/watch?v=xyrgkui0uCA).
+    - Read up on why you should [make your Python code more modular](https://blog.esciencecenter.nl/dynamic-types-static-types-oh-my-py-25c9743b72c4).
 - **R**
     -  [Delft RCafe resources](https://github.com/Delft-RCafe/resources/blob/gh-pages/index.md)
     -  UseR! 2020 presentations are available on the [useR! YouTube channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)
@@ -219,10 +238,13 @@ See for example [Present like a pro! by Katie McLaughlin](https://www.youtube.co
     - Short [podcast on using **Git/GitHub** (and R)](https://intertidal.agency/intertidal-podcast/2020/9/14/9-using-git-to-drive-better-science-with-dr-julie-lowndes), with nice resources to get started
     - [15 minute video on the R Package WORCS, Workflow for Open Reproducible Code in Science (WORCS)](https://www.youtube.com/watch?v=uzjpN_yFeUU)
     - ‘[R for Excel users](https://education.rstudio.com/blog/2020/02/conf20-r-excel/)’ course
+    - Read a blogpost on [Beautiful Code, Because We’re Worth It]( https://ropensci.org/blog/2024/02/22/beautiful-code/)
 - **Quarto**
     - [Quarto offers a myriad of features that are especially useful for academics](https://quarto.org/docs/blog/posts/2023-05-22-quarto-for-academics).
 - Not sure what a **Research Software Engineer** is? Listen to [Hello PhD podcast](https://hellophd.com/2022/03/172-research-software-engineer/) to learn more (7.40 – 40.00 for the interview with a Research Software Engineer). 
 - Need help picking a **data notebook** for your next project? [Data Science Notebooks](https://datasciencenotebook.org/) compares the features in different data science notebook tools.
+- Check out [this intermediate level crash course]( https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bd24ae15-26a1-40d0-a511-adc001029e3e) on **management of software projects** (for software that is beyond just an analysis script and is more a tool on itself!) 
+- Check if your repositories are included in Hugging Face’s [The Stack](https://huggingface.co/spaces/bigcode/in-the-stack).
  
 # Reproducibility
 - Read a chapter about ‘[Reproducible Bioinformatics Research for Biologists](https://osf.io/zqbu2)’ (for anyone with more wetlab experience than programming!)
