@@ -353,8 +353,15 @@ This format allows for live code, data and interactive figures next to your manu
 - Note that **publishing Open Access does not have to be expensive** – for example: [SciPost](https://scipost.org/) and [Peer Community In](https://www.youtube.com/watch?v=8MKpImtupHI) allow you to do this without costs to you. TU Delft also has deals with several journals which you can check in the [journal browser](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser). 
 - Read more about [how to choose an open venue for your article]( https://www.linkedin.com/pulse/three-tips-choose-publishing-venue-using-directory-open-chiarelli/).
 - Learn more about **how we’re going to get to ethical publishing** from Fernando Racimo in a [PCI Webinar](https://www.youtube.com/watch?v=TzLgGSNq0Wk). 
-
-
+- [Watch a talk by Prof. Vincent Larivière](https://youtu.be/KlGpQ-YKr-g?feature=shared&t=151) on **issues with academic publishing, open access and preprints**.
+- Watch a range of talks on [what to do with the academic publishing system](https://www.youtube.com/watch?v=XmttiQnlJfw) (particularly the first two talks and the last presentation), talking about the **evolution of scholarly publishing, diamond open access** (free to read and publish), and **retaining academic publishing within our institutes**. 
+- Learn about **opening up the publication process** by watching a [talk by Monica Granados](https://www.youtube.com/watch?v=34Ip-c8ROpk&t=1680s) (28 -49 minutes in).
+- Read up on [why ‘Nature’ is prestigious](https://etiennefd.substack.com/p/why-is-nature-prestigious) or learn about [the cost of Elsevier](https://telescoper.blog/2023/03/08/the-cost-of-elsevier/).
+- Check-out an [overview of mass resignations of editors from scholarly journals]( https://retractionwatch.com/the-retraction-watch-mass-resignations-list/) due to disagreement with publishers on Retraction Watch.
+- Are [academic publishers the original enshittificationists](https://medium.com/@m.b.wall/academic-publishers-the-original-enshittificationists-62f8b1f9544c)?
+- Checkout a [guidance document](https://doi.org/10.31219/osf.io/2c48n) on **Generative AI and Research Integrity** by Mark Dingemanse from Radboud University. 
+- Read up on [Self-Censorship and the Cult of Productivity in Academic Research](http://www.johannesjaeger.eu/blog/self-censorship-and-the-cult-of-productivity-in-academic-research).
+- Johnny Coates asks: [What’s wrong with academia?](https://medium.com/@jonathon.a.coates/whats-wrong-with-academia-9d5c8efdec94)
 
 # Preprints
 - [Watch a crash course](https://elifesciences.org/inside-elife/8df4a59d/webinar-report-the-history-of-science-publishing) in the history of publishing and sharing your research through a preprint as an act of resistance to the publication pressures.
@@ -497,6 +504,16 @@ You'll also learn about positionality statements!
 - **Burn out**
     - Watch '[How To Stop **Burnout** In Its Tracks With Özgün Ünver](https://www.youtube.com/watch?v=RsxM--V4mtc)'
 - PhD times can be tough! [Be compassionate to yourself, and you can make it through](https://voicesofacademia.com/2022/03/11/what-does-self-care-really-mean-by-jessie-shepherd/).
+- PNN has set up an overview of **where to find support as a PhD candidate**! 
+The [PhD support compass](https://hetpnn.nl/kennisbank/phd-support-compass/) allows you to find support such as the mentor program and PhD councils.
+- Checkout the **Grad Coach** [YouTube Channel]( https://www.youtube.com/channel/UCHac4-z13FBSD-ue8Jt40Eg) for loads of videos on research related topics. 
+- [Ten simple rules](https://doi.org/10.1371/journal.pcbi.1010673) for how you can help **make your lab a better place** as a graduate student or postdoc.
+- **Failing** is a key part of research – watch a [talk about failures by Veronika Cheplygina](https://www.youtube.com/watch?v=oXWrPnMp0-Y&list=PLVso6Qs8PLCilHWqKcT8kN-Sxdu3JRUPc&index=6).
+- Listen to a [podcast from PhD Talk](https://open.spotify.com/episode/12Yy5WpCfKCZw8ONM8Rvyh?si=b25d2100725640d1) on **Supervision relationships**, where they highlight that you should also discuss your progress in meetings with your supervisor, not just the content. 
+You don’t want to end up [taking 7 years to finish your PhD](https://intranet.tudelft.nl/-/personal-perspectives-on-phd-in-4-an-interview-with-esther-plomp)!
+- If you **identify as nonbinary**, join the [International Society of Nonbinary Scientists](https://isnbs.org/join/).
+- Read up on some considerations on [letting go of authorship when moving to a position in industry](https://science-latte.com/2022/05/23/i-voluntarily-gave-up-authorship/) **after the PhD**. 
+- Read up on [Antidotes to cynicism creep in academia](https://eiko-fried.com/antidotes-to-cynicism-creep/).
 
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
