@@ -323,14 +323,16 @@ Highlights are the keynote by Ashley Jane Lewis ([starting at 5.47](https://yout
 - What can you do to **work more openly**? Read [this blogpost]( https://blog.scholasticahq.com/post/oa-leaders-advancing-boai-part-2/ ), especially the part by Dr. Mark C. Wilson who is offering some practical tips (scroll down a bit). 
 - Check out the [**Open Science Top Ten Tools**](https://genr.eu/wp/open-science-top-ten-tools-all-open-source/)! 
 - The US recently released an announcement that **US funded research should be immediately accessible to the public**, similar to policies that Dutch institutes and NWO already implemented. 
-Watch [this short announcement video by Dr. Glaucomflecken](https://www.youtube.com/watch?v=GJdR96MosXo). 
+Watch [this short announcement video by Dr. Glaucomflecken](https://www.youtube.com/watch?v=GJdR96MosXo).
+* Checkout a video on [Research Assessment at EMBL](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=65557982-c2a0-4bc3-a1df-b08900f23f94&start=0).
 
 # Open Publishing
 - [Registered Reports](https://cos.io/rr/)
 - Webinar: ['How to get published and best practice for open research'](https://codata.org/initiatives/data-skills/codata-connect/webinar-series-research-skills/webinar-5-how-to-get-published-and-best-practice-for-open-research/)
 - [SciPost](https://scipost.org/)
-- Using [Sci-Hub](https://sci-hub.tw/) to obtain access to paywalled articles is effective but actually illegal. 
-Please consider using the [Unpaywall plugin](https://unpaywall.org/products/extension) for Firefox and Chrome to access these articles. 
+- Using [Sci-Hub](https://sci-hub.tw/) or [Anna’s Archive](https://libgen.onl/annas-archive-ebooks/) to obtain access to paywalled articles is effective but actually illegal. 
+Please consider using the [Unpaywall plugin](https://unpaywall.org/products/extension) for Firefox and Chrome to access these articles.
+You can also check out a blogpost on [Ten ways to find Open Access articles](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html).
 - eLife released a **new article format**: [Executable Research Article](https://elifesciences.org/labs/dc5acbde/welcome-to-a-new-era-of-reproducible-publishing). 
 This format allows for live code, data and interactive figures next to your manuscript.
 - To avoid publishing with **predatory publishers** check out the checklists for [books](https://thinkchecksubmit.org/books-and-chapters/) and [journals](https://thinkchecksubmit.org/journals/) from [Think, check, submit](https://thinkchecksubmit.org/).
@@ -426,7 +428,14 @@ You may also want to read: ‘[Why scientific journal authorship practices make 
 - Watch a RIOT talk on ‘[Reimagining scientific publishing](https://www.youtube.com/watch?v=0AX2vNMsX98)’
 - The [HemingWay Editor](https://hemingwayapp.com/) allows you to check if your sentences are **written clearly**. 
 - [Lex](https://lex.page) is a **new word processor with AI assistance** to help you to write. 
-
+- Read up on some [tips for scientific writing]( https://kucharski.substack.com/p/some-tips-for-scientific-writing) to **improve your writing**.
+- Is **English** not your first language? 
+Checkout a [Primer for the Non-English Speaker]( https://www.openbookpublishers.com/books/10.11647/obp.0235).
+- Received a **rejection** and trying to resubmit? 
+You could also try to [reject a rejections]( https://clauswilke.com/blog/2017/01/02/how-to-reject-a-rejection/).
+- Learn more about [tikz](https://github.com/ctesta01/tikz-examples) for **LaTeX** to set up math diagrams.
+- Check out a [guide to write abstracts](https://blogs.lse.ac.uk/impactofsocialsciences/2011/06/20/essential-guide-writing-good-abstracts/) to make sure that your **abstract** covers your research article well.
+- Watch a short video on [How to Write Better **Emails** at Work](https://www.youtube.com/watch?v=1XctnF7C74s).
 
 
 # Copyright
