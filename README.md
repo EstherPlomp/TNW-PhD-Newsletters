@@ -273,7 +273,9 @@ See for example [Present like a pro! by Katie McLaughlin](https://www.youtube.co
 - **Physical samples** also play a role in reproducibility: [Organize your –80 °C freezer to save time and prevent frozen fingertips](https://www.nature.com/articles/d41586-024-00031-w). 
 - Check out community-developed checklists for **publishing images and image analyses** by [Schmied et al. 2023](https://doi.org/10.1038/s41592-023-01987-9).
 - Try out [Surge: a fast open-source chemical graph generator](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00604-9)!
-  
+- Thanks to Sabrina Meindlhumer for sharing [Pixi: a package manager](https://prefix.dev/blog/pixi_for_scientists) for reproducible scientific workflows
+
+ 
 # Open Methods
 - PLOS ONE introduced two new publication formats: [Lab Protocols and Study Protocols!](https://theplosblog.plos.org/2021/02/submit-your-lab-and-study-protocols-plos-one/)
 - Did your recent experiment fail? 
@@ -437,7 +439,18 @@ You could also try to [reject a rejections]( https://clauswilke.com/blog/2017/01
 - Check out a [guide to write abstracts](https://blogs.lse.ac.uk/impactofsocialsciences/2011/06/20/essential-guide-writing-good-abstracts/) to make sure that your **abstract** covers your research article well.
 - Watch a short video on [How to Write Better **Emails** at Work](https://www.youtube.com/watch?v=1XctnF7C74s).
 
+# Presentations and Posters
+* Watch a short video on [how to win the crowd]( https://www.youtube.com/watch?v=cFGvIxtnhjw) or a longer one on [Remote Presentations]( https://www.youtube.com/watch?v=ogmrCGTdpJI) from the [DataGrillen channel](https://www.youtube.com/@DataGrillen).
+* [Scientific presentations: A cheat sheet](https://blogs.nature.com/naturejobs/2017/01/11/scientific-presentations-a-cheat-sheet/).
+* How to share your slides, [an 18 step guide by Jeroen Bosman](https://docs.google.com/spreadsheets/d/1kxBq6cHxD_jCRpkD4hwZ3UWe6G6rIwyHlskVerD6490/edit).
+* You can use [shortDOI](https://shortdoi.org/) to cite references on your slides.
+* Check out some [slides on basic graphic design for science posters/presentations](https://drive.google.com/file/d/1uElb41sz_cnerz0PEtYh5VB0jl1pPHQp/view?pli=1) .
+* Read a blogpost on [How do you make your first scientific poster?](https://www.sciencegraphicdesign.com/blog/how-do-you-make-your-first-scientific-poster)
+* Make sure your presentations and posters are **accessible**: read a [blogpost](https://kiramccabe.com/blog/2018/3/30/posters-talks-can-you-read-me-now), checkout [slides on writing alt-text for data visualisations](https://lizharedogs.github.io/RLadiesNYAltText/#1), or learn more about [accessible colourschemes](https://personal.sron.nl/~pault/). 
+* Learn more about ‘[How to give a terrible presentation](https://www.youtube.com/watch?v=J4vE_8kzGlw)’ by Moore Library.
+* Or read up on [why lectures are like dates](https://www.nature.com/articles/d41586-022-01798-6)!
 
+  
 # Copyright
 Learn more about **licenses for publications and data**: Watch some short videos that:
 - [Provide insights into the copyright agreement signing during the publishing process](https://www.youtube.com/watch?v=dx71U3u--qU).
