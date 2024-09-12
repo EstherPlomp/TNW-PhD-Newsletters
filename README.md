@@ -327,6 +327,8 @@ Highlights are the keynote by Ashley Jane Lewis ([starting at 5.47](https://yout
 - The US recently released an announcement that **US funded research should be immediately accessible to the public**, similar to policies that Dutch institutes and NWO already implemented. 
 Watch [this short announcement video by Dr. Glaucomflecken](https://www.youtube.com/watch?v=GJdR96MosXo).
 * Checkout a video on [Research Assessment at EMBL](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=65557982-c2a0-4bc3-a1df-b08900f23f94&start=0).
+* Read up on [why joining an Open Science community would be beneficial to you](https://ecrlife.org/ecrs-and-scientific-communities/).
+* Read how a PhD candidate [learned how to embrace **Open Science**](https://www.science.org/content/article/how-i-learned-embrace-open-science).
 
 # Open Publishing
 - [Registered Reports](https://cos.io/rr/)
@@ -366,6 +368,14 @@ This format allows for live code, data and interactive figures next to your manu
 - Checkout a [guidance document](https://doi.org/10.31219/osf.io/2c48n) on **Generative AI and Research Integrity** by Mark Dingemanse from Radboud University. 
 - Read up on [Self-Censorship and the Cult of Productivity in Academic Research](http://www.johannesjaeger.eu/blog/self-censorship-and-the-cult-of-productivity-in-academic-research).
 - Johnny Coates asks: [What’s wrong with academia?](https://medium.com/@jonathon.a.coates/whats-wrong-with-academia-9d5c8efdec94)
+- [More is not better: the developing crisis of scientific publishing](https://council.science/blog/more-is-not-better-the-developing-crisis-of-scientific-publishing/).
+- Should you **preprint** your work? [Read a case study about this](https://www.medpagetoday.com/opinion/faustfiles/110936), or some general motivations about [Why you should preprint your next paper](https://elifesciences.org/inside-elife/85d36b45/open-science-why-you-should-preprint-your-next-paper).
+- Once you do preprint your work, [Collaborative **Peer Review** Can Transform Scientific Research](https://content.prereview.org/how-collaborative-peer-review-can-transform-scientific-research/).
+Open Science also [increases the transparency of the review process, especially if combined with open peer review](https://www.ucpress.edu/blog-posts/60337-peer-review-week-2022-an-interview-with-collabra-psychologys-eiko-fried). 
+- [Sharing is Caring: But How to Distribute **Open Hardware**?](https://blog.addgene.org/sharing-is-caring-but-how-to-distribute-open-hardware)
+- **Negative results** also [deserve to be published](https://www.tue.nl/en/news-and-events/news-overview/24-06-2024-even-negative-research-findings-deserve-to-be-published-others-can-learn-from-them)! 
+- Transparancy in research also means **transparency about positionality**: Learn more about this from a [Lightening Talk on Positionality Statements](https://www.youtube.com/watch?v=9FS4ve0M1Ls).
+
 
 # Preprints
 - [Watch a crash course](https://elifesciences.org/inside-elife/8df4a59d/webinar-report-the-history-of-science-publishing) in the history of publishing and sharing your research through a preprint as an act of resistance to the publication pressures.
