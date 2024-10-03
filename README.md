@@ -506,6 +506,7 @@ You'll also learn about positionality statements!
     - [Papa PhD podcast](https://papaphd.com/)
     - [The Academist](http://theacademinist.buzzsprout.com/)
     - [the Scientistt podcast](https://scientistt.net/pages/podcast)
+    - [Podcast episode](https://open.spotify.com/episode/0rjEtBOVHD9QQznjXnlNnh?si=997d48ddd80e4d1e) on **Team Science**.
 - [Blogpost has some tips on staying productive](https://smartsciencecareer.com/corona-career/)
 - [12 min video on how luck plays a large role in success](https://www.youtube.com/watch?v=3LopI4YeC4I)
 - [PhD on track website](https://www.phdontrack.net/) 
@@ -529,7 +530,8 @@ You'll also learn about positionality statements!
 - **Prioritising**
     - [The Guide to Saying No](https://www.deargradstudent.com/episodes/64) (starts at 9:30)
     - [Not overextending ourselves](https://open.spotify.com/episode/2WrDeT1u4XjkANRJz7C5Pm?si=d6d74ea5466d46fb)
-    - [Use one of the 20 templates to say no](https://www.inc.com/jessica-stillman/productivity-meetings-time-management-emails.html) to turn down any opportunities/requests that you don't have time for. 
+    - [Use one of the 20 templates to say no](https://www.inc.com/jessica-stillman/productivity-meetings-time-management-emails.html) to turn down any opportunities/requests that you don't have time for.
+    - [Say no to additional tasks](https://doi.org/10.1111/imcb.12599). 
 - In case you also manually scrolled back in an article every time you want to **look up a reference in an article**, you can use Alt + <- to return to the page you found it! 
 - If you then want to **Get things Done**: 1. Make a focus playlist, 2. Prepare, 3. Prioritize tasks, 4. Work in 90 minute sprints, 5. Batch similar tasks, 6. Eliminate distractions, 7. Relax afterward.
 - Academia is not a calling – it is an “emailing”!
@@ -546,6 +548,12 @@ You don’t want to end up [taking 7 years to finish your PhD](https://intranet.
 - If you **identify as nonbinary**, join the [International Society of Nonbinary Scientists](https://isnbs.org/join/).
 - Read up on some considerations on [letting go of authorship when moving to a position in industry](https://science-latte.com/2022/05/23/i-voluntarily-gave-up-authorship/) **after the PhD**. 
 - Read up on [Antidotes to cynicism creep in academia](https://eiko-fried.com/antidotes-to-cynicism-creep/).
+- - Watch a webinar organised by the Global Young Academy on [Good science needs good **working conditions**](https://www.youtube.com/watch?v=4O-btP-d2YQ). 
+- Read up on [What Does **Self-Care** Really Mean?](https://voicesofacademia.com/2022/03/11/what-does-self-care-really-mean-by-jessie-shepherd/)
+- Read and learn [How to restore **work-life balance** in academia](https://crookedtimber.org/2023/03/13/how-to-restore-work-life-balance-in-academia/).
+- Learn more about giving **feedback** by using the [Westerveld Framework](https://teaching-and-learning-collection.sites.uu.nl/knowledge_item/the-westerveld-framework-for-interprofessional-feedback/).
+- Read [What examiners do: what **thesis** students should know](https://doi.org/10.1080/02602938.2013.859230).
+
 
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
@@ -558,7 +566,8 @@ You don’t want to end up [taking 7 years to finish your PhD](https://intranet.
 - Slack panel on [Trailblazing women in tech](https://slackwomensday.splashthat.com/slackemail).
 - Susanne Täuber was fired this month for writing [an article](https://doi.org/10.1111/joms.12516) on her own experiences to write a **critique of the system**, showcasing how programmes that are intended to help women can actually get in their way. You can [read more about the case](https://ukrant.nl/magazine/susanne-tauber-has-been-fired-if-we-stay-silent-now-the-systems-wins/?lang=en) and how to support Susanne, [listen to a podcast](https://open.spotify.com/episode/4qDHjkRw08bVzmSGmzLpel?si=11ce2e3963284319), or use #AmINext to find posts about this on social media.
 - [Preprint]( https://doi.org/10.31235/osf.io/s5b6j) highlighting the **gender inequality** in ‘cum laude’ for PhD candidates at a Dutch University, where women were ‘almost two times less likely to get a ‘cum laude’ distinction’.
-- Article on [how well intent alone does not address inequity in STEM](https://doi.org/10.3390/educsci13030233).  
+- Article on [how well intent alone does not address inequity in STEM](https://doi.org/10.3390/educsci13030233).
+- [Straight White Male is still the The Lowest Difficulty Setting There Is]( https://whatever.scalzi.com/2012/05/15/straight-white-male-the-lowest-difficulty-setting-there-is/).
 
 # Career
 - [Not everyone will become a PI after their PhD](https://www.nature.com/articles/d41586-022-00875-0), or [wants to become one](https://www.science.org/content/article/i-thought-i-wanted-be-faculty-member-then-i-served-hiring-committee)! 
@@ -580,7 +589,8 @@ Eva mentions **finding your strengths**, which the [StrengthsFinder website](htt
     - Browse through an [overview of **successful grant applications and interviews**](https://github.com/RILAB/statements).
 - **Not sure what to do after your PhD?** 
     - This [interview with Jennifer Polk](https://open.spotify.com/episode/5WXJDQBNiiy42D9IBBHyyd?si=WRXeouhCQy-qk6F7qjb9ZA&dl_branch=1) contains some helpful pointers. 
-    - Listen a [podcast on career uncertainty](https://open.spotify.com/episode/62G37HRzlJypmCLYLU4aex?si=iy22EOj5TZqB8DB0toG1Ww). 
+    - Listen a [podcast on career uncertainty](https://open.spotify.com/episode/62G37HRzlJypmCLYLU4aex?si=iy22EOj5TZqB8DB0toG1Ww).
+    - [PhD Paths](https://www.phdpaths.co/) offers insights on other **career tracks** that are available to you!
     - Do a job search and find 25 jobs that you find interesting. 
     Copy the requirements and group them: focus developing the skills in the top 3-5 mentioned requirements/skills.
 - Read a blog by ERClife on “[Early Career Researchers, take charge and **develop your career**](https://ecrlife.org/early-career-researchers-the-world-is-your-oyster-take-charge-and-develop-your-career-2/)” or by Lizzie Gadd on “[Five steps to healthy research career building](https://drhiddencurriculum.wordpress.com/2022/01/25/five-steps-to-healthy-research-career-building/)”.
