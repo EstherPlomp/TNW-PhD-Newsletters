@@ -330,6 +330,9 @@ Watch [this short announcement video by Dr. Glaucomflecken](https://www.youtube.
 * Read up on [why joining an Open Science community would be beneficial to you](https://ecrlife.org/ecrs-and-scientific-communities/).
 * Read how a PhD candidate [learned how to embrace **Open Science**](https://www.science.org/content/article/how-i-learned-embrace-open-science).
 
+# Open Education
+- [A must watch contribution to the Open Education 2024 conference](https://www.youtube.com/watch?v=9S_a2AX-k4k)
+
 # Open Publishing
 - [Registered Reports](https://cos.io/rr/)
 - Webinar: ['How to get published and best practice for open research'](https://codata.org/initiatives/data-skills/codata-connect/webinar-series-research-skills/webinar-5-how-to-get-published-and-best-practice-for-open-research/)
