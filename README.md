@@ -1,5 +1,5 @@
 # TNW-PhD-Newsletters
-Overview of the newsletters sent to the PhD candidates of TNW by the [Data Steward](https://intranet.tudelft.nl/-/data-stewardship-at-applied-sciences). Below follow resources that have previously been sent out sorted on their main topic. If you're not a TNW/AS candidate you can sign up here: https://forms.gle/ieV5VcGcGbJNMwN89
+Overview of the newsletters sent to the PhD candidates of TNW by the [Data Steward](https://intranet.tudelft.nl/-/data-stewardship-at-applied-sciences). Below follow resources that have previously been sent out sorted on their main topic. 
 
 
 # Data
@@ -463,7 +463,6 @@ You could also try to [reject a rejections]( https://clauswilke.com/blog/2017/01
 * Learn more about ‘[How to give a terrible presentation](https://www.youtube.com/watch?v=J4vE_8kzGlw)’ by Moore Library.
 * Or read up on [why lectures are like dates](https://www.nature.com/articles/d41586-022-01798-6)!
 
-  
 # Copyright
 Learn more about **licenses for publications and data**: Watch some short videos that:
 - [Provide insights into the copyright agreement signing during the publishing process](https://www.youtube.com/watch?v=dx71U3u--qU).
@@ -557,7 +556,6 @@ You don’t want to end up [taking 7 years to finish your PhD](https://intranet.
 - Learn more about giving **feedback** by using the [Westerveld Framework](https://teaching-and-learning-collection.sites.uu.nl/knowledge_item/the-westerveld-framework-for-interprofessional-feedback/).
 - Read [What examiners do: what **thesis** students should know](https://doi.org/10.1080/02602938.2013.859230).
 
-
 # Inclusion / Belonging
 - Tatiana Mac’s [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) and [Save the Tears: White Woman's Guide](https://tatianamac.com/posts/save-the-tears/)
 - documentary [‘The Uprising’](https://www.youtube.com/watch?v=8GjRMQrJ2ig)
@@ -605,7 +603,6 @@ Eva mentions **finding your strengths**, which the [StrengthsFinder website](htt
 - Read up on **salary information** in Europe: [Uncompetitive pay is behind exodus of academics in Italy](https://www.universityworldnews.com/post.php?story=20230321143001600).
 - Read some [Tips for Early Career Academics](https://sites.google.com/view/dvugroup/resources/tips-for-early-career-academics).
 - Read a **postdoc's experience** on [redefining academic success](https://elifesciences.org/articles/83251).
-
 
 # Tools 
 - **Chem4Word** will allow you to draw different kinds of chemical reactions and specifying reactants, products, reaction type with reagents and conditions in Microsoft Word.
